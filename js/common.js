@@ -2,13 +2,13 @@ document.addEventListener("DOMContentLoaded", () => {
     const nav = document.getElementById("main-nav");
     if (nav) {
         nav.innerHTML = `
-        <a href="index.html">Home</a> |
-        <a href="longform.html">Longform</a> |
-        <a href="mulchoice.html">Multiple Choice</a> |
+        <a href="index.html">Home</a><span class="sep">|</span>
+        <a href="longform.html">Longform</a><span class="sep">|</span>
+        <a href="mulchoice.html">Multiple Choice</a><span class="sep">|</span>
         <a href="filters.html">Filters</a>
         `;
     }
-});
+})
 
 // Utility: fetch JSON question files
 async function fetchQuestions(type) {

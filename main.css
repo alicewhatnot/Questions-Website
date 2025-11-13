@@ -38,6 +38,18 @@
     margin-left: 0.1rem;
 }
 
+#main-nav {
+    display: flex;
+    align-items: center; /* vertically align everything */
+    gap: 0.5rem;
+}
+
+#main-nav .sep {
+    line-height: 1; /* match link height */
+    color: #c94277;
+}
+
+
 /* ===== Main Section ===== */
 main {
     font-family: "Raleway", sans-serif;
