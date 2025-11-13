@@ -1,283 +1,88 @@
 [
   {
-    "question": "Define a natural number and an integer, explaining the difference between them.",
+    "question": "Define hardware and software, giving one example of each.",
     "marks": 3,
     "mark_scheme": [
-      "Natural numbers are non-negative whole numbers (0,1,2,...)",
-      "Integers include negative numbers as well",
-      "Difference: integers extend naturals to negatives"
+      "Hardware: physical components of a computer (e.g., CPU, RAM)",
+      "Software: programs and instructions run by hardware (e.g., operating system, app)",
+      "Hardware is tangible; software is intangible"
     ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Number systems",
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Hardware and software",
     "question_type": "longform"
   },
   {
-    "question": "Explain what is meant by a rational number and give one example.",
+    "question": "Explain the difference between system software and application software, giving one example of each.",
     "marks": 3,
     "mark_scheme": [
-      "Rational number can be expressed as ratio of two integers",
-      "Includes terminating and recurring decimals",
-      "Example: 1/2 or 0.333..."
+      "System software manages hardware and provides platform (e.g., operating system)",
+      "Application software performs user tasks (e.g., word processor)",
+      "System software enables the use of application software"
     ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Number systems",
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Hardware and software",
     "question_type": "longform"
   },
   {
-    "question": "Convert the denary number 156 into binary and hexadecimal.",
+    "question": "State the purpose of an operating system.",
+    "marks": 2,
+    "mark_scheme": [
+      "Manages hardware resources",
+      "Provides interface for users and applications",
+      "Handles file management, memory, and processes"
+    ],
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Hardware and software",
+    "question_type": "longform"
+  },
+  {
+    "question": "Define low-level and high-level programming languages, giving one example of each.",
     "marks": 3,
     "mark_scheme": [
-      "Binary conversion: 10011100",
-      "Hexadecimal conversion: 9C",
-      "Shows equivalence across bases"
+      "Low-level: close to machine code, harder to read (e.g., assembly)",
+      "High-level: closer to human language, easier to read/write (e.g., Python, Java)",
+      "High-level is translated into low-level to run on hardware"
     ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Number bases",
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Classification of languages",
     "question_type": "longform"
   },
   {
-    "question": "Explain why hexadecimal is often used in computing instead of binary.",
+    "question": "Explain one advantage of high-level languages over low-level languages.",
+    "marks": 2,
+    "mark_scheme": [
+      "Easier to write, read, and maintain",
+      "Less prone to errors",
+      "Portable across different hardware"
+    ],
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Classification of languages",
+    "question_type": "longform"
+  },
+  {
+    "question": "State the difference between compiled and interpreted languages.",
     "marks": 3,
     "mark_scheme": [
-      "Hexadecimal more compact representation",
-      "Easier for humans to read and write",
-      "Maps neatly to groups of 4 binary bits"
+      "Compiled: entire program converted to machine code before execution",
+      "Interpreted: code executed line by line at runtime",
+      "Compiled is generally faster; interpreted easier to debug"
     ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Number bases",
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Classification of languages",
     "question_type": "longform"
   },
   {
-    "question": "Define the terms bit, byte, and kilobyte, and explain their relationships.",
-    "marks": 3,
+    "question": "State the output of an AND gate when both inputs are 1.",
+    "marks": 1,
     "mark_scheme": [
-      "Bit is smallest unit of data, 0 or 1",
-      "Byte is 8 bits",
-      "Kilobyte typically 1024 bytes in binary system"
+      "Output is 1"
     ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Units of information",
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Logic gates",
     "question_type": "longform"
   },
   {
-    "question": "Explain the difference between SI units (kilo, mega, giga) and binary prefixes (kibi, mebi, gibi).",
-    "marks": 4,
-    "mark_scheme": [
-      "SI kilo = 1000, binary kibi = 1024",
-      "SI prefixes used in networking",
-      "Binary prefixes used in memory/storage",
-      "Avoids ambiguity in measurement"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Units of information",
-    "question_type": "longform"
-  },
-  {
-    "question": "Perform the binary addition 1101 + 1011 and state if an overflow occurs in 4 bits.",
-    "marks": 4,
-    "mark_scheme": [
-      "1101 (13) + 1011 (11) = 11000 (24)",
-      "4-bit result is 1000 with carry",
-      "Overflow occurs since result exceeds 4 bits",
-      "Shows limitation of fixed width representation"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Binary number systems",
-    "question_type": "longform"
-  },
-  {
-    "question": "Explain how negative integers are represented using two’s complement.",
-    "marks": 4,
-    "mark_scheme": [
-      "Invert all bits of positive number",
-      "Add 1 to result",
-      "Allows single representation of zero",
-      "Simplifies binary arithmetic with negatives"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Binary number systems",
-    "question_type": "longform"
-  },
-  {
-    "question": "Describe the difference between fixed-point and floating-point binary representation.",
-    "marks": 4,
-    "mark_scheme": [
-      "Fixed-point has fixed position for binary point",
-      "Floating-point uses mantissa and exponent",
-      "Floating-point represents larger range",
-      "Fixed-point faster and simpler"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Binary number systems",
-    "question_type": "longform"
-  },
-  {
-    "question": "Explain why floating-point numbers can introduce rounding errors.",
-    "marks": 3,
-    "mark_scheme": [
-      "Not all decimals can be represented exactly in binary",
-      "Truncation/approximation occurs in mantissa",
-      "Causes small errors in calculations"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Binary number systems",
-    "question_type": "longform"
-  },
-  {
-    "question": "Describe ASCII and Unicode and explain why Unicode was developed.",
-    "marks": 4,
-    "mark_scheme": [
-      "ASCII uses 7 or 8 bits for basic characters",
-      "Unicode supports many more characters",
-      "Unicode includes global alphabets and symbols",
-      "Developed to allow multilingual support"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Information coding systems",
-    "question_type": "longform"
-  },
-  {
-    "question": "Explain how parity bits can be used for error detection.",
-    "marks": 3,
-    "mark_scheme": [
-      "Parity adds extra bit to ensure even/odd number of 1s",
-      "Receiver checks parity matches expected value",
-      "Detects single-bit errors"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Information coding systems",
-    "question_type": "longform"
-  },
-  {
-    "question": "Describe the purpose of checksums and give one example where they are used.",
-    "marks": 3,
-    "mark_scheme": [
-      "Checksum is value calculated from data",
-      "Used to verify integrity of transmitted data",
-      "Example: checking downloaded files or network packets"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Information coding systems",
-    "question_type": "longform"
-  },
-  {
-    "question": "Explain how sound is represented digitally using sampling and quantisation.",
-    "marks": 4,
-    "mark_scheme": [
-      "Continuous sound wave measured at intervals (sampling)",
-      "Amplitude values rounded to nearest level (quantisation)",
-      "Stored as binary numbers",
-      "Quality depends on sample rate and resolution"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Representing sound",
-    "question_type": "longform"
-  },
-  {
-    "question": "Calculate the storage required for a 10-second mono sound sampled at 44.1 kHz with 16-bit resolution.",
-    "marks": 5,
-    "mark_scheme": [
-      "Samples per second = 44,100",
-      "Each sample 16 bits = 2 bytes",
-      "10 seconds × 44,100 × 2 = 882,000 bytes",
-      "≈ 861 KB",
-      "Shows link between quality and storage"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Representing sound",
-    "question_type": "longform"
-  },
-  {
-    "question": "Explain the difference between MIDI and sampled sound representation.",
-    "marks": 4,
-    "mark_scheme": [
-      "MIDI stores instructions for generating sound",
-      "Sampled sound stores actual wave data",
-      "MIDI smaller file size",
-      "MIDI limited to synthesised instruments"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Representing sound",
-    "question_type": "longform"
-  },
-  {
-    "question": "Explain how resolution and colour depth affect bitmap image quality and storage size.",
-    "marks": 4,
-    "mark_scheme": [
-      "Resolution: number of pixels in image",
-      "Colour depth: number of bits per pixel",
-      "Higher values increase detail and colour range",
-      "Also increase storage requirement"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Representing images",
-    "question_type": "longform"
-  },
-  {
-    "question": "Calculate the storage requirement of a 200×100 pixel image with 24-bit colour depth.",
-    "marks": 4,
-    "mark_scheme": [
-      "Pixels = 200 × 100 = 20,000",
-      "Each pixel requires 24 bits = 3 bytes",
-      "20,000 × 3 = 60,000 bytes",
-      "≈ 58.6 KB"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Representing images",
-    "question_type": "longform"
-  },
-  {
-    "question": "Describe the difference between bitmap and vector image representations.",
-    "marks": 4,
-    "mark_scheme": [
-      "Bitmap stores pixel data",
-      "Vector stores shapes using mathematical descriptions",
-      "Bitmap resolution dependent",
-      "Vector scalable without loss of quality"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Representing images",
-    "question_type": "longform"
-  },
-  {
-    "question": "Explain how run-length encoding (RLE) can compress bitmap images.",
-    "marks": 3,
-    "mark_scheme": [
-      "Consecutive identical pixels stored as value + count",
-      "Reduces file size if many repeating pixels",
-      "Lossless compression method"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Representing images",
-    "question_type": "longform"
-  },
-  {
-    "question": "Explain how dates and times can be represented digitally.",
-    "marks": 3,
-    "mark_scheme": [
-      "Stored as integer counts (e.g. seconds since epoch)",
-      "Standardised formats like UNIX timestamp or ISO date",
-      "Allows arithmetic operations on dates"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Other data representation",
-    "question_type": "longform"
-  },
-  {
-    "question": "Describe how Hamming code can be used for error correction.",
-    "marks": 4,
-    "mark_scheme": [
-      "Adds parity bits at positions based on powers of two",
-      "Allows detection and correction of single-bit errors",
-      "Can locate error position using parity check",
-      "Used in reliable data transmission"
-    ],
-    "topic": "Fundamentals of data representation",
-    "subtopic": "Information coding systems",
-    "question_type": "longform"
-  },
-  {
-    "question": "State the output of a NOT gate when the input is 1.",
+    "question": "State the output of an OR gate when both inputs are 0.",
     "marks": 1,
     "mark_scheme": [
       "Output is 0"
@@ -287,46 +92,97 @@
     "question_type": "longform"
   },
   {
-    "question": "State one advantage of using a compiler instead of an interpreter.",
-    "marks": 2,
+    "question": "Draw the truth table for a NAND gate.",
+    "marks": 3,
     "mark_scheme": [
-      "Faster execution once compiled",
-      "Executable can run without source code"
+      "Inputs 0,0 → Output 1",
+      "Inputs 0,1 → Output 1",
+      "Inputs 1,0 → Output 1",
+      "Inputs 1,1 → Output 0"
     ],
     "topic": "Fundamentals of computer systems",
-    "subtopic": "Types of translators",
+    "subtopic": "Logic gates",
     "question_type": "longform"
   },
   {
-    "question": "What Boolean expression represents the circuit of an OR gate with inputs A and B?",
+    "question": "Write the Boolean expression for a NOR gate with inputs A and B.",
     "marks": 1,
     "mark_scheme": [
-      "A + B"
+      "A'B' or ¬(A + B)"
     ],
     "topic": "Fundamentals of computer systems",
     "subtopic": "Boolean algebra",
     "question_type": "longform"
   },
   {
-    "question": "State one example of system software.",
-    "marks": 1,
+    "question": "Simplify the Boolean expression A AND (A OR B).",
+    "marks": 2,
     "mark_scheme": [
-      "Operating system",
-      "Utility program"
+      "A AND (A OR B) = A",
+      "Uses absorption law in Boolean algebra"
     ],
     "topic": "Fundamentals of computer systems",
-    "subtopic": "Hardware and software",
+    "subtopic": "Boolean algebra",
     "question_type": "longform"
   },
   {
-    "question": "Which type of translator is used to convert assembly language into machine code?",
-    "marks": 1,
+    "question": "Explain the difference between combinational and sequential logic circuits.",
+    "marks": 3,
     "mark_scheme": [
-      "Assembler"
+      "Combinational: output depends only on current inputs",
+      "Sequential: output depends on inputs and past states (uses memory)",
+      "Sequential can store and process information over time"
     ],
     "topic": "Fundamentals of computer systems",
-    "subtopic": "Types of translators",
+    "subtopic": "Logic gates",
+    "question_type": "longform"
+  },
+  {
+    "question": "State one use of logic gates in computers.",
+    "marks": 1,
+    "mark_scheme": [
+      "Used in arithmetic circuits (adders/subtractors)",
+      "Used in control circuits and decision making",
+      "Used in memory circuits"
+    ],
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Logic gates",
+    "question_type": "longform"
+  },
+  {
+    "question": "Explain how a NOT gate can be used to invert a signal in a digital circuit.",
+    "marks": 2,
+    "mark_scheme": [
+      "Input 0 → Output 1, Input 1 → Output 0",
+      "Used to change the logic state or signal polarity",
+      "Essential in implementing Boolean expressions"
+    ],
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Logic gates",
+    "question_type": "longform"
+  },
+  {
+    "question": "Describe one characteristic that distinguishes assembly language from machine code.",
+    "marks": 2,
+    "mark_scheme": [
+      "Assembly uses mnemonics instead of binary numbers",
+      "Easier for humans to read/write than raw machine code",
+      "Still specific to hardware architecture"
+    ],
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Classification of languages",
+    "question_type": "longform"
+  },
+  {
+    "question": "Give one advantage and one disadvantage of using low-level languages.",
+    "marks": 3,
+    "mark_scheme": [
+      "Advantage: fast execution, direct hardware control",
+      "Disadvantage: difficult to write, read, and maintain",
+      "Low-level languages are less portable"
+    ],
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Classification of languages",
     "question_type": "longform"
   }
 ]
-

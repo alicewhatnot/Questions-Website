@@ -1,173 +1,332 @@
 [
   {
-    "question": "Explain what is meant by a natural number and describe how natural numbers are used in computing applications.",
-    "marks": 2,
-    "mark_scheme": ["Definition of natural number as a non-negative integer", "Use in counting discrete items", "Examples such as array indexing, counting loop iterations"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "number systems",
-    "question_type": "longform",
-    "wrong_choices": null
-  },
-  {
-    "question": "Discuss the difference between rational and irrational numbers, giving examples of each, and explain why irrational numbers are more challenging to represent in computing.",
-    "marks": 4,
-    "mark_scheme": ["Rational numbers can be expressed as ratio of integers", "Irrational cannot be expressed as ratio (e.g. π, √2)", "Computers approximate irrationals with floating point", "Limitations include rounding errors and loss of precision"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "number systems",
-    "question_type": "longform",
-    "wrong_choices": null
-  },
-  {
-    "question": "Describe the difference between integer and real numbers. Give an example of when each would be the appropriate data type in a computer program.",
+    "question": "Define a natural number and an integer, explaining the difference between them.",
     "marks": 3,
-    "mark_scheme": ["Integer = whole numbers, no fractional part", "Real = includes fractional part", "Example: integer for counting items, real for measurement (temperature)"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "number systems",
-    "question_type": "longform",
-    "wrong_choices": null
+    "mark_scheme": [
+      "Natural numbers are non-negative whole numbers (0,1,2,...)",
+      "Integers include negative numbers as well",
+      "Difference: integers extend naturals to negatives"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Number systems",
+    "question_type": "longform"
   },
   {
-    "question": "Explain the importance of ordinal numbers in computing, with an example of how they differ from natural numbers.",
+    "question": "Explain what is meant by a rational number and give one example.",
     "marks": 3,
-    "mark_scheme": ["Ordinal numbers describe position/order", "Example: 'first', 'second'", "Difference from natural: ordinals indicate sequence not just quantity", "Used in ranking, arrays, or hierarchical structures"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "number systems",
-    "question_type": "longform",
-    "wrong_choices": null
+    "mark_scheme": [
+      "Rational number can be expressed as ratio of two integers",
+      "Includes terminating and recurring decimals",
+      "Example: 1/2 or 0.333..."
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Number systems",
+    "question_type": "longform"
   },
   {
-    "question": "Convert the decimal number 45 into binary and hexadecimal. Show your working.",
-    "marks": 2,
-    "mark_scheme": ["Binary: 101101", "Hexadecimal: 2D", "Working method such as successive division by 2 and 16"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "number bases",
-    "question_type": "longform",
-    "wrong_choices": null
-  },
-  {
-    "question": "Explain what is meant by a bit and a byte. State how many different values a single byte can represent and explain why.",
-    "marks": 2,
-    "mark_scheme": ["Bit = single binary digit (0 or 1)", "Byte = 8 bits", "Represents 2^8 = 256 values"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "units of information",
-    "question_type": "longform",
-    "wrong_choices": null
-  },
-  {
-    "question": "Show how to add the binary numbers 101101 and 1101. Give the result in binary and decimal.",
+    "question": "Convert the denary number 156 into binary and hexadecimal.",
     "marks": 3,
-    "mark_scheme": ["Correct column addition method", "Result: 111010", "Decimal equivalent: 58"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "binary number system",
-    "question_type": "longform",
-    "wrong_choices": null
+    "mark_scheme": [
+      "Binary conversion: 10011100",
+      "Hexadecimal conversion: 9C",
+      "Shows equivalence across bases"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Number bases",
+    "question_type": "longform"
   },
   {
-    "question": "Explain how negative numbers are represented using two’s complement with an 8-bit word. Illustrate your answer by showing how -37 would be represented.",
-    "marks": 4,
-    "mark_scheme": ["Two’s complement method: invert bits and add 1", "37 in binary: 00100101", "Invert: 11011010", "Add 1: 11011011 = -37"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "binary number system",
-    "question_type": "longform",
-    "wrong_choices": null
-  },
-  {
-    "question": "Discuss the causes of rounding errors in floating point representation. Give an example of how this could affect calculations in real-world computing.",
-    "marks": 4,
-    "mark_scheme": ["Caused by limited precision", "Some decimal values cannot be exactly represented in binary", "E.g. 0.1 recurring", "Example: financial calculation leading to incorrect totals"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "binary number system",
-    "question_type": "longform",
-    "wrong_choices": null
-  },
-  {
-    "question": "Explain the difference between absolute error and relative error in numerical computation. Provide an example of each.",
+    "question": "Explain why hexadecimal is often used in computing instead of binary.",
     "marks": 3,
-    "mark_scheme": ["Absolute error = difference between measured and true value", "Relative error = absolute error divided by true value", "Examples with numbers to illustrate"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "binary number system",
-    "question_type": "longform",
-    "wrong_choices": null
+    "mark_scheme": [
+      "Hexadecimal more compact representation",
+      "Easier for humans to read and write",
+      "Maps neatly to groups of 4 binary bits"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Number bases",
+    "question_type": "longform"
   },
   {
-    "question": "Explain how normalisation of floating-point numbers helps maximise precision. Give an example.",
+    "question": "Define the terms bit, byte, and kilobyte, and explain their relationships.",
     "marks": 3,
-    "mark_scheme": ["Normalisation shifts radix point", "Ensures leading digit non-zero", "Example: 0.00101 × 2^4 becomes 1.01 × 2^1", "Maximises precision in mantissa"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "binary number system",
-    "question_type": "longform",
-    "wrong_choices": null
+    "mark_scheme": [
+      "Bit is smallest unit of data, 0 or 1",
+      "Byte is 8 bits",
+      "Kilobyte typically 1024 bytes in binary system"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Units of information",
+    "question_type": "longform"
   },
   {
-    "question": "Describe the consequences of overflow and underflow errors in binary arithmetic. Provide examples.",
+    "question": "Explain the difference between SI units (kilo, mega, giga) and binary prefixes (kibi, mebi, gibi).",
+    "marks": 4,
+    "mark_scheme": [
+      "SI kilo = 1000, binary kibi = 1024",
+      "SI prefixes used in networking",
+      "Binary prefixes used in memory/storage",
+      "Avoids ambiguity in measurement"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Units of information",
+    "question_type": "longform"
+  },
+  {
+    "question": "Perform the binary addition 1101 + 1011 and state if an overflow occurs in 4 bits.",
+    "marks": 4,
+    "mark_scheme": [
+      "1101 (13) + 1011 (11) = 11000 (24)",
+      "4-bit result is 1000 with carry",
+      "Overflow occurs since result exceeds 4 bits",
+      "Shows limitation of fixed width representation"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Binary number systems",
+    "question_type": "longform"
+  },
+  {
+    "question": "Explain how negative integers are represented using two’s complement.",
+    "marks": 4,
+    "mark_scheme": [
+      "Invert all bits of positive number",
+      "Add 1 to result",
+      "Allows single representation of zero",
+      "Simplifies binary arithmetic with negatives"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Binary number systems",
+    "question_type": "longform"
+  },
+  {
+    "question": "Describe the difference between fixed-point and floating-point binary representation.",
+    "marks": 4,
+    "mark_scheme": [
+      "Fixed-point has fixed position for binary point",
+      "Floating-point uses mantissa and exponent",
+      "Floating-point represents larger range",
+      "Fixed-point faster and simpler"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Binary number systems",
+    "question_type": "longform"
+  },
+  {
+    "question": "Explain why floating-point numbers can introduce rounding errors.",
     "marks": 3,
-    "mark_scheme": ["Overflow = result too large for representation", "Underflow = result too small to represent accurately", "Examples: 8-bit overflow at 256, underflow in floating point near zero"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "binary number system",
-    "question_type": "longform",
-    "wrong_choices": null
+    "mark_scheme": [
+      "Not all decimals can be represented exactly in binary",
+      "Truncation/approximation occurs in mantissa",
+      "Causes small errors in calculations"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Binary number systems",
+    "question_type": "longform"
   },
   {
-    "question": "Compare ASCII and Unicode as character coding systems. Explain why Unicode is necessary.",
+    "question": "Describe ASCII and Unicode and explain why Unicode was developed.",
     "marks": 4,
-    "mark_scheme": ["ASCII uses 7/8 bits, 128/256 characters", "Unicode supports many languages, emojis", "Unicode uses more bits per character (UTF-8/16/32)", "ASCII insufficient for internationalisation"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "information coding systems",
-    "question_type": "longform",
-    "wrong_choices": null
+    "mark_scheme": [
+      "ASCII uses 7 or 8 bits for basic characters",
+      "Unicode supports many more characters",
+      "Unicode includes global alphabets and symbols",
+      "Developed to allow multilingual support"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Information coding systems",
+    "question_type": "longform"
   },
   {
-    "question": "Explain parity bits as a form of error checking. Discuss one limitation of this method.",
-    "marks": 2,
-    "mark_scheme": ["Parity adds an extra bit to make total even or odd", "Detects single-bit errors", "Limitation: cannot detect double-bit errors"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "information coding systems",
-    "question_type": "longform",
-    "wrong_choices": null
+    "question": "Explain how parity bits can be used for error detection.",
+    "marks": 3,
+    "mark_scheme": [
+      "Parity adds extra bit to ensure even/odd number of 1s",
+      "Receiver checks parity matches expected value",
+      "Detects single-bit errors"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Information coding systems",
+    "question_type": "longform"
   },
   {
-    "question": "Describe how an analogue-to-digital converter (ADC) works, and explain how sampling rate affects sound quality.",
+    "question": "Describe the purpose of checksums and give one example where they are used.",
+    "marks": 3,
+    "mark_scheme": [
+      "Checksum is value calculated from data",
+      "Used to verify integrity of transmitted data",
+      "Example: checking downloaded files or network packets"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Information coding systems",
+    "question_type": "longform"
+  },
+  {
+    "question": "Explain how sound is represented digitally using sampling and quantisation.",
     "marks": 4,
-    "mark_scheme": ["ADC measures amplitude at intervals", "Samples converted into binary values", "Higher sampling rate = more accurate representation", "Nyquist theorem: must sample at least twice highest frequency"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "representing images, sound and other data",
-    "question_type": "longform",
-    "wrong_choices": null
+    "mark_scheme": [
+      "Continuous sound wave measured at intervals (sampling)",
+      "Amplitude values rounded to nearest level (quantisation)",
+      "Stored as binary numbers",
+      "Quality depends on sample rate and resolution"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Representing sound",
+    "question_type": "longform"
   },
   {
-    "question": "Compare vector graphics and bitmapped graphics, giving advantages and disadvantages of each.",
-    "marks": 4,
-    "mark_scheme": ["Bitmap stores pixels individually", "Vector stores shapes/objects mathematically", "Bitmap allows detail and realism, but large files and scaling issues", "Vector scalable without loss, smaller file size, less realistic for photos"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "representing images, sound and other data",
-    "question_type": "longform",
-    "wrong_choices": null
-  },
-  {
-    "question": "Explain the concepts of lossy and lossless data compression. Provide an example of each and state when they are appropriate.",
-    "marks": 4,
-    "mark_scheme": ["Lossy removes data permanently, smaller size (e.g. JPEG, MP3)", "Lossless retains all data (e.g. ZIP, PNG)", "Lossy for multimedia where exact reproduction unnecessary", "Lossless for text, executables"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "representing images, sound and other data",
-    "question_type": "longform",
-    "wrong_choices": null
-  },
-  {
-    "question": "Describe how the Caesar cipher works and explain why it is insecure. Contrast this with the Vernam cipher.",
+    "question": "Calculate the storage required for a 10-second mono sound sampled at 44.1 kHz with 16-bit resolution.",
     "marks": 5,
-    "mark_scheme": ["Caesar cipher shifts letters by fixed amount", "Easily broken by brute force", "Vernam cipher uses one-time pad", "Perfect security if pad is random and used once", "Contrast: Caesar predictable, Vernam provably secure"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "representing images, sound and other data",
-    "question_type": "longform",
-    "wrong_choices": null
+    "mark_scheme": [
+      "Samples per second = 44,100",
+      "Each sample 16 bits = 2 bytes",
+      "10 seconds × 44,100 × 2 = 882,000 bytes",
+      "≈ 861 KB",
+      "Shows link between quality and storage"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Representing sound",
+    "question_type": "longform"
   },
   {
-    "question": "A digital sound file uses a sample rate of 44.1 kHz and 16-bit resolution with two channels (stereo). Calculate the approximate file size in MB for 1 minute of audio, and explain each step.",
-    "marks": 8,
-    "mark_scheme": ["Calculate samples per second per channel = 44,100", "Bits per sample = 16", "Channels = 2", "Total bits per second = 44,100 × 16 × 2", "Convert to bytes by dividing by 8", "Multiply by 60 for one minute", "Convert to MB by dividing by 1,048,576", "Final size ≈ 10 MB"],
-    "topic": "fundamentals of data representation",
-    "subtopic": "representing images, sound and other data",
-    "question_type": "longform",
-    "wrong_choices": null
+    "question": "Explain the difference between MIDI and sampled sound representation.",
+    "marks": 4,
+    "mark_scheme": [
+      "MIDI stores instructions for generating sound",
+      "Sampled sound stores actual wave data",
+      "MIDI smaller file size",
+      "MIDI limited to synthesised instruments"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Representing sound",
+    "question_type": "longform"
+  },
+  {
+    "question": "Explain how resolution and colour depth affect bitmap image quality and storage size.",
+    "marks": 4,
+    "mark_scheme": [
+      "Resolution: number of pixels in image",
+      "Colour depth: number of bits per pixel",
+      "Higher values increase detail and colour range",
+      "Also increase storage requirement"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Representing images",
+    "question_type": "longform"
+  },
+  {
+    "question": "Calculate the storage requirement of a 200×100 pixel image with 24-bit colour depth.",
+    "marks": 4,
+    "mark_scheme": [
+      "Pixels = 200 × 100 = 20,000",
+      "Each pixel requires 24 bits = 3 bytes",
+      "20,000 × 3 = 60,000 bytes",
+      "≈ 58.6 KB"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Representing images",
+    "question_type": "longform"
+  },
+  {
+    "question": "Describe the difference between bitmap and vector image representations.",
+    "marks": 4,
+    "mark_scheme": [
+      "Bitmap stores pixel data",
+      "Vector stores shapes using mathematical descriptions",
+      "Bitmap resolution dependent",
+      "Vector scalable without loss of quality"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Representing images",
+    "question_type": "longform"
+  },
+  {
+    "question": "Explain how run-length encoding (RLE) can compress bitmap images.",
+    "marks": 3,
+    "mark_scheme": [
+      "Consecutive identical pixels stored as value + count",
+      "Reduces file size if many repeating pixels",
+      "Lossless compression method"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Representing images",
+    "question_type": "longform"
+  },
+  {
+    "question": "Explain how dates and times can be represented digitally.",
+    "marks": 3,
+    "mark_scheme": [
+      "Stored as integer counts (e.g. seconds since epoch)",
+      "Standardised formats like UNIX timestamp or ISO date",
+      "Allows arithmetic operations on dates"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Other data representation",
+    "question_type": "longform"
+  },
+  {
+    "question": "Describe how Hamming code can be used for error correction.",
+    "marks": 4,
+    "mark_scheme": [
+      "Adds parity bits at positions based on powers of two",
+      "Allows detection and correction of single-bit errors",
+      "Can locate error position using parity check",
+      "Used in reliable data transmission"
+    ],
+    "topic": "Fundamentals of data representation",
+    "subtopic": "Information coding systems",
+    "question_type": "longform"
+  },
+  {
+    "question": "State the output of a NOT gate when the input is 1.",
+    "marks": 1,
+    "mark_scheme": [
+      "Output is 0"
+    ],
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Logic gates",
+    "question_type": "longform"
+  },
+  {
+    "question": "State one advantage of using a compiler instead of an interpreter.",
+    "marks": 2,
+    "mark_scheme": [
+      "Faster execution once compiled",
+      "Executable can run without source code"
+    ],
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Types of translators",
+    "question_type": "longform"
+  },
+  {
+    "question": "What Boolean expression represents the circuit of an OR gate with inputs A and B?",
+    "marks": 1,
+    "mark_scheme": [
+      "A + B"
+    ],
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Boolean algebra",
+    "question_type": "longform"
+  },
+  {
+    "question": "State one example of system software.",
+    "marks": 1,
+    "mark_scheme": [
+      "Operating system",
+      "Utility program"
+    ],
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Hardware and software",
+    "question_type": "longform"
+  },
+  {
+    "question": "Which type of translator is used to convert assembly language into machine code?",
+    "marks": 1,
+    "mark_scheme": [
+      "Assembler"
+    ],
+    "topic": "Fundamentals of computer systems",
+    "subtopic": "Types of translators",
+    "question_type": "longform"
   }
 ]
+

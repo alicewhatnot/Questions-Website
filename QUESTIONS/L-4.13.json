@@ -3,7 +3,7 @@
     "question": "Explain the difference between a problem, a subproblem, and a solution in the context of systematic problem solving.",
     "marks": 3,
     "mark_scheme": ["A problem is a task or challenge that requires a solution", "A subproblem is a smaller component of the larger problem, identified through decomposition", "A solution is the process or method that resolves the problem or its subproblems"],
-    "topic": "4.13 Systematic approach to problem solving",
+    "topic": "Systematic approach to problem solving",
     "subtopic": "Systematic approach to problem solving",
     "question_type": "longform",
     "wrong_choices": null
@@ -12,7 +12,7 @@
     "question": "Describe what is meant by problem decomposition and explain why it is useful in computing.",
     "marks": 3,
     "mark_scheme": ["Problem decomposition means breaking down a large, complex problem into smaller, more manageable parts", "Each part can be solved independently or in parallel", "It is useful because it simplifies complexity, aids collaboration, and supports reusability of solutions"],
-    "topic": "4.13 Systematic approach to problem solving",
+    "topic": "Systematic approach to problem solving",
     "subtopic": "Systematic approach to problem solving",
     "question_type": "longform",
     "wrong_choices": null
@@ -21,7 +21,7 @@
     "question": "Explain what is meant by stepwise refinement, giving an example of how it might be applied to a programming problem.",
     "marks": 4,
     "mark_scheme": ["Stepwise refinement is the process of breaking down a problem into more detailed steps until they are simple enough to implement", "It is a top-down approach", "Example: designing a program to calculate average exam results → refine into steps: input marks, add marks, divide by number of marks, output result", "Each step refined further into precise instructions"],
-    "topic": "4.13 Systematic approach to problem solving",
+    "topic": "Systematic approach to problem solving",
     "subtopic": "Systematic approach to problem solving",
     "question_type": "longform",
     "wrong_choices": null
@@ -30,7 +30,7 @@
     "question": "Discuss the role of abstraction in systematic problem solving.",
     "marks": 5,
     "mark_scheme": ["Abstraction involves removing unnecessary detail to focus on the essential aspects of a problem", "Helps to generalise solutions and reuse them in different contexts", "Allows focus on higher-level design rather than implementation details", "Essential in modelling systems and algorithms", "Example: representing a car as an object with methods instead of worrying about physical mechanics"],
-    "topic": "4.13 Systematic approach to problem solving",
+    "topic": "Systematic approach to problem solving",
     "subtopic": "Systematic approach to problem solving",
     "question_type": "longform",
     "wrong_choices": null
@@ -39,7 +39,7 @@
     "question": "Explain how algorithms are related to the systematic approach to problem solving.",
     "marks": 2,
     "mark_scheme": ["An algorithm is a step-by-step sequence of instructions to solve a problem", "Algorithms form the basis of implementing systematic solutions after decomposition and refinement"],
-    "topic": "4.13 Systematic approach to problem solving",
+    "topic": "Systematic approach to problem solving",
     "subtopic": "Systematic approach to problem solving",
     "question_type": "longform",
     "wrong_choices": null
@@ -48,7 +48,7 @@
     "question": "Describe how top-down and bottom-up approaches differ in systematic problem solving.",
     "marks": 4,
     "mark_scheme": ["Top-down: start from the overall problem, decompose into subproblems, refine into implementable steps", "Bottom-up: start by solving small subproblems or building modules, then integrate them into the larger solution", "Top-down emphasises structure and planning", "Bottom-up emphasises building and integration of working components"],
-    "topic": "4.13 Systematic approach to problem solving",
+    "topic": "Systematic approach to problem solving",
     "subtopic": "Systematic approach to problem solving",
     "question_type": "longform",
     "wrong_choices": null
@@ -57,7 +57,7 @@
     "question": "Discuss how systematic problem solving helps in the development of large-scale software systems.",
     "marks": 6,
     "mark_scheme": ["Provides structure and method to handle complexity", "Decomposition allows multiple developers to work on different subproblems", "Abstraction hides detail so systems can be designed modularly", "Refinement ensures problems are broken down until solvable", "Improves reliability, maintainability, and scalability", "Examples: operating systems, enterprise applications"],
-    "topic": "4.13 Systematic approach to problem solving",
+    "topic": "Systematic approach to problem solving",
     "subtopic": "Systematic approach to problem solving",
     "question_type": "longform",
     "wrong_choices": null
@@ -66,7 +66,7 @@
     "question": "Evaluate the benefits and limitations of systematic problem solving compared to ad hoc approaches.",
     "marks": 7,
     "mark_scheme": ["Benefits: structured, reduces errors, easier to test, supports teamwork, solutions are reusable", "Limitations: may be time-consuming in early stages, requires careful planning, less flexible for small/simple problems", "Ad hoc may be quicker for trivial problems but risks inefficiency or errors", "Evaluation: systematic essential for complex and critical systems, ad hoc only for small temporary tasks"],
-    "topic": "4.13 Systematic approach to problem solving",
+    "topic": "Systematic approach to problem solving",
     "subtopic": "Systematic approach to problem solving",
     "question_type": "longform",
     "wrong_choices": null
@@ -75,7 +75,7 @@
     "question": "Explain how systematic problem solving techniques can support debugging and maintenance of existing software.",
     "marks": 5,
     "mark_scheme": ["Decomposition allows isolation of faulty modules", "Abstraction helps identify key functionality separate from detail", "Algorithms provide clear structure for tracing errors", "Stepwise refinement can be reversed to trace back from output to source of error", "Supports systematic updates and improvements"],
-    "topic": "4.13 Systematic approach to problem solving",
+    "topic": "Systematic approach to problem solving",
     "subtopic": "Systematic approach to problem solving",
     "question_type": "longform",
     "wrong_choices": null
@@ -84,7 +84,7 @@
     "question": "Evaluate the importance of decomposition, abstraction, and refinement as core techniques in systematic problem solving.",
     "marks": 8,
     "mark_scheme": ["Decomposition breaks down problems into manageable pieces", "Abstraction focuses on relevant detail and supports generalisation", "Refinement makes steps progressively more concrete until implementable", "Together they ensure problems of any scale can be tackled", "They improve clarity, efficiency, and collaboration", "Limitations if applied incorrectly: over-abstraction, excessive decomposition", "Evaluation: indispensable techniques underpinning computer science", "Enable scalability of both problems and solutions"],
-    "topic": "4.13 Systematic approach to problem solving",
+    "topic": "Systematic approach to problem solving",
     "subtopic": "Systematic approach to problem solving",
     "question_type": "longform",
     "wrong_choices": null
