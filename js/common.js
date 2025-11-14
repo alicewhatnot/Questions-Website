@@ -62,3 +62,17 @@ const store = {
         localStorage.removeItem(key);
     }
 };
+
+function resetIfEmpty(available, type) {
+    if (available.length > 0) return available;
+
+    // No questions left → reset history
+    if (type === "longform") {
+        store.clear("askedLongformIds");
+    } else if (type === "mul_choice") {
+        store.clear("askedMulChoiceIds");
+    }
+
+    return null; // caller will reload
+}
+

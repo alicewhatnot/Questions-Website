@@ -104,6 +104,12 @@ async function loadLongform() {
         });
     };
 
-    nextBtn.onclick = () => loadLongform();
+    nextBtn.onclick = () => {
+        // Save this question as asked
+        const asked = store.get("askedLongformIds", []);
+        store.set("askedLongformIds", [...asked, question.id]);
+
+        loadLongform();
+    };
 }
 document.addEventListener("DOMContentLoaded", loadLongform);

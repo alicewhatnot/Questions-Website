@@ -25,7 +25,11 @@ async function loadMulChoice() {
     available = shuffleArray(available);
 
     // Pick the first available question
-    const question = available.length ? available[0] : questions[0];
+    available = resetIfEmpty(available, "mul_choice");
+    if (!available) {
+        return loadMulChoice(); // reload with reset history
+    }
+    const question = available[0];
 
     if (!question) {
         container.innerHTML = "<p>No multiple choice questions found.</p>";
@@ -93,7 +97,11 @@ async function loadMulChoice() {
         choicesDiv.appendChild(btn);
     });
 
-    nextBtn.onclick = () => loadMulChoice();
+        nextBtn.onclick = () => {
+            const asked = store.get("askedMulChoiceIds", []);
+            store.set("askedMulChoiceIds", [...asked, question.id]);
+            loadMulChoice();
+        };
     }
 
     // --- Utility: shuffle array ---
