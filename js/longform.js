@@ -27,7 +27,11 @@ async function loadLongform() {
     available = shuffleArray(available);
 
     // Pick first available question
-    const question = available.length ? available[0] : null;
+    available = resetIfEmpty(available, "longform");
+    if (!available) {
+        return loadLongform(); // reload with reset history
+    }
+    const question = available[0];
 
     if (!question) {
         container.innerHTML = "<p>No questions match your selected filters or all have been answered.</p>";
