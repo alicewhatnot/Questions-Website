@@ -1,0 +1,435 @@
+[
+  {
+    "question": "Which type of reaction links two monosaccharides to form a disaccharide?",
+    "marks": 1,
+    "mark_scheme": "Condensation reaction",
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Hydrolysis reaction", "Oxidation reaction", "Reduction reaction"]
+  },
+  {
+    "question": "What type of bond forms between two monosaccharides in a disaccharide?",
+    "marks": 1,
+    "mark_scheme": "Glycosidic bond",
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Peptide bond", "Ester bond", "Hydrogen bond"]
+  },
+  {
+    "question": "Which of the following is a pentose sugar?",
+    "marks": 1,
+    "mark_scheme": "Ribose",
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Glucose", "Galactose", "Sucrose"]
+  },
+  {
+    "question": "Which polysaccharide is composed of amylose and amylopectin?",
+    "marks": 1,
+    "mark_scheme": "Starch",
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Glycogen", "Cellulose", "Chitin"]
+  },
+  {
+    "question": "Which statement correctly describes cellulose?",
+    "marks": 1,
+    "mark_scheme": "It is formed from β-glucose molecules",
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "mul_choice",
+    "wrong_choices": ["It is formed from α-glucose molecules", "It contains branched chains", "It is used for energy storage"]
+  },
+
+  {
+    "question": "What are the products when a triglyceride is hydrolysed?",
+    "marks": 1,
+    "mark_scheme": "Glycerol and three fatty acids",
+    "topic": "Biological Molecules",
+    "subtopic": "Lipids",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Glycerol and two fatty acids", "Glycerol only", "Fatty acids only"]
+  },
+  {
+    "question": "Which type of bond is formed during triglyceride synthesis?",
+    "marks": 1,
+    "mark_scheme": "Ester bond",
+    "topic": "Biological Molecules",
+    "subtopic": "Lipids",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Peptide bond", "Glycosidic bond", "Hydrogen bond"]
+  },
+  {
+    "question": "What distinguishes an unsaturated fatty acid from a saturated one?",
+    "marks": 1,
+    "mark_scheme": "Presence of one or more double bonds",
+    "topic": "Biological Molecules",
+    "subtopic": "Lipids",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Presence of only single bonds", "Presence of glycerol", "Presence of nitrogen"]
+  },
+  {
+    "question": "Why are lipids useful for waterproofing?",
+    "marks": 1,
+    "mark_scheme": "They are hydrophobic",
+    "topic": "Biological Molecules",
+    "subtopic": "Lipids",
+    "question_type": "mul_choice",
+    "wrong_choices": ["They are hydrophilic", "They contain nitrogen", "They dissolve easily in water"]
+  },
+  {
+    "question": "Which feature of phospholipids allows them to form bilayers?",
+    "marks": 1,
+    "mark_scheme": "They have hydrophilic heads and hydrophobic tails",
+    "topic": "Biological Molecules",
+    "subtopic": "Lipids",
+    "question_type": "mul_choice",
+    "wrong_choices": ["They are fully hydrophilic", "They form peptide bonds", "They carry no charge"]
+  },
+
+  {
+    "question": "What functional groups are found in all amino acids?",
+    "marks": 1,
+    "mark_scheme": "Amino group and carboxyl group",
+    "topic": "Biological Molecules",
+    "subtopic": "Proteins",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Hydroxyl group and methyl group", "Phosphate group and carboxyl group", "Carbonyl group and amino group"]
+  },
+  {
+    "question": "Which bond links amino acids in a polypeptide?",
+    "marks": 1,
+    "mark_scheme": "Peptide bond",
+    "topic": "Biological Molecules",
+    "subtopic": "Proteins",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Glycosidic bond", "Ester bond", "Hydrogen bond"]
+  },
+  {
+    "question": "Which level of protein structure involves α-helices and β-pleated sheets?",
+    "marks": 1,
+    "mark_scheme": "Secondary structure",
+    "topic": "Biological Molecules",
+    "subtopic": "Proteins",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Primary structure", "Tertiary structure", "Quaternary structure"]
+  },
+  {
+    "question": "Which bonds contribute to the tertiary structure of proteins?",
+    "marks": 1,
+    "mark_scheme": "Hydrogen, ionic and disulfide bonds",
+    "topic": "Biological Molecules",
+    "subtopic": "Proteins",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Peptide and glycosidic bonds only", "Hydrogen bonds only", "Disulfide bonds only"]
+  },
+  {
+    "question": "What is the role of collagen?",
+    "marks": 1,
+    "mark_scheme": "Provides structural support",
+    "topic": "Biological Molecules",
+    "subtopic": "Proteins",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Catalyses reactions", "Stores energy", "Transmits nerve impulses"]
+  },
+
+  {
+    "question": "What type of bases are adenine and guanine?",
+    "marks": 1,
+    "mark_scheme": "Purines",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Pyrimidines", "Ketones", "Polymerases"]
+  },
+  {
+    "question": "Which enzyme unwinds DNA during replication?",
+    "marks": 1,
+    "mark_scheme": "DNA helicase",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["DNA ligase", "RNA polymerase", "DNA polymerase"]
+  },
+  {
+    "question": "What type of bond holds the DNA sugar-phosphate backbone together?",
+    "marks": 1,
+    "mark_scheme": "Phosphodiester bond",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Hydrogen bond", "Peptide bond", "Glycosidic bond"]
+  },
+  {
+    "question": "Which part of protein synthesis occurs at the ribosome?",
+    "marks": 1,
+    "mark_scheme": "Translation",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Transcription", "DNA replication", "RNA splicing"]
+  },
+  {
+    "question": "What is meant by the genetic code being degenerate?",
+    "marks": 1,
+    "mark_scheme": "More than one codon can code for the same amino acid",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Each codon codes for multiple amino acids", "Codons overlap", "Only one codon codes for each amino acid"]
+  },
+
+  {
+    "question": "Which term describes a mutation involving a single base change?",
+    "marks": 1,
+    "mark_scheme": "Point mutation",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Frameshift mutation", "Chromosomal mutation", "Gene duplication"]
+  },
+  {
+    "question": "Which disease results from a substitution mutation in the haemoglobin gene?",
+    "marks": 1,
+    "mark_scheme": "Sickle cell anaemia",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Cystic fibrosis", "Down’s syndrome", "Turner’s syndrome"]
+  },
+
+  {
+    "question": "What term describes enzymes?",
+    "marks": 1,
+    "mark_scheme": "Globular proteins",
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Fibrous proteins", "Carbohydrates", "Lipids"]
+  },
+  {
+    "question": "Which model explains enzyme specificity?",
+    "marks": 1,
+    "mark_scheme": "Induced fit hypothesis",
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Fluid mosaic model", "Lock-and-key only", "Sliding clamp model"]
+  },
+  {
+    "question": "How do enzymes increase reaction rate?",
+    "marks": 1,
+    "mark_scheme": "They lower activation energy",
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "mul_choice",
+    "wrong_choices": ["They raise activation energy", "They increase temperature", "They increase substrate mass"]
+  },
+  {
+    "question": "What happens to enzyme activity above the optimum temperature?",
+    "marks": 1,
+    "mark_scheme": "Enzymes denature",
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Activity increases indefinitely", "Substrate becomes inactive", "More active sites form"]
+  },
+  {
+    "question": "Which inhibitor competes with substrate for the active site?",
+    "marks": 1,
+    "mark_scheme": "Competitive inhibitor",
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Non-competitive inhibitor", "End-product inhibitor", "Allosteric enhancer"]
+  },
+
+  {
+    "question": "Which inhibitor reduces enzyme activity by binding away from the active site?",
+    "marks": 1,
+    "mark_scheme": "Non-competitive inhibitor",
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Competitive inhibitor", "Coenzyme", "Zymogen"]
+  },
+  {
+    "question": "What is measured when determining the initial rate of an enzyme reaction?",
+    "marks": 1,
+    "mark_scheme": "The rate before substrate concentration changes significantly",
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "mul_choice",
+    "wrong_choices": ["The rate after equilibrium", "The rate at maximum temperature", "The rate when enzyme denatures"]
+  },
+
+  {
+    "question": "Which ion is required by plants to produce chlorophyll?",
+    "marks": 1,
+    "mark_scheme": "Magnesium ions",
+    "topic": "Biological Molecules",
+    "subtopic": "Inorganic ions",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Calcium ions", "Nitrate ions", "Phosphate ions"]
+  },
+  {
+    "question": "Which ion is necessary for DNA and ATP synthesis?",
+    "marks": 1,
+    "mark_scheme": "Phosphate ions",
+    "topic": "Biological Molecules",
+    "subtopic": "Inorganic ions",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Calcium ions", "Magnesium ions", "Sodium ions"]
+  },
+  {
+    "question": "What is the function of nitrate ions in plants?",
+    "marks": 1,
+    "mark_scheme": "To make amino acids and DNA",
+    "topic": "Biological Molecules",
+    "subtopic": "Inorganic ions",
+    "question_type": "mul_choice",
+    "wrong_choices": ["To control osmotic balance", "To form cell membranes", "To synthesise lipids"]
+  },
+  {
+    "question": "Which ion forms calcium pectate in plant cell walls?",
+    "marks": 1,
+    "mark_scheme": "Calcium ions",
+    "topic": "Biological Molecules",
+    "subtopic": "Inorganic ions",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Sodium ions", "Magnesium ions", "Iron ions"]
+  },
+
+  {
+    "question": "Why does water have a high specific heat capacity?",
+    "marks": 1,
+    "mark_scheme": "Hydrogen bonding between water molecules",
+    "topic": "Biological Molecules",
+    "subtopic": "Water",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Ionic bonding", "Weak molecular forces", "Lack of polarity"]
+  },
+  {
+    "question": "What property allows water to act as a solvent?",
+    "marks": 1,
+    "mark_scheme": "Its polarity",
+    "topic": "Biological Molecules",
+    "subtopic": "Water",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Low density", "High viscosity", "Non-polarity"]
+  },
+  {
+    "question": "Which property of water is essential for support in aquatic organisms?",
+    "marks": 1,
+    "mark_scheme": "Incompressibility",
+    "topic": "Biological Molecules",
+    "subtopic": "Water",
+    "question_type": "mul_choice",
+    "wrong_choices": ["High pH", "Low boiling point", "Low cohesion"]
+  },
+  {
+    "question": "What causes surface tension in water?",
+    "marks": 1,
+    "mark_scheme": "Hydrogen bonding between water molecules",
+    "topic": "Biological Molecules",
+    "subtopic": "Water",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Ionic interactions", "Covalent bonds", "Protein molecules on the surface"]
+  },
+  {
+    "question": "At what temperature does water reach maximum density?",
+    "marks": 1,
+    "mark_scheme": "4 °C",
+    "topic": "Biological Molecules",
+    "subtopic": "Water",
+    "question_type": "mul_choice",
+    "wrong_choices": ["0 °C", "25 °C", "10 °C"]
+  },
+
+  {
+    "question": "Which type of glucose forms glycogen?",
+    "marks": 1,
+    "mark_scheme": "α-glucose",
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "mul_choice",
+    "wrong_choices": ["β-glucose", "Ribose", "Fructose"]
+  },
+  {
+    "question": "Which disaccharide is formed from glucose and fructose?",
+    "marks": 1,
+    "mark_scheme": "Sucrose",
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Lactose", "Maltose", "Galactose"]
+  },
+  {
+    "question": "What structural property of cellulose provides strength to plant cell walls?",
+    "marks": 1,
+    "mark_scheme": "Hydrogen bonding between parallel chains",
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Ionic bonding between chains", "Irregular branching", "Coiled structure"]
+  },
+  {
+    "question": "Why does glycogen release glucose more rapidly than starch?",
+    "marks": 1,
+    "mark_scheme": "It has more branching",
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "mul_choice",
+    "wrong_choices": ["It has fewer chains", "It is made of β-glucose", "It is insoluble"]
+  },
+
+  {
+    "question": "Which nucleic acid contains uracil?",
+    "marks": 1,
+    "mark_scheme": "RNA",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["DNA", "Both DNA and RNA", "Neither DNA nor RNA"]
+  },
+  {
+    "question": "Which molecule carries amino acids to the ribosome?",
+    "marks": 1,
+    "mark_scheme": "tRNA",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["mRNA", "rRNA", "DNA"]
+  },
+  {
+    "question": "At which stage of protein synthesis is mRNA formed?",
+    "marks": 1,
+    "mark_scheme": "Transcription",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Translation", "Replication", "Processing in the Golgi"]
+  },
+  {
+    "question": "Which statement about the genetic code is correct?",
+    "marks": 1,
+    "mark_scheme": "It is non-overlapping",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Each base is read twice", "It overlaps between amino acids", "It changes between organisms"]
+  },
+  {
+    "question": "Which bond stabilises the complementary base pairing in DNA?",
+    "marks": 1,
+    "mark_scheme": "Hydrogen bonds",
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and protein synthesis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Peptide bonds", "Ionic bonds", "Phosphodiester bonds"]
+  }
+]

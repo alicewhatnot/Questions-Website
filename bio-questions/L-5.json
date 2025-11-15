@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Explain how ATP acts as an energy source for metabolic reactions.",
+    "marks": 3,
+    "mark_scheme": ["ATP hydrolysis releases energy", "phosphate bond broken producing ADP and Pi", "released energy used to drive endergonic reactions", "ATP provides immediate usable energy"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Aerobic respiration",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the stages of aerobic respiration.",
+    "marks": 6,
+    "mark_scheme": ["glycolysis in cytoplasm", "link reaction in mitochondrial matrix", "Krebs cycle in matrix", "oxidative phosphorylation at inner mitochondrial membrane", "production of NADH and FADH2", "overall ATP yield from each stage"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Aerobic respiration",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Outline the key steps of glycolysis.",
+    "marks": 3,
+    "mark_scheme": ["hexose phosphorylated using ATP", "broken into triose phosphates", "oxidation produces reduced NAD", "substrate-level phosphorylation produces ATP", "pyruvate formed"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Glycolysis",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain why glycolysis can occur in both aerobic and anaerobic conditions.",
+    "marks": 2,
+    "mark_scheme": ["glycolysis does not require oxygen", "occurs in cytoplasm only", "only requires enzymes and ATP/NAD"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Glycolysis",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe what happens during the link reaction.",
+    "marks": 2,
+    "mark_scheme": ["pyruvate decarboxylated", "forms acetate", "combined with coenzyme A to form acetyl CoA", "NAD reduced"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Link reaction",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the main processes that occur in the Krebs cycle.",
+    "marks": 4,
+    "mark_scheme": ["acetyl CoA combines with 4-carbon compound", "decarboxylation releases CO₂", "dehydrogenation produces reduced NAD and FAD", "ATP produced by substrate-level phosphorylation", "cycle regenerates 4-carbon compound"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Krebs cycle",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how oxidative phosphorylation leads to ATP production.",
+    "marks": 5,
+    "mark_scheme": ["electrons from reduced NAD/FAD pass down ETC", "energy released pumps protons into intermembrane space", "electrochemical gradient formed", "protons diffuse through ATP synthase", "ATP produced from ADP and Pi", "oxygen acts as final electron acceptor forming water"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Oxidative phosphorylation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Compare the roles of NAD and FAD in respiration.",
+    "marks": 3,
+    "mark_scheme": ["NAD used in glycolysis, link reaction and Krebs cycle", "FAD used only in Krebs cycle", "NAD produces more ATP per molecule oxidised", "both act as hydrogen/electron carriers"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Aerobic respiration",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain why anaerobic respiration produces less ATP than aerobic respiration.",
+    "marks": 2,
+    "mark_scheme": ["only glycolysis occurs", "no oxidative phosphorylation", "low ATP yield from substrate-level phosphorylation only"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Anaerobic respiration",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the structure and function of chloroplasts in photosynthesis.",
+    "marks": 4,
+    "mark_scheme": ["thylakoids contain chlorophyll and electron carriers", "grana increase surface area for light absorption", "stroma contains enzymes for Calvin cycle", "double membrane separates processes", "intergranal lamellae link grana"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how different photosynthetic pigments are separated and identified using chromatography.",
+    "marks": 5,
+    "mark_scheme": ["pigments dissolved in solvent", "spot placed on chromatography paper", "solvent moves up paper carrying pigments", "different solubilities cause separation", "Rf value calculated to identify pigments", "core practical method reference"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthetic pigments",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the light-dependent reactions of photosynthesis.",
+    "marks": 6,
+    "mark_scheme": ["photolysis of water produces electrons, protons and oxygen", "electrons raised to higher energy level by light", "electron transport chain used", "proton gradient produced across thylakoid membrane", "ATP made by chemiosmosis", "NADP reduced forming NADPH"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Light-dependent reactions",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the role of reduced NADP and ATP in the Calvin cycle.",
+    "marks": 3,
+    "mark_scheme": ["ATP provides energy for reduction reactions", "reduced NADP provides hydrogen for GP to form TP", "ATP used to regenerate RuBP", "Calvin cycle occurs in stroma"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Light-independent reactions",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Outline the stages of the Calvin cycle.",
+    "marks": 4,
+    "mark_scheme": ["CO₂ combines with RuBP", "catalysed by rubisco", "forms GP", "GP reduced to TP using ATP and NADPH", "some TP used to regenerate RuBP", "rest forms glucose or organic molecules"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Light-independent reactions",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how light intensity can become a limiting factor in photosynthesis.",
+    "marks": 2,
+    "mark_scheme": ["light provides energy for photolysis and excitation of electrons", "low light reduces ATP and NADPH production", "rate of carbon fixation decreases"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Discuss how temperature affects the rate of photosynthesis.",
+    "marks": 4,
+    "mark_scheme": ["affects enzyme activity e.g. rubisco", "increases rate up to optimum", "high temperatures cause denaturation", "affects stomatal opening and CO₂ uptake"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Evaluate experimental data to determine the rate of respiration using a respirometer.",
+    "marks": 8,
+    "mark_scheme": ["measure volume or pressure change", "use soda lime/KOH to absorb CO₂", "movement of marker indicates oxygen uptake", "calculate rate using change per unit time", "control variables such as temperature", "reference to core practical", "sources of error identified", "improvements suggested"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain why photosynthesis and respiration are described as interlinked processes.",
+    "marks": 3,
+    "mark_scheme": ["products of photosynthesis used in respiration", "products of respiration used in photosynthesis", "ATP produced in both by chemiosmosis", "shared intermediates and cycles"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis and respiration interaction",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how reduced coenzymes are produced during respiration.",
+    "marks": 2,
+    "mark_scheme": ["dehydrogenase enzymes remove hydrogen from substrates", "hydrogen transferred to NAD or FAD", "occurs in glycolysis and Krebs cycle"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the importance of the mitochondrial inner membrane in ATP production.",
+    "marks": 5,
+    "mark_scheme": ["folded into cristae increasing surface area", "contains electron transport chain proteins", "ATP synthase present", "impermeable to protons maintaining gradient", "location of oxidative phosphorylation", "supports chemiosmosis"],
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Oxidative phosphorylation",
+    "question_type": "longform",
+    "wrong_choices": null
+  }
+]

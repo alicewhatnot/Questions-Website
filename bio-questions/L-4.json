@@ -1,0 +1,254 @@
+[
+  {
+    "question": "Explain how surface area to volume ratio affects the need for specialised exchange surfaces in multicellular organisms.",
+    "marks": 4,
+    "mark_scheme": ["as organisms increase in size, SA:VOL decreases", "lower SA:VOL reduces rate of diffusion", "cells deeper inside body cannot rely on simple diffusion", "specialised exchange surfaces increase efficiency of transport", "mass transport systems required to maintain steep concentration gradients"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Surface area to volume ratio",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the structure of the cell surface membrane with reference to the fluid mosaic model.",
+    "marks": 3,
+    "mark_scheme": ["phospholipid bilayer with hydrophilic heads and hydrophobic tails", "proteins embedded within bilayer", "cholesterol, glycoproteins and glycolipids present", "components free to move giving ‘fluid’ nature"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Compare diffusion and facilitated diffusion.",
+    "marks": 2,
+    "mark_scheme": ["diffusion is movement of molecules down a concentration gradient", "facilitated diffusion uses channel or carrier proteins", "facilitated diffusion required for charged or large molecules"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how the solubility, size and charge of molecules affect their mode of transport across membranes.",
+    "marks": 4,
+    "mark_scheme": ["small non-polar molecules diffuse easily through phospholipid bilayer", "polar or charged molecules require channels/carriers", "large molecules need carrier proteins or vesicle transport", "lipid-soluble molecules pass more easily than water-soluble"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the processes of endocytosis and exocytosis.",
+    "marks": 3,
+    "mark_scheme": ["endocytosis involves membrane engulfing material into vesicles", "exocytosis releases substances when vesicles fuse with membrane", "both require ATP and involve bulk transport", "phagocytosis and pinocytosis as examples"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the role of ATP in active transport.",
+    "marks": 2,
+    "mark_scheme": ["ATP hydrolysis releases energy", "energy used to change shape of carrier proteins", "allows movement of ions against concentration gradient"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how insects are adapted for efficient gas exchange.",
+    "marks": 4,
+    "mark_scheme": ["tracheal system with tracheae and tracheoles", "spiracles open to allow gas movement", "thin walls for short diffusion distance", "muscle contractions ventilate air", "fluid in tracheoles moves during activity to increase diffusion"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Compare gas exchange in fish gills and mammalian lungs.",
+    "marks": 6,
+    "mark_scheme": ["fish use gill filaments and lamellae", "countercurrent flow maintains gradient", "mammals use alveoli with large SA and rich blood supply", "ventilation mechanisms differ", "fish rely on water flow over gills", "both provide large SA and short diffusion distance"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how stomata regulate gas exchange in plants.",
+    "marks": 3,
+    "mark_scheme": ["guard cells control stomatal aperture", "osmotic changes cause guard cells to swell or shrink", "open stomata allow CO₂ in, close to reduce water loss"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the structure of arteries, veins and capillaries and relate these to their functions.",
+    "marks": 6,
+    "mark_scheme": ["arteries have thick walls, elastic tissue, smooth muscle", "withstand and maintain high pressure", "veins have valves and thinner walls", "capillaries one-cell thick for short diffusion distance", "large cross-section area reduces blood velocity", "differences relate to pressure and transport roles"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the advantages of a double circulatory system in mammals.",
+    "marks": 3,
+    "mark_scheme": ["blood pumped at higher pressure to body", "separation of oxygenated and deoxygenated blood", "efficient delivery of oxygen to tissues", "maintains steep gradients at gas exchange surfaces"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the sequence of events during the cardiac cycle.",
+    "marks": 5,
+    "mark_scheme": ["atrial systole forces blood to ventricles", "ventricular systole increases pressure closing AV valves", "blood forced out through semilunar valves", "ventricular diastole allows filling", "pressure changes maintain direction of flow"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain myogenic stimulation of the heart.",
+    "marks": 3,
+    "mark_scheme": ["SAN initiates electrical impulses", "impulse spreads across atria causing contraction", "delayed at AVN then transmitted via bundle of His", "ensures coordinated contraction"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Interpret ECG data to identify abnormalities in heart rhythm.",
+    "marks": 4,
+    "mark_scheme": ["identify P, QRS, T waves", "irregular spacing indicates arrhythmia", "absent P waves show atrial fibrillation", "wide QRS indicates ventricular issues", "variation in amplitude may indicate hypertrophy"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the composition and function of blood.",
+    "marks": 3,
+    "mark_scheme": ["plasma carries dissolved substances", "erythrocytes transport oxygen", "leucocytes involved in defence", "platelets in clotting", "blood forms tissue fluid and lymph"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Outline the role of platelets and plasma proteins in blood clotting.",
+    "marks": 4,
+    "mark_scheme": ["platelets form plug", "release thromboplastin", "prothrombin converted to thrombin", "fibrinogen converted to fibrin", "fibrin mesh traps cells to form clot"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the stages leading to atherosclerosis and its effect on health.",
+    "marks": 6,
+    "mark_scheme": ["endothelium damaged", "LDLs accumulate forming fatty streaks", "inflammatory response recruits WBCs", "plaque formation reduces lumen size", "increases blood pressure", "can cause thrombosis or CHD", "risk factors include smoking, diet, genetics"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the structure of haemoglobin in relation to its role in oxygen transport.",
+    "marks": 4,
+    "mark_scheme": ["four polypeptide chains", "each with haem group containing iron", "cooperative binding increases efficiency", "affinity affected by CO₂ (Bohr effect)"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport of gases",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Interpret an oxygen dissociation curve to explain oxygen delivery to tissues.",
+    "marks": 3,
+    "mark_scheme": ["sigmoid shape due to cooperative binding", "shift right shows lower affinity aiding unloading", "shift left increases affinity e.g. fetal Hb"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport of gases",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Compare haemoglobin and myoglobin.",
+    "marks": 2,
+    "mark_scheme": ["haemoglobin has 4 subunits, myoglobin 1", "myoglobin higher affinity for oxygen", "myoglobin acts as oxygen store in muscle"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport of gases",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain why fetal haemoglobin has a higher oxygen affinity than adult haemoglobin.",
+    "marks": 2,
+    "mark_scheme": ["fetal Hb must load oxygen from mother's blood", "higher affinity allows effective uptake at lower partial pressures"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport of gases",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how tissue fluid is formed and reabsorbed.",
+    "marks": 4,
+    "mark_scheme": ["high hydrostatic pressure forces fluid out of capillary", "large proteins remain in blood creating oncotic pressure", "towards venous end water moves back by osmosis", "excess tissue fluid returned via lymphatic system"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Transfer of materials",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Name routes through which water moves across plant root cells and describe each.",
+    "marks": 3,
+    "mark_scheme": ["apoplastic pathway via cell walls", "symplastic pathway via cytoplasm and plasmodesmata", "vacuolar pathway via vacuoles"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the cohesion–tension model for water transport in xylem.",
+    "marks": 4,
+    "mark_scheme": ["water evaporates from leaves creating tension", "cohesion between water molecules maintains column", "adhesion to xylem walls helps movement", "transpiration provides driving force"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Discuss how temperature, light, humidity and air movement affect transpiration rate.",
+    "marks": 6,
+    "mark_scheme": ["higher temperature increases evaporation", "light opens stomata increasing transpiration", "low humidity increases gradient for diffusion", "air movement removes moist air increasing rate", "high humidity reduces rate", "factors change water potential gradient"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Evaluate the strengths and weaknesses of the mass-flow hypothesis for phloem transport.",
+    "marks": 8,
+    "mark_scheme": ["evidence: aphid stylet experiments", "pressure differences along phloem", "loading at source and unloading at sink", "companion cells have many mitochondria", "weaknesses: not all solutes move at same rate", "bidirectional movement observed", "does not explain sieve plate function well"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how water potential gradients drive water uptake in potometer experiments.",
+    "marks": 3,
+    "mark_scheme": ["transpiration lowers water potential in leaves", "creates gradient from stem to roots", "water uptake measured as bubble movement"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how membrane permeability is affected by temperature, referring to the beetroot practical.",
+    "marks": 5,
+    "mark_scheme": ["higher temperatures increase kinetic energy", "membrane proteins denature", "phospholipids become more fluid", "pigment leaks out due to damage", "greater absorbance indicates increased permeability"],
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "longform",
+    "wrong_choices": null
+  }
+]

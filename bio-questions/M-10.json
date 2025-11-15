@@ -1,0 +1,381 @@
+[
+  {
+    "question": "Which term best describes a community of organisms interacting with the abiotic conditions of their environment?",
+    "marks": 1,
+    "mark_scheme": "Ecosystem",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Habitat", "Biome", "Population"]
+  },
+  {
+    "question": "Which trophic level is occupied by organisms that feed directly on producers?",
+    "marks": 1,
+    "mark_scheme": "Primary consumers",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Secondary consumers", "Decomposers", "Tertiary consumers"]
+  },
+  {
+    "question": "Which pyramid representation can show inverted shapes due to large individual organism mass?",
+    "marks": 1,
+    "mark_scheme": "Pyramid of numbers",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Pyramid of energy", "Pyramid of biomass", "Pyramid of productivity"]
+  },
+  {
+    "question": "Which sampling technique is most appropriate for measuring distribution along an environmental gradient?",
+    "marks": 1,
+    "mark_scheme": "Transect",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Random quadrat sampling", "Mark–release–recapture", "Tullgren funnel"]
+  },
+  {
+    "question": "Which abundance scale uses qualitative categories such as 'Frequent' and 'Occasional'?",
+    "marks": 1,
+    "mark_scheme": "ACFOR scale",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Simpson’s index", "Index of diversity", "Rank abundance scale"]
+  },
+  {
+    "question": "Which statistical test is appropriate for assessing correlation between two continuous variables?",
+    "marks": 1,
+    "mark_scheme": "Spearman’s rank correlation coefficient",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Chi-squared test", "Student’s t-test", "Mann–Whitney U test"]
+  },
+  {
+    "question": "What term describes the rate at which producers incorporate energy into organic molecules?",
+    "marks": 1,
+    "mark_scheme": "Gross primary productivity",
+    "topic": "Ecosystems",
+    "subtopic": "Energy transfer through ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Net primary productivity", "Respiratory loss", "Photosynthetic efficiency"]
+  },
+  {
+    "question": "What is the main reason energy transfer between trophic levels is inefficient?",
+    "marks": 1,
+    "mark_scheme": "Energy lost through respiration and heat",
+    "topic": "Ecosystems",
+    "subtopic": "Energy transfer through ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Decomposers remove energy", "Energy is destroyed", "Producers store all energy as biomass"]
+  },
+  {
+    "question": "Which organisms are essential for converting organic matter back into inorganic molecules?",
+    "marks": 1,
+    "mark_scheme": "Microorganisms",
+    "topic": "Ecosystems",
+    "subtopic": "Energy transfer through ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Herbivores", "Apex predators", "Parasites"]
+  },
+  {
+    "question": "What is the name for the first organisms to colonise a barren environment?",
+    "marks": 1,
+    "mark_scheme": "Pioneer species",
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Climax species", "Indicator species", "Opportunistic species"]
+  },
+  {
+    "question": "The final stable community in succession is known as the:",
+    "marks": 1,
+    "mark_scheme": "Climax community",
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Pioneer community", "Seral community", "Mature population"]
+  },
+  {
+    "question": "Which factor is biotic?",
+    "marks": 1,
+    "mark_scheme": "Predation",
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Temperature", "Light intensity", "Soil pH"]
+  },
+  {
+    "question": "Which factor would most directly limit population growth?",
+    "marks": 1,
+    "mark_scheme": "Availability of food",
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Wind speed", "Latitude", "Carbon dioxide concentration"]
+  },
+  {
+    "question": "Which method is appropriate for studying the effect of one abiotic factor on species distribution?",
+    "marks": 1,
+    "mark_scheme": "Systematic sampling along a transect",
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Random sampling", "Lincoln index", "Capture–mark–recapture"]
+  },
+  {
+    "question": "Which human activity most directly contributes to overfishing?",
+    "marks": 1,
+    "mark_scheme": "Use of large-scale trawling nets",
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Reduced fertiliser use", "Afforestation", "Increased recycling"]
+  },
+  {
+    "question": "Which treaty aims to regulate international trade in endangered species?",
+    "marks": 1,
+    "mark_scheme": "CITES",
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Kyoto Protocol", "Montreal Protocol", "Paris Agreement"]
+  },
+  {
+    "question": "Which term describes using resources at a rate that does not deplete them for future generations?",
+    "marks": 1,
+    "mark_scheme": "Sustainability",
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Efficiency", "Regeneration", "Conservationism"]
+  },
+  {
+    "question": "Which process is a major contributor to atmospheric carbon dioxide increase?",
+    "marks": 1,
+    "mark_scheme": "Combustion of fossil fuels",
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Photosynthesis", "Nitrogen fixation", "Sedimentation"]
+  },
+  {
+    "question": "Which biotic factor could reduce the size of a prey population?",
+    "marks": 1,
+    "mark_scheme": "Increased predator numbers",
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Low rainfall", "High altitude", "Soil salinity"]
+  },
+  {
+    "question": "What is the main reason dry biomass is used instead of fresh biomass in ecological pyramids?",
+    "marks": 1,
+    "mark_scheme": "To avoid variation due to water content",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["It is easier to measure", "Dry biomass is always higher", "Fresh biomass is unstable"]
+  },
+
+  {
+    "question": "Which term describes an organism’s position in a food chain?",
+    "marks": 1,
+    "mark_scheme": "Trophic level",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Ecological niche", "Guild", "Biome"]
+  },
+  {
+    "question": "What type of sampling would be most suitable for measuring population size of slow-moving animals?",
+    "marks": 1,
+    "mark_scheme": "Quadrat sampling",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Sweep netting", "Mark–release–recapture", "Light trapping"]
+  },
+  {
+    "question": "Which energy loss occurs between producer and primary consumer levels?",
+    "marks": 1,
+    "mark_scheme": "Not all plant biomass is eaten",
+    "topic": "Ecosystems",
+    "subtopic": "Energy transfer through ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Producers do not photosynthesise", "Consumers lose no heat", "Energy is gained from decomposers"]
+  },
+  {
+    "question": "Which organism group plays a key role in nitrogen recycling?",
+    "marks": 1,
+    "mark_scheme": "Decomposers",
+    "topic": "Ecosystems",
+    "subtopic": "Energy transfer through ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Primary consumers", "Omnivores", "Carnivores"]
+  },
+  {
+    "question": "Which stage of succession occurs after pioneer species stabilise the environment?",
+    "marks": 1,
+    "mark_scheme": "Seral stages",
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Retrogressive stages", "Climax stages", "Pre-successional stages"]
+  },
+  {
+    "question": "What abiotic factor most directly influences light-dependent plant distribution?",
+    "marks": 1,
+    "mark_scheme": "Light intensity",
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Predator density", "pH of blood", "Atmospheric nitrogen"]
+  },
+  {
+    "question": "Which statistical test compares means between two groups?",
+    "marks": 1,
+    "mark_scheme": "Student’s t-test",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Spearman’s rank", "Chi-squared test", "Wilcoxon signed ranks"]
+  },
+  {
+    "question": "Which human activity most directly accelerates climate change?",
+    "marks": 1,
+    "mark_scheme": "Burning fossil fuels",
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Increasing biodiversity", "Reducing plastic use", "Organic farming"]
+  },
+  {
+    "question": "Which factor is an abiotic influence on population size?",
+    "marks": 1,
+    "mark_scheme": "Soil moisture",
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Parasitism", "Competition", "Predation"]
+  },
+  {
+    "question": "Which resource management strategy helps conserve fish stocks?",
+    "marks": 1,
+    "mark_scheme": "Fishing quotas",
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Increasing net sizes", "Removing all protected zones", "Increasing fishing seasons"]
+  },
+  {
+    "question": "Which type of succession occurs when soil is already present?",
+    "marks": 1,
+    "mark_scheme": "Secondary succession",
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Primary succession", "Degenerative succession", "Climatic succession"]
+  },
+  {
+    "question": "Which ecological technique measures percentage cover most efficiently for plants?",
+    "marks": 1,
+    "mark_scheme": "Point quadrat",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Pitfall trap", "Sweep net", "Light trap"]
+  },
+  {
+    "question": "Which organisms occupy the lowest trophic level?",
+    "marks": 1,
+    "mark_scheme": "Producers",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Primary consumers", "Decomposers", "Carnivores"]
+  },
+  {
+    "question": "Energy available to herbivores after respiratory losses in producers is known as:",
+    "marks": 1,
+    "mark_scheme": "Net primary productivity",
+    "topic": "Ecosystems",
+    "subtopic": "Energy transfer through ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Gross primary productivity", "Gross secondary productivity", "Net ecosystem productivity"]
+  },
+  {
+    "question": "Which factor explains why energy decreases through trophic levels?",
+    "marks": 1,
+    "mark_scheme": "Respiratory energy loss",
+    "topic": "Ecosystems",
+    "subtopic": "Energy transfer through ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Energy is created", "Predators photosynthesise less", "Plants store unlimited energy"]
+  },
+  {
+    "question": "Which process begins primary succession?",
+    "marks": 1,
+    "mark_scheme": "Colonisation of bare substrate",
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Replacement of climax species", "Mass migration", "Rapid tree growth"]
+  },
+  {
+    "question": "Which human activity most threatens marine biodiversity?",
+    "marks": 1,
+    "mark_scheme": "Overfishing",
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Offshore wind farms", "Reef conservation programmes", "Beach cleanups"]
+  },
+  {
+    "question": "Which provides the strongest scientific validation for climate change evidence?",
+    "marks": 1,
+    "mark_scheme": "Peer-reviewed scientific journals",
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Social media posts", "Political speeches", "Anecdotal reports"]
+  },
+  {
+    "question": "Which measurement is used to calculate biodiversity indices?",
+    "marks": 1,
+    "mark_scheme": "Species abundance",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Leaf surface area", "Soil depth", "Atmospheric density"]
+  },
+  {
+    "question": "Which factor reduces ecological sampling reliability the most?",
+    "marks": 1,
+    "mark_scheme": "Non-random sampling",
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Larger quadrats", "Consistent methodology", "Adequate sample size"]
+  },
+  {
+    "question": "Which trophic level contains organisms that obtain nutrients by breaking down dead matter?",
+    "marks": 1,
+    "mark_scheme": "Decomposers",
+    "topic": "Ecosystems",
+    "subtopic": "Energy transfer through ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Producers", "Primary consumers", "Secondary consumers"]
+  },
+  {
+    "question": "Which is an example of sustainable resource use?",
+    "marks": 1,
+    "mark_scheme": "Harvesting timber at a rate that allows regrowth",
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Clear-cutting forests", "Overfishing tuna", "Burning peatlands"]
+  }
+]

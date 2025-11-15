@@ -1,0 +1,283 @@
+[
+  {
+    "question": "Describe the structural difference between alpha-glucose and beta-glucose and explain why this difference is important in determining the structure of polysaccharides.",
+    "marks": 3,
+    "mark_scheme": ["alpha-glucose has H above and OH below carbon 1", "beta-glucose has OH above and H below carbon 1", "difference results in different glycosidic linkages affecting polysaccharide structure"],
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how the structure of cellulose enables it to provide mechanical strength in plant cell walls.",
+    "marks": 4,
+    "mark_scheme": ["beta-glucose molecules joined by 1,4 glycosidic bonds", "every other glucose rotated 180 degrees", "hydrogen bonding between chains", "microfibril formation provides tensile strength"],
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Starch is a storage polysaccharide in plants. Compare the structures of amylose and amylopectin and relate these structures to their roles.",
+    "marks": 5,
+    "mark_scheme": ["amylose is unbranched with 1,4 bonds", "amylose forms a helix", "amylopectin is branched with 1,6 bonds", "branches allow rapid hydrolysis", "insoluble and compact for storage"],
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Outline how a disaccharide such as lactose is formed and how it can be broken down.",
+    "marks": 2,
+    "mark_scheme": ["condensation reaction forming glycosidic bond", "hydrolysis using water breaks bond"],
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Describe how a triglyceride is formed and explain one way in which its structure relates to its function.",
+    "marks": 3,
+    "mark_scheme": ["glycerol + 3 fatty acids", "formation of ester bonds via condensation", "hydrophobic nature allows energy-dense storage"],
+    "topic": "Biological Molecules",
+    "subtopic": "Lipids",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Contrast saturated and unsaturated fatty acids, and explain how their structures influence properties of lipids.",
+    "marks": 4,
+    "mark_scheme": ["saturated have no double bonds", "unsaturated have at least one C=C", "double bonds create kinks", "kinks reduce packing leading to lower melting point"],
+    "topic": "Biological Molecules",
+    "subtopic": "Lipids",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Phospholipids form bilayers in cell membranes. Explain how their molecular structure results in this arrangement.",
+    "marks": 5,
+    "mark_scheme": ["hydrophilic phosphate head", "hydrophobic fatty acid tails", "in aqueous environment tails face inward", "heads face cytoplasm/extracellular fluid", "bilayer formed spontaneously due to amphipathic structure"],
+    "topic": "Biological Molecules",
+    "subtopic": "Lipids",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Describe the structure of an amino acid and explain how peptide bonds form.",
+    "marks": 3,
+    "mark_scheme": ["amine group, carboxyl group, R group", "condensation reaction", "peptide bond forms between carboxyl and amine"],
+    "topic": "Biological Molecules",
+    "subtopic": "Proteins",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how hydrogen, ionic and disulfide bonds contribute to the tertiary structure of proteins.",
+    "marks": 4,
+    "mark_scheme": ["hydrogen bonds between polar groups", "ionic bonds between charged R groups", "disulfide bonds between cysteines", "all stabilise specific folding pattern"],
+    "topic": "Biological Molecules",
+    "subtopic": "Proteins",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Compare the structure and function of collagen and haemoglobin.",
+    "marks": 8,
+    "mark_scheme": ["collagen is fibrous", "triple helix structure", "high tensile strength", "used in connective tissues", "haemoglobin is globular", "quaternary structure with four polypeptides", "contains haem groups for oxygen transport", "soluble for circulation"],
+    "topic": "Biological Molecules",
+    "subtopic": "Proteins",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Describe the structure of a DNA nucleotide and explain how nucleotides link to form a DNA strand.",
+    "marks": 4,
+    "mark_scheme": ["phosphate, deoxyribose, base", "phosphodiester bond between phosphate and sugar", "sugar-phosphate backbone", "bases project inward"],
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and Protein Synthesis",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the role of DNA helicase, DNA polymerase and DNA ligase in semi-conservative replication.",
+    "marks": 6,
+    "mark_scheme": ["helicase unwinds double helix", "helicase breaks hydrogen bonds", "polymerase adds complementary nucleotides", "polymerase forms phosphodiester bonds", "ligase joins Okazaki fragments", "each daughter molecule has one original strand"],
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and Protein Synthesis",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the process of transcription in the nucleus.",
+    "marks": 5,
+    "mark_scheme": ["RNA polymerase binds to promoter", "DNA unwinds", "antisense strand used as template", "complementary mRNA formed", "mRNA detaches and exits nucleus"],
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and Protein Synthesis",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how tRNA contributes to translation at the ribosome.",
+    "marks": 3,
+    "mark_scheme": ["tRNA carries specific amino acid", "anticodon binds to complementary codon", "peptide bond formation between amino acids"],
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and Protein Synthesis",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Discuss how a substitution mutation can alter the primary structure of a protein, using sickle-cell anaemia as an example.",
+    "marks": 6,
+    "mark_scheme": ["substitution changes base triplet", "may change amino acid", "in sickle cell glutamic acid replaced by valine", "alters haemoglobin structure", "causes polymerisation of haemoglobin", "changes red blood cell shape"],
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and Protein Synthesis",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Explain the induced-fit model of enzyme action.",
+    "marks": 3,
+    "mark_scheme": ["active site not rigid", "substrate binding causes change in shape", "tightened fit lowers activation energy"],
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how temperature affects enzyme-controlled reactions and relate this to molecular activity.",
+    "marks": 4,
+    "mark_scheme": ["increased temperature increases kinetic energy", "more frequent collisions", "denaturation at high temperatures", "active site shape changes"],
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how competitive and non-competitive inhibitors affect enzyme activity.",
+    "marks": 5,
+    "mark_scheme": ["competitive bind to active site", "compete with substrate", "non-competitive bind to allosteric site", "change active site shape", "cannot be overcome by increased substrate concentration"],
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how the initial rate of an enzyme-controlled reaction can be measured in the laboratory.",
+    "marks": 4,
+    "mark_scheme": ["measure product or substrate concentration over time", "collect data at short intervals", "plot concentration vs. time", "calculate initial gradient"],
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Explain why nitrate ions are essential for plant growth.",
+    "marks": 2,
+    "mark_scheme": ["used to make amino acids", "used to make DNA nucleotides"],
+    "topic": "Biological Molecules",
+    "subtopic": "Inorganic Ions",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the role of magnesium and phosphate ions in plants.",
+    "marks": 3,
+    "mark_scheme": ["magnesium for chlorophyll production", "phosphate for ATP and ADP", "phosphate for nucleic acids"],
+    "topic": "Biological Molecules",
+    "subtopic": "Inorganic Ions",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Explain how the dipole nature of water results in hydrogen bonding.",
+    "marks": 3,
+    "mark_scheme": ["oxygen more electronegative", "water molecule has partial charges", "attraction between δ+ H and δ− O forms hydrogen bonds"],
+    "topic": "Biological Molecules",
+    "subtopic": "Water",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Water has a high specific heat capacity. Explain why this property is important for living organisms.",
+    "marks": 4,
+    "mark_scheme": ["hydrogen bonding requires energy to break", "temperature changes slowly", "acts as thermal buffer", "maintains stable internal and aquatic environments"],
+    "topic": "Biological Molecules",
+    "subtopic": "Water",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how water’s role as a solvent allows biochemical reactions to occur in cells.",
+    "marks": 3,
+    "mark_scheme": ["water dissolves ionic/polar substances", "allows transport of solutes", "enables reactions in aqueous cytoplasm"],
+    "topic": "Biological Molecules",
+    "subtopic": "Water",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain why ice is less dense than liquid water and why this property is biologically significant.",
+    "marks": 4,
+    "mark_scheme": ["hydrogen bonds hold molecules further apart in ice", "open lattice structure", "ice floats", "insulates aquatic habitats in winter"],
+    "topic": "Biological Molecules",
+    "subtopic": "Water",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Explain how the structure of glycogen makes it well suited for storage in animals.",
+    "marks": 5,
+    "mark_scheme": ["highly branched allows rapid hydrolysis", "1,4 and 1,6 bonds", "compact for storage", "insoluble so no osmotic effect", "glucose released quickly for respiration"],
+    "topic": "Biological Molecules",
+    "subtopic": "Carbohydrates",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Outline the roles of hydrogen, ionic and disulfide bonds in stabilising the secondary and tertiary structure of proteins, and why loss of these interactions results in denaturation.",
+    "marks": 6,
+    "mark_scheme": ["hydrogen bonds stabilise alpha helix and beta sheets", "ionic bonds form between charged R groups", "disulfide bonds form covalent links", "denaturation breaks these bonds", "loss of specific shape", "enzyme active sites no longer complementary"],
+    "topic": "Biological Molecules",
+    "subtopic": "Proteins",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Describe how competitive inhibitors differ from end-product inhibitors in enzyme regulation.",
+    "marks": 4,
+    "mark_scheme": ["competitive resemble substrate", "bind active site", "end-product binds allosteric site", "feedback mechanism maintains metabolic balance"],
+    "topic": "Biological Molecules",
+    "subtopic": "Enzymes",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Compare the structure and function of mRNA and tRNA.",
+    "marks": 5,
+    "mark_scheme": ["mRNA is linear", "tRNA folded with anticodon", "mRNA carries codons to ribosome", "tRNA carries amino acids", "hydrogen bonding stabilises tRNA"],
+    "topic": "Biological Molecules",
+    "subtopic": "DNA and Protein Synthesis",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Explain why water is an effective transport medium in organisms.",
+    "marks": 5,
+    "mark_scheme": ["cohesion allows continuous columns", "adhesion helps capillary action", "solvent properties allow transport of ions", "high specific heat capacity stabilises conditions", "incompressibility enables hydrostatic pressure"],
+    "topic": "Biological Molecules",
+    "subtopic": "Water",
+    "question_type": "longform",
+    "wrong_choices": null
+  }
+]

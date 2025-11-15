@@ -15,13 +15,13 @@ async function fetchQuestions(type) {
     const files = [];
 
     // Add all "L-" files
-    for (let i = 1; i <= 13; i++) {
-        files.push(`questions/L-4.${i}.json`);
+    for (let i = 1; i <= 10; i++) {
+        files.push(`bio-questions/L-${i}.json`);
     }
 
     // Add all "M-" files
-    for (let i = 1; i <= 13; i++) {
-        files.push(`questions/M-4.${i}.json`);
+    for (let i = 1; i <= 10; i++) {
+        files.push(`bio-questions/M-${i}.json`);
     }
 
     let allQuestions = [];

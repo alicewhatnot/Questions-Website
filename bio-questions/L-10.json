@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Define biodiversity and describe its three main components.",
+    "marks": 3,
+    "mark_scheme": ["biodiversity is the variety of life in all its forms", "genetic diversity", "species diversity", "ecosystem or habitat diversity"],
+    "topic": "Biodiversity",
+    "subtopic": "Biodiversity concepts",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how random sampling can be used to estimate species abundance in a habitat.",
+    "marks": 4,
+    "mark_scheme": ["use quadrats placed using random coordinates", "count individuals or percentage cover", "take sufficient samples to represent habitat", "calculate mean abundance and multiply by area", "reduces sampling bias"],
+    "topic": "Biodiversity",
+    "subtopic": "Sampling techniques",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how to use a belt transect to investigate changes in plant communities.",
+    "marks": 3,
+    "mark_scheme": ["lay tape across environmental gradient", "place quadrats at set intervals along line", "record species presence or abundance", "analyse changes along transect"],
+    "topic": "Biodiversity",
+    "subtopic": "Sampling techniques",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the difference between species richness and species evenness.",
+    "marks": 2,
+    "mark_scheme": ["species richness is number of species present", "species evenness is relative abundance of each species"],
+    "topic": "Biodiversity",
+    "subtopic": "Biodiversity measures",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Discuss how the Simpson’s Index of Diversity is used to assess biodiversity.",
+    "marks": 5,
+    "mark_scheme": ["uses species abundance data", "value increases with both evenness and richness", "accounts for dominance by one species", "higher D indicates more stable ecosystem", "useful for comparing habitats", "sensitive to changes in populations"],
+    "topic": "Biodiversity",
+    "subtopic": "Biodiversity measures",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how succession leads to the development of a climax community.",
+    "marks": 4,
+    "mark_scheme": ["pioneer species colonise bare habitat", "modify environment making it suitable for new species", "increasing soil depth and nutrients", "more complex communities form over time", "results in stable climax community"],
+    "topic": "Biodiversity",
+    "subtopic": "Succession",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how human activities can interrupt or manage succession.",
+    "marks": 3,
+    "mark_scheme": ["grazing prevents establishment of shrubs/trees", "mowing removes species before maturation", "controlled burning resets succession", "used to maintain plagioclimax communities"],
+    "topic": "Biodiversity",
+    "subtopic": "Succession",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the difference between in situ and ex situ conservation.",
+    "marks": 2,
+    "mark_scheme": ["in situ involves protecting species in their natural habitat", "ex situ involves removing species to protected locations such as zoos or seed banks"],
+    "topic": "Biodiversity",
+    "subtopic": "Conservation strategies",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Evaluate the advantages of in situ conservation compared to ex situ conservation.",
+    "marks": 6,
+    "mark_scheme": ["maintains natural behaviours", "preserves ecological interactions", "protects entire habitat and other species", "may be cheaper long term", "avoids issues of reintroduction", "ex situ useful when in situ impossible", "seed banks allow long-term storage"],
+    "topic": "Biodiversity",
+    "subtopic": "Conservation strategies",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain why maintaining genetic diversity is important for species survival.",
+    "marks": 3,
+    "mark_scheme": ["enables adaptation to environmental change", "reduces risk of inbreeding depression", "increases resilience to disease"],
+    "topic": "Biodiversity",
+    "subtopic": "Genetic diversity",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how selective logging and replanting can help conserve forest biodiversity.",
+    "marks": 4,
+    "mark_scheme": ["selective logging removes only certain trees", "reduces habitat destruction", "replanting restores canopy structure", "maintains soil stability and ecosystem processes", "allows recovery of species diversity"],
+    "topic": "Biodiversity",
+    "subtopic": "Conservation strategies",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the role of international agreements such as CITES in protecting biodiversity.",
+    "marks": 3,
+    "mark_scheme": ["controls trade of endangered species", "prevents exploitation", "encourages cooperation between countries", "reduces illegal hunting and collection"],
+    "topic": "Biodiversity",
+    "subtopic": "Conservation strategies",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Discuss how climate change may affect global patterns of biodiversity.",
+    "marks": 6,
+    "mark_scheme": ["shifts in species distribution", "altered migration patterns", "habitat loss such as coral bleaching", "increased extinction risk", "species unable to adapt quickly", "increased spread of pests and invasive species"],
+    "topic": "Biodiversity",
+    "subtopic": "Human impacts",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how invasive species can reduce local biodiversity.",
+    "marks": 3,
+    "mark_scheme": ["compete with native species for resources", "may introduce disease", "lack natural predators so populations grow rapidly"],
+    "topic": "Biodiversity",
+    "subtopic": "Human impacts",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe why endemic species are particularly vulnerable to extinction.",
+    "marks": 2,
+    "mark_scheme": ["restricted geographical range", "small population sizes", "more sensitive to habitat change"],
+    "topic": "Biodiversity",
+    "subtopic": "Species and ecosystems",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how energy transfer efficiency between trophic levels influences ecosystem biodiversity.",
+    "marks": 4,
+    "mark_scheme": ["only around 10% energy transferred to next level", "limits number of trophic levels", "affects population sizes", "higher productivity supports greater species diversity", "energy lost via respiration, excretion, heat"],
+    "topic": "Biodiversity",
+    "subtopic": "Ecosystem processes",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Discuss how agriculture reduces biodiversity.",
+    "marks": 5,
+    "mark_scheme": ["monoculture reduces species variety", "use of pesticides reduces insect diversity", "fertilisers cause eutrophication", "removal of hedgerows reduces habitats", "selective breeding reduces genetic diversity"],
+    "topic": "Biodiversity",
+    "subtopic": "Human impacts",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how mark–release–recapture can be used to estimate population size.",
+    "marks": 3,
+    "mark_scheme": ["capture sample and mark individuals non-harmfully", "release and allow mixing", "recapture second sample", "use Lincoln Index N = (n1 × n2) ÷ m2"],
+    "topic": "Biodiversity",
+    "subtopic": "Sampling techniques",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how habitat fragmentation affects biodiversity.",
+    "marks": 4,
+    "mark_scheme": ["creates smaller isolated populations", "reduces gene flow", "increases edge effects", "greater vulnerability to extinction", "reduces habitat quality"],
+    "topic": "Biodiversity",
+    "subtopic": "Human impacts",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Evaluate the effectiveness of conservation breeding programmes in maintaining species survival.",
+    "marks": 8,
+    "mark_scheme": ["maintain genetically diverse populations", "use studbooks to manage mating", "allow reintroduction into wild", "high cost and limited capacity", "inbreeding risk if population small", "behavioural changes reduce survival in wild", "necessary when species critically endangered", "works best when combined with habitat protection"],
+    "topic": "Biodiversity",
+    "subtopic": "Conservation strategies",
+    "question_type": "longform",
+    "wrong_choices": null
+  }
+]

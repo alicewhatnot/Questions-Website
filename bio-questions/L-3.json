@@ -1,0 +1,186 @@
+[
+  {
+    "question": "Describe the binomial naming system and explain why it is important in biological classification.",
+    "marks": 3,
+    "mark_scheme": ["two-part Latin name", "genus then species", "provides universal naming system improving communication"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Classification",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the difference between phylogenetic classification and artificial classification.",
+    "marks": 4,
+    "mark_scheme": ["phylogenetic uses evolutionary relationships", "based on shared ancestry and genetic evidence", "artificial uses observable features only", "may group organisms that are not closely related"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Classification",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Outline the key features of the three-domain system proposed by Woese.",
+    "marks": 3,
+    "mark_scheme": ["domains Archaea, Bacteria, Eukarya", "based on molecular and ribosomal RNA differences", "separates prokaryotes into two distinct groups"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Classification",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how DNA sequencing can be used to determine evolutionary relationships between organisms.",
+    "marks": 5,
+    "mark_scheme": ["compare base sequences", "more similarities indicate closer relation", "molecular clocks estimate divergence time", "used to construct phylogenetic trees", "less influenced by environmental convergence"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Classification",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Explain how genetic variation arises within a population.",
+    "marks": 4,
+    "mark_scheme": ["mutations create new alleles", "meiosis produces variation via crossing over", "independent assortment", "random fertilisation adds further variation"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how natural selection leads to evolution of a population over time.",
+    "marks": 6,
+    "mark_scheme": ["variation exists", "selection pressure acts", "advantageous alleles increase survival", "survivors reproduce", "allele frequency increases", "population becomes better adapted"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Using an example, explain how directional selection can occur.",
+    "marks": 4,
+    "mark_scheme": ["selection favours extreme phenotype", "population mean shifts", "e.g., antibiotic resistance increases", "occurs when environment changes"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how allopatric speciation may occur in a population.",
+    "marks": 5,
+    "mark_scheme": ["geographical barrier separates populations", "no gene flow", "different mutations accumulate", "different selection pressures", "populations become reproductively isolated"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe two different types of reproductive isolation that can prevent interbreeding between species.",
+    "marks": 3,
+    "mark_scheme": ["temporal isolation", "behavioural isolation", "mechanical isolation"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Define biodiversity and outline its three main components.",
+    "marks": 3,
+    "mark_scheme": ["variety of life", "species diversity", "genetic diversity", "habitat diversity"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain why high genetic diversity is important for the survival of a species.",
+    "marks": 4,
+    "mark_scheme": ["increases chance individuals survive changes", "greater range of alleles", "reduces risk of disease wiping out population", "increases evolutionary potential"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how random sampling can be used to estimate species abundance in a habitat.",
+    "marks": 5,
+    "mark_scheme": ["divide habitat into grid", "use random coordinates", "place quadrats", "count individuals", "calculate mean density and scale up"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how the Simpson’s Index of Diversity provides a measure of biodiversity.",
+    "marks": 4,
+    "mark_scheme": ["calculated from species abundance", "high value indicates high diversity", "takes into account richness and evenness", "sensitive to dominance by one species"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Discuss how habitat fragmentation can lead to a reduction in biodiversity.",
+    "marks": 6,
+    "mark_scheme": ["smaller populations more vulnerable", "reduced gene flow", "increased edge effects", "loss of specialist species", "disruption of migration routes", "increased vulnerability to invasive species"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Outline the main aims of in situ conservation.",
+    "marks": 3,
+    "mark_scheme": ["protect species in natural habitat", "maintain ecological interactions", "preserve genetic diversity"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe two disadvantages of ex situ conservation methods such as zoos or seed banks.",
+    "marks": 3,
+    "mark_scheme": ["loss of natural behaviour", "gene pool may be limited", "difficulty reintroducing to wild"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Explain how climate change may influence species distributions globally.",
+    "marks": 5,
+    "mark_scheme": ["temperature changes alter niches", "species migrate to suitable climates", "some cannot migrate quickly enough", "habitats may disappear", "leads to extinction or range expansion"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Discuss why endemic species are particularly vulnerable to extinction.",
+    "marks": 4,
+    "mark_scheme": ["restricted range", "small populations", "susceptible to habitat change", "limited genetic diversity"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Describe how anatomical adaptations and behavioural adaptations can increase an organism’s fitness.",
+    "marks": 4,
+    "mark_scheme": ["anatomical adaptations improve survival physically", "behavioural adaptations involve actions", "both increase reproductive success", "examples: camouflage, migration"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain the role of conservation organisations in maintaining global biodiversity.",
+    "marks": 8,
+    "mark_scheme": ["monitoring species", "habitat protection", "breeding programmes", "legal enforcement", "education", "international agreements", "research contributions", "restoration of ecosystems"],
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
+    "question_type": "longform",
+    "wrong_choices": null
+  }
+]

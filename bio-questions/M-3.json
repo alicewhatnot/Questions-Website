@@ -1,0 +1,298 @@
+[
+  {
+    "question": "What is the role of spiracles in insects?",
+    "marks": 1,
+    "mark_scheme": "They allow gases to enter and leave the tracheal system",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in insects",
+    "question_type": "mul_choice",
+    "wrong_choices": ["They pump haemolymph", "They generate ventilation currents", "They act as sites of gas exchange"]
+  },
+  {
+    "question": "Which structure in insects delivers oxygen directly to tissues?",
+    "marks": 1,
+    "mark_scheme": "Tracheoles",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in insects",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Bronchioles", "Gill filaments", "Alveoli"]
+  },
+  {
+    "question": "Why do insects ventilate their tracheal system during activity?",
+    "marks": 1,
+    "mark_scheme": "To increase diffusion of oxygen to tissues",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in insects",
+    "question_type": "mul_choice",
+    "wrong_choices": ["To reduce water loss", "To increase haemolymph pressure", "To close spiracles"]
+  },
+
+  {
+    "question": "What increases the surface area for gas exchange in fish gills?",
+    "marks": 1,
+    "mark_scheme": "Gill lamellae",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in fish",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Operculum", "Spiracles", "Parabronchi"]
+  },
+  {
+    "question": "Why is countercurrent flow efficient in fish gills?",
+    "marks": 1,
+    "mark_scheme": "It maintains a diffusion gradient across the entire exchange surface",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in fish",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Blood and water flow in the same direction", "Blood flow is faster than water flow", "Water contains more oxygen than air"]
+  },
+  {
+    "question": "What structure moves water across fish gills?",
+    "marks": 1,
+    "mark_scheme": "Operculum",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in fish",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Tracheae", "Bronchi", "Lamellae"]
+  },
+
+  {
+    "question": "Which feature of alveoli increases the rate of diffusion?",
+    "marks": 1,
+    "mark_scheme": "Their large surface area to volume ratio",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in mammals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Thick walls", "Low elasticity", "Poor blood supply"]
+  },
+  {
+    "question": "Why is the diaphragm important in ventilation?",
+    "marks": 1,
+    "mark_scheme": "Its contraction increases thoracic volume",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in mammals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Its contraction decreases lung pressure", "Its relaxation increases thoracic volume", "It directly pumps air into the lungs"]
+  },
+  {
+    "question": "Which statement describes tidal volume?",
+    "marks": 1,
+    "mark_scheme": "The volume of air breathed in or out during a normal breath",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in mammals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["The air left after forced expiration", "Maximum air inhaled after normal inspiration", "Total air the lungs can hold"]
+  },
+
+  {
+    "question": "Why do xerophytic plants have sunken stomata?",
+    "marks": 1,
+    "mark_scheme": "To reduce water loss by trapping humid air",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["To increase diffusion rate", "To increase transpiration", "To increase stomatal density"]
+  },
+  {
+    "question": "Which cells control stomatal opening?",
+    "marks": 1,
+    "mark_scheme": "Guard cells",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Mesophyll cells", "Companion cells", "Endodermal cells"]
+  },
+  {
+    "question": "What causes stomata to close during drought?",
+    "marks": 1,
+    "mark_scheme": "Loss of turgor in guard cells",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["High CO₂ concentration", "Increased potassium uptake", "Expansion of vacuoles"]
+  },
+
+  {
+    "question": "Which cells transport water in plants?",
+    "marks": 1,
+    "mark_scheme": "Xylem vessels",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Sieve tube elements", "Parenchyma cells", "Companion cells"]
+  },
+  {
+    "question": "Why does water move up xylem vessels?",
+    "marks": 1,
+    "mark_scheme": "Cohesion-tension caused by transpiration",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Active transport of water", "Osmosis generated in leaves", "Root pressure alone"]
+  },
+  {
+    "question": "What is translocation?",
+    "marks": 1,
+    "mark_scheme": "Movement of assimilates through phloem",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Movement of water in xylem", "Loss of water through stomata", "Uptake of minerals by roots"]
+  },
+  {
+    "question": "Which hypothesis explains phloem transport?",
+    "marks": 1,
+    "mark_scheme": "Mass flow hypothesis",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Cohesion-tension theory", "Pressure dissolution theory", "Evaporative pull theory"]
+  },
+  {
+    "question": "Why are companion cells important in phloem?",
+    "marks": 1,
+    "mark_scheme": "They provide ATP for active loading",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["They conduct water", "They store starch grains", "They thicken vessel walls"]
+  },
+
+  {
+    "question": "Which blood vessel has the thickest elastic tissue layer?",
+    "marks": 1,
+    "mark_scheme": "Artery",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in animals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Vein", "Capillary", "Venule"]
+  },
+  {
+    "question": "Why do veins contain valves?",
+    "marks": 1,
+    "mark_scheme": "To prevent backflow of blood",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in animals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["To regulate blood pressure", "To control blood oxygen levels", "To reduce friction"]
+  },
+  {
+    "question": "Where does tissue fluid form?",
+    "marks": 1,
+    "mark_scheme": "At the arterial end of capillaries",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in animals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["In the vena cava", "In lymph nodes", "In the alveoli"]
+  },
+  {
+    "question": "What returns excess tissue fluid to the blood?",
+    "marks": 1,
+    "mark_scheme": "Lymphatic system",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in animals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Renal system", "Endocrine system", "Digestive system"]
+  },
+
+  {
+    "question": "Which chamber pumps blood to the lungs?",
+    "marks": 1,
+    "mark_scheme": "Right ventricle",
+    "topic": "Exchange and Transport",
+    "subtopic": "The heart and cardiac cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Left ventricle", "Right atrium", "Left atrium"]
+  },
+  {
+    "question": "During which phase does the heart contract?",
+    "marks": 1,
+    "mark_scheme": "Systole",
+    "topic": "Exchange and Transport",
+    "subtopic": "The heart and cardiac cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Diastole", "Repolarisation", "Depolarisation"]
+  },
+  {
+    "question": "What is the function of the sinoatrial node?",
+    "marks": 1,
+    "mark_scheme": "It initiates the heartbeat",
+    "topic": "Exchange and Transport",
+    "subtopic": "The heart and cardiac cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["It delays electrical impulses", "It contracts the ventricles", "It pumps blood from the atria"]
+  },
+  {
+    "question": "Which vessels supply the heart muscle with oxygen?",
+    "marks": 1,
+    "mark_scheme": "Coronary arteries",
+    "topic": "Exchange and Transport",
+    "subtopic": "The heart and cardiac cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Renal arteries", "Pulmonary arteries", "Hepatic arteries"]
+  },
+
+  {
+    "question": "What is the Bohr effect?",
+    "marks": 1,
+    "mark_scheme": "Reduced affinity of haemoglobin for oxygen at high CO₂ levels",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in animals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Increased affinity at low pH", "Oxygen binding causes structural collapse", "CO₂ binds to the haem group"]
+  },
+  {
+    "question": "Which molecule binds oxygen in red blood cells?",
+    "marks": 1,
+    "mark_scheme": "Haemoglobin",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in animals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Collagen", "Myosin", "Elastin"]
+  },
+  {
+    "question": "Why is fetal haemoglobin efficient at absorbing oxygen from maternal blood?",
+    "marks": 1,
+    "mark_scheme": "It has a higher affinity for oxygen",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in animals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["It carries more iron", "It is present at higher concentration", "It binds carbon dioxide more readily"]
+  },
+
+  {
+    "question": "Which factor increases the rate of transpiration?",
+    "marks": 1,
+    "mark_scheme": "Low humidity",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Still air", "High soil water content", "Closed stomata"]
+  },
+  {
+    "question": "Which feature of guard cells allows stomata to open?",
+    "marks": 1,
+    "mark_scheme": "Unevenly thickened cell walls",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["High chlorophyll content", "Presence of lignin", "Large vacuoles only"]
+  },
+  {
+    "question": "Which factor directly causes water uptake in roots?",
+    "marks": 1,
+    "mark_scheme": "Water potential gradient",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Active transport of water", "Translocation pull", "Phloem loading"]
+  },
+  {
+    "question": "Why does oxygen diffuse rapidly from alveoli into the blood?",
+    "marks": 1,
+    "mark_scheme": "Short diffusion distance",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange in mammals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["High solubility of oxygen", "Low surface area of alveoli", "Weak ventilation"]
+  }
+]

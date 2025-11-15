@@ -1,0 +1,353 @@
+[
+  {
+    "question": "Which molecule is the immediate source of energy for cellular processes?",
+    "marks": 1,
+    "mark_scheme": "ATP",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "ATP and coenzymes",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Glucose", "NADH", "Pyruvate"]
+  },
+  {
+    "question": "What is the role of NAD in respiration?",
+    "marks": 1,
+    "mark_scheme": "To carry hydrogen atoms and electrons to the electron transport chain",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "ATP and coenzymes",
+    "question_type": "mul_choice",
+    "wrong_choices": ["To form ATP directly", "To bind oxygen", "To convert CO₂ into sugars"]
+  },
+  {
+    "question": "Where does glycolysis occur?",
+    "marks": 1,
+    "mark_scheme": "Cytoplasm",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: glycolysis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Matrix", "Cristae", "Intermembrane space"]
+  },
+  {
+    "question": "What is produced at the end of glycolysis?",
+    "marks": 1,
+    "mark_scheme": "Two molecules of pyruvate",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: glycolysis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Lactate", "Acetyl CoA", "Carbon dioxide"]
+  },
+  {
+    "question": "What is the net gain of ATP from glycolysis?",
+    "marks": 1,
+    "mark_scheme": "2 ATP",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: glycolysis",
+    "question_type": "mul_choice",
+    "wrong_choices": ["4 ATP", "6 ATP", "1 ATP"]
+  },
+  {
+    "question": "Where does the link reaction occur?",
+    "marks": 1,
+    "mark_scheme": "Mitochondrial matrix",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: link reaction and Krebs cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Cytoplasm", "Cristae", "Nucleus"]
+  },
+  {
+    "question": "Which molecule enters the Krebs cycle?",
+    "marks": 1,
+    "mark_scheme": "Acetyl CoA",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: link reaction and Krebs cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Pyruvate", "Ethanol", "Lactate"]
+  },
+  {
+    "question": "Which gas is released during the link reaction?",
+    "marks": 1,
+    "mark_scheme": "Carbon dioxide",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: link reaction and Krebs cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Oxygen", "Nitrogen", "Hydrogen"]
+  },
+  {
+    "question": "What is a product of the Krebs cycle?",
+    "marks": 1,
+    "mark_scheme": "Reduced NAD",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: link reaction and Krebs cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Pyruvate", "Lactate", "ATP synthase"]
+  },
+  {
+    "question": "Where does oxidative phosphorylation occur?",
+    "marks": 1,
+    "mark_scheme": "Inner mitochondrial membrane",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: oxidative phosphorylation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Matrix", "Outer membrane", "Cytoplasm"]
+  },
+  {
+    "question": "Which enzyme synthesises ATP using the proton gradient?",
+    "marks": 1,
+    "mark_scheme": "ATP synthase",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: oxidative phosphorylation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Rubisco", "Lyase", "Pyruvate dehydrogenase"]
+  },
+  {
+    "question": "What is the final electron acceptor in aerobic respiration?",
+    "marks": 1,
+    "mark_scheme": "Oxygen",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: oxidative phosphorylation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Carbon dioxide", "NADH", "Hydrogen"]
+  },
+  {
+    "question": "Which process explains ATP production in both respiration and photosynthesis?",
+    "marks": 1,
+    "mark_scheme": "Chemiosmosis",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "ATP and coenzymes",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Osmosis", "Active transport", "Simple diffusion"]
+  },
+  {
+    "question": "Which of the following occurs in anaerobic respiration in animals?",
+    "marks": 1,
+    "mark_scheme": "Pyruvate is reduced to lactate",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Anaerobic respiration",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Ethanol is oxidised", "Acetyl CoA is formed", "Oxygen acts as final electron acceptor"]
+  },
+  {
+    "question": "What is regenerated in anaerobic respiration to allow glycolysis to continue?",
+    "marks": 1,
+    "mark_scheme": "NAD",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Anaerobic respiration",
+    "question_type": "mul_choice",
+    "wrong_choices": ["ATP", "Carbon dioxide", "Acetyl CoA"]
+  },
+  {
+    "question": "Which pathway forms ethanol during anaerobic respiration?",
+    "marks": 1,
+    "mark_scheme": "Pyruvate → ethanal → ethanol",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Anaerobic respiration",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Pyruvate → lactate → ethanol", "Pyruvate → acetyl CoA → ethanol", "Glucose → ethanol"]
+  },
+  {
+    "question": "Where are photosynthetic pigments located?",
+    "marks": 1,
+    "mark_scheme": "Thylakoid membranes",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: pigments",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Stroma", "Matrix", "Intermembrane space"]
+  },
+  {
+    "question": "Which pigment appears yellow-green and passes energy to chlorophyll a?",
+    "marks": 1,
+    "mark_scheme": "Chlorophyll b",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: pigments",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Carotene", "Xanthophyll", "Chlorophyll c"]
+  },
+  {
+    "question": "The absorption spectrum shows:",
+    "marks": 1,
+    "mark_scheme": "Wavelengths of light absorbed by pigments",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: pigments",
+    "question_type": "mul_choice",
+    "wrong_choices": ["The rate of photosynthesis at different CO₂ levels", "Volumes of oxygen released", "ATP yield from photosynthesis"]
+  },
+  {
+    "question": "Which process occurs in the light-dependent stage?",
+    "marks": 1,
+    "mark_scheme": "Photolysis of water",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: light-dependent reactions",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Reduction of GP", "Regeneration of RuBP", "Fixation of CO₂"]
+  },
+  {
+    "question": "What is produced by photolysis?",
+    "marks": 1,
+    "mark_scheme": "Electrons, protons and oxygen",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: light-dependent reactions",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Pyruvate", "Lactate", "RuBP"]
+  },
+  {
+    "question": "Which product of non-cyclic photophosphorylation is not produced in cyclic photophosphorylation?",
+    "marks": 1,
+    "mark_scheme": "NADPH",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: light-dependent reactions",
+    "question_type": "mul_choice",
+    "wrong_choices": ["ATP", "Protons", "Oxygen"]
+  },
+  {
+    "question": "Where does the Calvin cycle occur?",
+    "marks": 1,
+    "mark_scheme": "Stroma",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: Calvin cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Thylakoid space", "Matrix", "Cytoplasm"]
+  },
+  {
+    "question": "Which enzyme fixes CO₂ in the Calvin cycle?",
+    "marks": 1,
+    "mark_scheme": "Rubisco",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: Calvin cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["ATP synthase", "Isomerase", "NADP reductase"]
+  },
+  {
+    "question": "What is GP reduced to in the Calvin cycle?",
+    "marks": 1,
+    "mark_scheme": "GALP",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: Calvin cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Pyruvate", "Acetyl CoA", "Lactate"]
+  },
+  {
+    "question": "What is required to reduce GP to GALP?",
+    "marks": 1,
+    "mark_scheme": "ATP and NADPH",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: Calvin cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Oxygen and ATP", "CO₂ and ADP", "FADH₂ and CO₂"]
+  },
+  {
+    "question": "Which molecule must be regenerated for the Calvin cycle to continue?",
+    "marks": 1,
+    "mark_scheme": "RuBP",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: Calvin cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Rubisco", "NADPH", "Oxygen"]
+  },
+  {
+    "question": "Which gas is consumed during photosynthesis?",
+    "marks": 1,
+    "mark_scheme": "Carbon dioxide",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: overview",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Nitrogen", "Methane", "Ozone"]
+  },
+  {
+    "question": "Which colour of light is absorbed most strongly by chlorophyll?",
+    "marks": 1,
+    "mark_scheme": "Red and blue",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: pigments",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Green", "Yellow", "Infrared"]
+  },
+  {
+    "question": "Which molecule is directly produced by the reduction of GALP?",
+    "marks": 1,
+    "mark_scheme": "Glucose",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: Calvin cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Lactate", "Acetyl CoA", "Ethanol"]
+  },
+  {
+    "question": "Which structure in chloroplasts increases surface area for light absorption?",
+    "marks": 1,
+    "mark_scheme": "Grana (stacks of thylakoids)",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Chloroplast structure",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Stroma", "Envelope", "Plasmodesmata"]
+  },
+  {
+    "question": "In which stage of photosynthesis is oxygen released?",
+    "marks": 1,
+    "mark_scheme": "Light-dependent stage",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: light-dependent reactions",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Calvin cycle", "Glycolysis", "Link reaction"]
+  },
+  {
+    "question": "Which molecule transports hydrogen to the Calvin cycle?",
+    "marks": 1,
+    "mark_scheme": "NADPH",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "ATP and coenzymes",
+    "question_type": "mul_choice",
+    "wrong_choices": ["ATP", "FADH₂", "NADH"]
+  },
+  {
+    "question": "What effect does temperature have on the Calvin cycle?",
+    "marks": 1,
+    "mark_scheme": "High temperatures reduce the activity of Rubisco",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: Calvin cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["It increases photolysis rate indefinitely", "It has no effect", "It increases oxygen release from the Calvin cycle"]
+  },
+  {
+    "question": "What is the main purpose of the light-independent reactions?",
+    "marks": 1,
+    "mark_scheme": "To convert CO₂ into carbohydrates",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: Calvin cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["To split water", "To generate a proton gradient", "To produce oxygen"]
+  },
+  {
+    "question": "Which molecule provides electrons for the electron transport chain in respiration?",
+    "marks": 1,
+    "mark_scheme": "Reduced NAD",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: oxidative phosphorylation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["ATP", "RuBP", "Water"]
+  },
+  {
+    "question": "Which stage of respiration produces the most ATP?",
+    "marks": 1,
+    "mark_scheme": "Oxidative phosphorylation",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: oxidative phosphorylation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Glycolysis", "Krebs cycle", "Link reaction"]
+  },
+  {
+    "question": "Which process directly creates the proton gradient in respiration?",
+    "marks": 1,
+    "mark_scheme": "Electron transport chain pumping protons into the intermembrane space",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Respiration: oxidative phosphorylation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Krebs cycle", "Pyruvate oxidation", "CO₂ production"]
+  },
+  {
+    "question": "Which intermediate is formed when CO₂ is fixed in the Calvin cycle?",
+    "marks": 1,
+    "mark_scheme": "GP",
+    "topic": "Energy for Biological Processes",
+    "subtopic": "Photosynthesis: Calvin cycle",
+    "question_type": "mul_choice",
+    "wrong_choices": ["GALP", "RuBP", "Acetyl CoA"]
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "question": "Which factor most directly limits diffusion in organisms with a low surface area to volume ratio?",
+    "marks": 1,
+    "mark_scheme": "Distance for diffusion",
+    "topic": "Exchange and Transport",
+    "subtopic": "Surface area to volume ratio",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Temperature", "Light intensity", "Presence of enzymes"]
+  },
+  {
+    "question": "Why do larger multicellular organisms require specialised mass transport systems?",
+    "marks": 1,
+    "mark_scheme": "Diffusion alone is too slow over long distances",
+    "topic": "Exchange and Transport",
+    "subtopic": "Surface area to volume ratio",
+    "question_type": "mul_choice",
+    "wrong_choices": ["They cannot respire", "Their blood is too viscous", "They lack mitochondria"]
+  },
+  {
+    "question": "Which component is part of the fluid mosaic model?",
+    "marks": 1,
+    "mark_scheme": "Phospholipid bilayer",
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Cellulose fibres", "Peptidoglycan layer", "Lignin rings"]
+  },
+  {
+    "question": "Which transport method requires carrier proteins but no ATP?",
+    "marks": 1,
+    "mark_scheme": "Facilitated diffusion",
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Active transport", "Exocytosis", "Osmosis"]
+  },
+  {
+    "question": "Which process describes water moving across a selectively permeable membrane down a water potential gradient?",
+    "marks": 1,
+    "mark_scheme": "Osmosis",
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Active transport", "Bulk flow", "Facilitated diffusion"]
+  },
+  {
+    "question": "Which property of a molecule most affects its ability to diffuse through the phospholipid bilayer?",
+    "marks": 1,
+    "mark_scheme": "Solubility in lipids",
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Its colour", "Its taste", "Its boiling point"]
+  },
+  {
+    "question": "What type of transport involves vesicles bringing materials into a cell?",
+    "marks": 1,
+    "mark_scheme": "Endocytosis",
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Osmosis", "Filtration", "Plasmolysis"]
+  },
+  {
+    "question": "What is the role of ATP in active transport?",
+    "marks": 1,
+    "mark_scheme": "Provides energy to change the shape of carrier proteins",
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Forms the concentration gradient", "Breaks phospholipid bonds", "Creates membrane pores"]
+  },
+  {
+    "question": "Which statement correctly describes phosphorylation?",
+    "marks": 1,
+    "mark_scheme": "Energy is used to add a phosphate to ADP to form ATP",
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "mul_choice",
+    "wrong_choices": ["ATP is broken down to amino acids", "Electrons are removed from ATP", "Hydrogen bonds are removed from glucose"]
+  },
+  {
+    "question": "How are insects adapted for efficient gas exchange?",
+    "marks": 1,
+    "mark_scheme": "They have a network of tracheoles delivering oxygen directly to cells",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange",
+    "question_type": "mul_choice",
+    "wrong_choices": ["They use haemoglobin to carry oxygen", "They ventilate using gills", "Their skin is permeable to gases"]
+  },
+  {
+    "question": "What adaptation allows fish gills to maintain a steep diffusion gradient?",
+    "marks": 1,
+    "mark_scheme": "Countercurrent flow of water and blood",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange",
+    "question_type": "mul_choice",
+    "wrong_choices": ["High blood pressure", "Parallel flow of water and blood", "Active pumping of oxygen into blood"]
+  },
+  {
+    "question": "Which feature of mammalian alveoli increases the rate of gas exchange?",
+    "marks": 1,
+    "mark_scheme": "Large surface area",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Thick walls", "Low capillary density", "Dry internal surface"]
+  },
+  {
+    "question": "What structure controls gas exchange in plants?",
+    "marks": 1,
+    "mark_scheme": "Stomata",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Lenticels only", "Sieve plates", "Casparian strip"]
+  },
+  {
+    "question": "Which statement correctly describes arteries?",
+    "marks": 1,
+    "mark_scheme": "They have thick elastic walls to withstand high pressure",
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["They contain valves throughout", "They carry only deoxygenated blood", "They have thin walls to allow diffusion"]
+  },
+  {
+    "question": "What is an advantage of the mammalian double circulatory system?",
+    "marks": 1,
+    "mark_scheme": "Blood can be pumped to the body at higher pressure",
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Diffusion distances are longer", "Blood pressure is reduced in all vessels", "It reduces heart rate"]
+  },
+  {
+    "question": "During which stage of the cardiac cycle do the ventricles contract?",
+    "marks": 1,
+    "mark_scheme": "Ventricular systole",
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Atrial systole", "Diastole", "Myogenic delay"]
+  },
+  {
+    "question": "Which heart structure initiates the heartbeat?",
+    "marks": 1,
+    "mark_scheme": "Sinoatrial node",
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Atrioventricular valve", "Bundle of His", "Semilunar valve"]
+  },
+  {
+    "question": "Which component of blood is responsible for phagocytosis?",
+    "marks": 1,
+    "mark_scheme": "Neutrophils",
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Erythrocytes", "Platelets", "Plasma proteins"]
+  },
+  {
+    "question": "Which sequence occurs in blood clotting?",
+    "marks": 1,
+    "mark_scheme": "Prothrombin → thrombin → fibrin",
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Fibrin → thrombin → prothrombin", "Thrombin → platelet plug → fibrinogen", "ATP → ADP → thrombin"]
+  },
+  {
+    "question": "Atherosclerosis begins with which event?",
+    "marks": 1,
+    "mark_scheme": "Damage to the endothelium",
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Formation of scar tissue", "Vasodilation of arteries", "Release of fibrin"]
+  },
+  {
+    "question": "What allows haemoglobin to load oxygen efficiently at the lungs?",
+    "marks": 1,
+    "mark_scheme": "High oxygen partial pressure",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport of gases in the blood",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Low pH", "High carbon dioxide pressure", "Presence of myoglobin"]
+  },
+  {
+    "question": "What is the Bohr effect?",
+    "marks": 1,
+    "mark_scheme": "Reduced affinity of haemoglobin for oxygen at higher CO₂ concentrations",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport of gases in the blood",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Increased oxygen affinity in muscles", "Higher affinity at low temperatures", "Reduced oxygen affinity in the lungs"]
+  },
+  {
+    "question": "Why does fetal haemoglobin have a higher oxygen affinity?",
+    "marks": 1,
+    "mark_scheme": "To load oxygen from maternal blood",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport of gases in the blood",
+    "question_type": "mul_choice",
+    "wrong_choices": ["To prevent carbon dioxide transport", "To increase blood viscosity", "To speed up diffusion through the placenta"]
+  },
+  {
+    "question": "What causes tissue fluid formation at the arterial end of a capillary?",
+    "marks": 1,
+    "mark_scheme": "High hydrostatic pressure",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transfer of materials",
+    "question_type": "mul_choice",
+    "wrong_choices": ["High oncotic pressure", "Low hydrostatic pressure", "Active transport of water"]
+  },
+  {
+    "question": "Where does excess tissue fluid drain?",
+    "marks": 1,
+    "mark_scheme": "The lymphatic system",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transfer of materials",
+    "question_type": "mul_choice",
+    "wrong_choices": ["The kidneys", "The alveoli", "The hepatic portal vein"]
+  },
+  {
+    "question": "Which plant tissue transports water?",
+    "marks": 1,
+    "mark_scheme": "Xylem",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Phloem", "Sclerenchyma", "Epidermis"]
+  },
+  {
+    "question": "Which plant pathway involves water moving through cell walls?",
+    "marks": 1,
+    "mark_scheme": "Apoplastic pathway",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Symplastic pathway", "Transmembrane pathway", "Cohesion pathway"]
+  },
+  {
+    "question": "Which force is essential for the cohesion–tension mechanism in xylem?",
+    "marks": 1,
+    "mark_scheme": "Hydrogen bonding between water molecules",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Magnetic attraction", "Electrical attraction to lignin", "Protein-mediated diffusion"]
+  },
+  {
+    "question": "Which factor increases transpiration rate?",
+    "marks": 1,
+    "mark_scheme": "Increased temperature",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["High humidity", "Closed stomata", "Reduced air movement"]
+  },
+  {
+    "question": "Which statement describes a limitation of the mass-flow hypothesis?",
+    "marks": 1,
+    "mark_scheme": "Different solutes move at different rates in phloem",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Phloem has no companion cells", "Sucrose is not soluble", "Pressure differences cannot exist in plants"]
+  },
+
+  {
+    "question": "Which component of the cell membrane provides stability at different temperatures?",
+    "marks": 1,
+    "mark_scheme": "Cholesterol",
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Starch", "Collagen", "Glycogen"]
+  },
+  {
+    "question": "Which variable would increase the rate of simple diffusion across membranes?",
+    "marks": 1,
+    "mark_scheme": "Higher concentration gradient",
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "mul_choice",
+    "wrong_choices": ["More ATP", "Lower temperature", "Increased membrane thickness"]
+  },
+  {
+    "question": "Which factor increases membrane permeability in the beetroot practical?",
+    "marks": 1,
+    "mark_scheme": "Higher temperature",
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Lower pH only", "Reduced pigment concentration", "Thicker cell walls"]
+  },
+  {
+    "question": "Which equation describes water potential?",
+    "marks": 1,
+    "mark_scheme": "Ψ = P + π",
+    "topic": "Exchange and Transport",
+    "subtopic": "Cell transport mechanisms",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Ψ = P − π", "Ψ = π − P", "Ψ = P × π"]
+  },
+  {
+    "question": "Which adaptation maximises gas exchange in plant leaves?",
+    "marks": 1,
+    "mark_scheme": "Thin leaves with large internal air spaces",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Thick cuticle", "Sunken stomata", "Reduced surface area"]
+  },
+  {
+    "question": "During exercise, blood pH falls. What effect does this have on haemoglobin?",
+    "marks": 1,
+    "mark_scheme": "Oxygen dissociates more readily",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport of gases in the blood",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Oxygen binds more strongly", "CO2 is not transported", "Myoglobin releases oxygen"]
+  },
+  {
+    "question": "Which blood vessel carries blood at the lowest pressure?",
+    "marks": 1,
+    "mark_scheme": "Veins",
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Aorta", "Pulmonary artery", "Arterioles"]
+  },
+  {
+    "question": "Which feature prevents backflow of blood in veins?",
+    "marks": 1,
+    "mark_scheme": "Semilunar valves",
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Thick walls", "Elastic fibres", "Smooth muscle"]
+  },
+  {
+    "question": "Which event immediately follows depolarisation of the SAN?",
+    "marks": 1,
+    "mark_scheme": "Atria contract",
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Ventricles contract", "AV valves close", "Semilunar valves open"]
+  },
+  {
+    "question": "What causes oncotic pressure in capillaries?",
+    "marks": 1,
+    "mark_scheme": "Plasma proteins",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transfer of materials",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Carbon dioxide", "Red blood cells", "Cholesterol"]
+  },
+  {
+    "question": "Which structure in plants allows upward movement of water without collapse?",
+    "marks": 1,
+    "mark_scheme": "Lignified xylem walls",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Thin phloem walls", "Casparian strip", "Stomatal guard cells"]
+  },
+  {
+    "question": "What is the main solute transported in phloem during translocation?",
+    "marks": 1,
+    "mark_scheme": "Sucrose",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Glucose", "Fructose", "Starch"]
+  },
+  {
+    "question": "Which factor directly decreases the rate of transpiration?",
+    "marks": 1,
+    "mark_scheme": "High humidity",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["High temperature", "Strong winds", "Large leaf surface area"]
+  },
+  {
+    "question": "Which structure loads sucrose into phloem sieve tubes?",
+    "marks": 1,
+    "mark_scheme": "Companion cells",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Guard cells", "Xylem parenchyma", "Sclerenchyma fibres"]
+  },
+  {
+    "question": "Which statement best explains why phloem transport is bidirectional?",
+    "marks": 1,
+    "mark_scheme": "Sources and sinks change with plant needs",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Pressure is always equal", "Xylem controls phloem flow", "Sucrose is insoluble"]
+  },
+  {
+    "question": "Which gas exchange structure is shown in Core Practical 7?",
+    "marks": 1,
+    "mark_scheme": "Insect tracheal system",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Fish gill lamellae", "Human alveoli", "Leaf mesophyll"]
+  },
+  {
+    "question": "What is the immediate effect of blockage in a coronary artery?",
+    "marks": 1,
+    "mark_scheme": "Reduced oxygen supply to cardiac muscle",
+    "topic": "Exchange and Transport",
+    "subtopic": "Circulation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Reduced lung ventilation", "Stop in systemic circulation", "Increased blood pH"]
+  },
+  {
+    "question": "Which variable is controlled in a potometer experiment?",
+    "marks": 1,
+    "mark_scheme": "Rate of water uptake",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Rate of respiration", "Rate of osmosis", "Rate of nitrate uptake"]
+  },
+  {
+    "question": "Which organism uses spiracles for gas exchange?",
+    "marks": 1,
+    "mark_scheme": "Insects",
+    "topic": "Exchange and Transport",
+    "subtopic": "Gas exchange",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Fish", "Amphibians", "Mammals"]
+  },
+  {
+    "question": "Which molecule binds oxygen in muscle tissue?",
+    "marks": 1,
+    "mark_scheme": "Myoglobin",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transport of gases in the blood",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Haemoglobin", "Actin", "Albumin"]
+  },
+  {
+    "question": "Where is most water reabsorbed during tissue fluid formation?",
+    "marks": 1,
+    "mark_scheme": "At the venous end of capillaries",
+    "topic": "Exchange and Transport",
+    "subtopic": "Transfer of materials",
+    "question_type": "mul_choice",
+    "wrong_choices": ["At the arterial end", "In arteries", "In lymph nodes"]
+  }
+]

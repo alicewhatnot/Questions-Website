@@ -1,0 +1,337 @@
+[
+  {
+    "question": "Which statement best describes cell theory?",
+    "marks": 1,
+    "mark_scheme": "Cells are the fundamental unit of structure, function and organisation in living organisms",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Cells only form from non-living material", "All organisms consist of multiple cells", "Cells are only used for reproduction"]
+  },
+  {
+    "question": "Which structure is present in prokaryotic cells but not in eukaryotic animal cells?",
+    "marks": 1,
+    "mark_scheme": "Plasmid",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Mitochondria", "Golgi apparatus", "Lysosomes"]
+  },
+  {
+    "question": "What is the function of the nucleoid in bacteria?",
+    "marks": 1,
+    "mark_scheme": "It contains circular DNA",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "question_type": "mul_choice",
+    "wrong_choices": ["It synthesises proteins", "It stores nutrients", "It generates ATP"]
+  },
+  {
+    "question": "Which ribosome size is found in prokaryotic cells?",
+    "marks": 1,
+    "mark_scheme": "70S",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "question_type": "mul_choice",
+    "wrong_choices": ["80S", "60S", "90S"]
+  },
+  {
+    "question": "Why do Gram-positive bacteria retain crystal violet stain?",
+    "marks": 1,
+    "mark_scheme": "They have a thick peptidoglycan layer",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "question_type": "mul_choice",
+    "wrong_choices": ["They have an outer membrane", "They lack peptidoglycan", "They contain teichoic acid only"]
+  },
+
+  {
+    "question": "Which organelle modifies and packages proteins?",
+    "marks": 1,
+    "mark_scheme": "Golgi apparatus",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Rough ER", "Smooth ER", "Lysosome"]
+  },
+  {
+    "question": "Which microscope provides the highest resolution?",
+    "marks": 1,
+    "mark_scheme": "Transmission electron microscope",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Light microscope", "Scanning electron microscope", "Hand lens"]
+  },
+  {
+    "question": "Why are stains used in microscopy?",
+    "marks": 1,
+    "mark_scheme": "To increase contrast of cell structures",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "question_type": "mul_choice",
+    "wrong_choices": ["To decrease resolution", "To enlarge the specimen", "To increase magnification"]
+  },
+
+  {
+    "question": "Which virus contains RNA as its genetic material and replicates using reverse transcriptase?",
+    "marks": 1,
+    "mark_scheme": "HIV",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Viruses",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Lambda phage", "Tobacco mosaic virus", "Ebola virus"]
+  },
+  {
+    "question": "What is the lytic cycle of a virus?",
+    "marks": 1,
+    "mark_scheme": "A cycle where the virus replicates and causes cell lysis",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Viruses",
+    "question_type": "mul_choice",
+    "wrong_choices": ["A dormant phase with no replication", "A process of budding from the host cell", "A cycle involving binary fission"]
+  },
+  {
+    "question": "Why are viruses difficult to treat once infection occurs?",
+    "marks": 1,
+    "mark_scheme": "They replicate inside host cells",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Viruses",
+    "question_type": "mul_choice",
+    "wrong_choices": ["They contain many metabolic enzymes", "They have thick cell walls", "They divide by mitosis"]
+  },
+
+  {
+    "question": "During which phase of the cell cycle does DNA replication occur?",
+    "marks": 1,
+    "mark_scheme": "S phase of interphase",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic cell cycle and division",
+    "question_type": "mul_choice",
+    "wrong_choices": ["G1 phase", "G2 phase", "Metaphase"]
+  },
+  {
+    "question": "Which process results in two genetically identical daughter cells?",
+    "marks": 1,
+    "mark_scheme": "Mitosis",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic cell cycle and division",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Meiosis", "Binary fission", "Fertilisation"]
+  },
+  {
+    "question": "Which stage of mitosis involves the separation of sister chromatids?",
+    "marks": 1,
+    "mark_scheme": "Anaphase",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic cell cycle and division",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Prophase", "Metaphase", "Telophase"]
+  },
+  {
+    "question": "What is the role of the spindle during mitosis?",
+    "marks": 1,
+    "mark_scheme": "To separate chromatids",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic cell cycle and division",
+    "question_type": "mul_choice",
+    "wrong_choices": ["To condense DNA", "To produce centrioles", "To break down the nuclear membrane"]
+  },
+  {
+    "question": "Which event is unique to meiosis and leads to genetic variation?",
+    "marks": 1,
+    "mark_scheme": "Crossing over",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic cell cycle and division",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Chromatid separation", "Chromosome replication", "Spindle formation"]
+  },
+
+  {
+    "question": "What is non-disjunction?",
+    "marks": 1,
+    "mark_scheme": "Failure of chromosomes to separate correctly",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic cell cycle and division",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Random fertilisation", "Crossing over", "Independent assortment"]
+  },
+  {
+    "question": "Which condition results from non-disjunction of chromosome 21?",
+    "marks": 1,
+    "mark_scheme": "Down’s syndrome",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic cell cycle and division",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Turner’s syndrome", "Klinefelter’s syndrome", "Sickle cell anaemia"]
+  },
+
+  {
+    "question": "What is produced by spermatogenesis?",
+    "marks": 1,
+    "mark_scheme": "Haploid sperm cells",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in mammals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Diploid sperm cells", "Haploid eggs", "Diploid zygotes"]
+  },
+  {
+    "question": "During fertilisation, what triggers the cortical reaction?",
+    "marks": 1,
+    "mark_scheme": "Fusion of sperm and egg membranes",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in mammals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Release of enzymes from lysosomes", "Sperm binding to follicle cells", "Completion of the second meiotic division"]
+  },
+  {
+    "question": "What is formed immediately after fertilisation?",
+    "marks": 1,
+    "mark_scheme": "Zygote",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in mammals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Embryo", "Blastocyst", "Morula"]
+  },
+  {
+    "question": "At which stage does the blastocyst form?",
+    "marks": 1,
+    "mark_scheme": "After several mitotic divisions of the zygote",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in mammals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Immediately at fertilisation", "During meiosis", "Before implantation"]
+  },
+
+  {
+    "question": "Where are pollen grains formed?",
+    "marks": 1,
+    "mark_scheme": "In the anther",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["In the ovary", "In the stigma", "In the style"]
+  },
+  {
+    "question": "What is the role of the tube nucleus in pollen?",
+    "marks": 1,
+    "mark_scheme": "To control growth of the pollen tube",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["To fertilise the egg", "To divide into gametes", "To form the endosperm"]
+  },
+  {
+    "question": "What does double fertilisation produce?",
+    "marks": 1,
+    "mark_scheme": "A diploid zygote and a triploid endosperm",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Two diploid embryos", "Two triploid nuclei", "A haploid embryo and diploid endosperm"]
+  },
+  {
+    "question": "What guides the male nuclei to the embryo sac?",
+    "marks": 1,
+    "mark_scheme": "The pollen tube",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["The style", "The stigma", "The ovule wall"]
+  },
+
+  {
+    "question": "Which structure contains 80S ribosomes?",
+    "marks": 1,
+    "mark_scheme": "Eukaryotic cytoplasm",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Bacterial cytoplasm", "Chloroplast stroma", "Mitochondrial matrix"]
+  },
+  {
+    "question": "Which organelle contains its own circular DNA?",
+    "marks": 1,
+    "mark_scheme": "Mitochondrion",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Golgi apparatus", "Lysosome", "Nucleolus"]
+  },
+
+  {
+    "question": "What triggers independent assortment?",
+    "marks": 1,
+    "mark_scheme": "Random orientation of homologous chromosomes",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic cell cycle and division",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Crossing over", "Chromosome replication", "Cytokinesis"]
+  },
+  {
+    "question": "Which stage of meiosis leads to separation of homologous chromosomes?",
+    "marks": 1,
+    "mark_scheme": "Anaphase I",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Eukaryotic cell cycle and division",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Anaphase II", "Prophase II", "Metaphase II"]
+  },
+
+  {
+    "question": "What is the function of acrosome enzymes?",
+    "marks": 1,
+    "mark_scheme": "To digest the zona pellucida",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in mammals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["To provide ATP for swimming", "To activate cortical granules", "To form the pronucleus"]
+  },
+  {
+    "question": "What prevents polyspermy in mammalian fertilisation?",
+    "marks": 1,
+    "mark_scheme": "The cortical reaction",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in mammals",
+    "question_type": "mul_choice",
+    "wrong_choices": ["The acrosome reaction", "Independent assortment", "The zona radiata"]
+  },
+
+  {
+    "question": "Which structure forms the seed's food store in flowering plants?",
+    "marks": 1,
+    "mark_scheme": "Endosperm",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Embryo", "Pollen tube", "Seed coat"]
+  },
+  {
+    "question": "Which structure contains the female gamete in plants?",
+    "marks": 1,
+    "mark_scheme": "Embryo sac",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual reproduction in plants",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Anther", "Stigma", "Filament"]
+  },
+
+  {
+    "question": "Which term describes viruses?",
+    "marks": 1,
+    "mark_scheme": "Non-living particles",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Viruses",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Prokaryotic cells", "Eukaryotic cells", "Single-celled organisms"]
+  },
+  {
+    "question": "Which virus is used as an example of a DNA virus in the specification?",
+    "marks": 1,
+    "mark_scheme": "Lambda phage",
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Viruses",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Influenza", "Ebola", "HIV"]
+  }
+]

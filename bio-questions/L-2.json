@@ -1,0 +1,223 @@
+[
+  {
+    "question": "Describe the differences between prokaryotic and eukaryotic cells in terms of their structural features.",
+    "marks": 4,
+    "mark_scheme": ["prokaryotes lack membrane-bound organelles", "prokaryotes have 70S ribosomes; eukaryotes 80S", "prokaryotes have circular DNA in nucleoids", "eukaryotes contain nucleus with linear chromosomes"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Structure and Function",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how Gram-positive and Gram-negative bacteria differ in their cell wall structure and antibiotic response.",
+    "marks": 5,
+    "mark_scheme": ["Gram-positive have thick peptidoglycan layer", "Gram-negative have thin layer and outer membrane", "Gram-positive retain crystal violet stain", "Gram-negative more resistant to some antibiotics", "outer membrane prevents antibiotic entry"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Structure and Function",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Outline the roles of the Golgi apparatus and lysosomes within a eukaryotic cell.",
+    "marks": 3,
+    "mark_scheme": ["Golgi modifies and packages proteins", "Golgi forms vesicles for secretion", "lysosomes contain hydrolytic enzymes for digestion"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Structure and Function",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe how staining and the use of light microscopy allow scientists to observe cell structures.",
+    "marks": 4,
+    "mark_scheme": ["stains increase contrast", "bind to specific structures", "light microscopy allows magnification of specimens", "resolution improved to distinguish features"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Structure and Function",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Explain why viruses are considered non-living.",
+    "marks": 2,
+    "mark_scheme": ["lack cellular structure", "cannot reproduce independently of host"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Viruses",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Compare the structure of Ebola virus and λ phage, focusing on nucleic acid type and overall morphology.",
+    "marks": 5,
+    "mark_scheme": ["Ebola has RNA genome", "λ phage has DNA genome", "Ebola is filamentous", "λ phage has head and tail", "both require host cells for replication"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Viruses",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the lytic cycle of a virus.",
+    "marks": 4,
+    "mark_scheme": ["attachment to host cell", "injection of nucleic acid", "replication of viral components", "assembly and host cell lysis"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Viruses",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Discuss why preventing the spread of viral diseases is often more effective than treating infections once they occur.",
+    "marks": 6,
+    "mark_scheme": ["viruses replicate inside cells", "few antiviral targets", "difficult to destroy without harming host", "rapid transmission", "focus on quarantine/hygiene", "vaccination reduces spread"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Viruses",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Describe the stages of interphase and state the key events occurring in each stage.",
+    "marks": 4,
+    "mark_scheme": ["G1 cell growth", "S DNA replication", "G2 preparation for mitosis", "checkpoints ensure accuracy"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Cycle and Division",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how mitosis results in genetically identical daughter cells.",
+    "marks": 4,
+    "mark_scheme": ["DNA replication before division", "separation of sister chromatids", "equal distribution to daughter cells", "maintains chromosome number"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Cycle and Division",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the role of the spindle apparatus during mitosis.",
+    "marks": 3,
+    "mark_scheme": ["attaches to centromeres", "separates chromatids", "ensures accurate chromosome segregation"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Cycle and Division",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how meiosis leads to genetic variation in gametes.",
+    "marks": 6,
+    "mark_scheme": ["independent assortment", "crossing over", "recombination of alleles", "random segregation", "haploid gametes", "random fertilisation increases variation"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Cycle and Division",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Outline how non-disjunction can lead to conditions such as Down’s syndrome.",
+    "marks": 3,
+    "mark_scheme": ["chromosomes fail to separate", "gamete receives extra chromosome", "trisomy 21 results from fertilisation"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Cycle and Division",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the events that occur during prophase of mitosis.",
+    "marks": 2,
+    "mark_scheme": ["chromosomes condense", "nuclear envelope breaks down"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Cycle and Division",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Compare spermatogenesis and oogenesis in mammals.",
+    "marks": 8,
+    "mark_scheme": ["spermatogenesis produces many sperm", "continuous after puberty", "oogenesis forms few ova", "arrests at stages", "unequal cytokinesis", "sperm highly motile", "ova large with nutrient stores", "different hormonal controls"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual Reproduction in Mammals",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the acrosome reaction during fertilisation.",
+    "marks": 3,
+    "mark_scheme": ["acrosome releases enzymes", "digests zona pellucida", "allows sperm membrane to fuse with oocyte"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual Reproduction in Mammals",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how the cortical reaction prevents polyspermy.",
+    "marks": 4,
+    "mark_scheme": ["oocyte releases cortical granules", "zona pellucida hardens", "receptors destroyed", "prevents further sperm entry"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual Reproduction in Mammals",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Outline the development of the embryo from zygote to blastocyst.",
+    "marks": 3,
+    "mark_scheme": ["mitotic divisions form morula", "hollowing forms blastocyst", "inner cell mass develops"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual Reproduction in Mammals",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Describe how pollen grains form in the anther.",
+    "marks": 5,
+    "mark_scheme": ["diploid mother cells undergo meiosis", "form haploid microspores", "microspores mature into pollen grains", "mitosis produces generative and tube nucleus", "exine and intine layers form"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual Reproduction in Plants",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Explain how the pollen tube grows towards the embryo sac.",
+    "marks": 4,
+    "mark_scheme": ["tube nucleus controls growth", "enzymes digest style tissue", "chemotaxis guides tube", "generative nucleus divides to form male nuclei"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual Reproduction in Plants",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the process of double fertilisation in flowering plants.",
+    "marks": 4,
+    "mark_scheme": ["one male nucleus fuses with egg forming zygote", "other male nucleus fuses with two polar nuclei", "forms triploid endosperm", "occurs inside embryo sac"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual Reproduction in Plants",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Outline how the embryo sac develops in the ovule.",
+    "marks": 3,
+    "mark_scheme": ["megaspore mother cell undergoes meiosis", "three megaspores degenerate", "remaining forms embryo sac by mitosis"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Sexual Reproduction in Plants",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+
+  {
+    "question": "Explain why electron microscopes provide higher resolution than light microscopes.",
+    "marks": 5,
+    "mark_scheme": ["shorter wavelength of electrons", "greater resolving power", "electromagnets focus electron beam", "allow viewing ultrastructure", "overcomes diffraction limit of light"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Structure and Function",
+    "question_type": "longform",
+    "wrong_choices": null
+  },
+  {
+    "question": "Describe the function of chloroplasts and explain how their structure is adapted to their roles.",
+    "marks": 6,
+    "mark_scheme": ["site of photosynthesis", "thylakoid membranes increase surface area", "grana contain photosystems", "stroma contains enzymes", "own DNA/ribosomes for protein synthesis", "double membrane for compartmentalisation"],
+    "topic": "Cells, Viruses and Reproduction",
+    "subtopic": "Cell Structure and Function",
+    "question_type": "longform",
+    "wrong_choices": null
+  }
+]
