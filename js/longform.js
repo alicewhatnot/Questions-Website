@@ -6,7 +6,7 @@ async function loadLongform() {
 
     // Filter questions by already-asked AND selected topics/subtopics
     let available = questions.filter(q => {
-        const notAsked = !asked.includes(q.id);
+        const notAsked = !asked.includes(q.question);
 
         // If no filters selected, allow all
         if (selected.length === 0) return notAsked;

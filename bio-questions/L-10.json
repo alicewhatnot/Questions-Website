@@ -153,7 +153,7 @@
     "wrong_choices": null
   },
   {
-    "question": "Explain how mark–release–recapture can be used to estimate population size.",
+    "question": "Explain how mark-release-recapture can be used to estimate population size.",
     "marks": 3,
     "mark_scheme": ["capture sample and mark individuals non-harmfully", "release and allow mixing", "recapture second sample", "use Lincoln Index N = (n1 × n2) ÷ m2"],
     "topic": "Biodiversity",

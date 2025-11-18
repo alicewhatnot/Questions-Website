@@ -8,7 +8,7 @@ async function loadMulChoice() {
 
     // Filter questions by selected filters and unanswered
     let available = questions.filter(q => {
-        const notAsked = !asked.includes(q.id);
+        const notAsked = !asked.includes(q.question);
         if (selected.length === 0) return notAsked; // no filters = all allowed
         const key = `${q.topic}:${q.subtopic}`;
         return notAsked && selected.includes(key);
