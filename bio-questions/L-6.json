@@ -1,0 +1,327 @@
+[
+    {
+      "question": "Describe the aseptic techniques used when culturing microorganisms and explain why they are important.",
+      "marks": 4,
+      "mark_scheme": [
+        "Flaming the inoculating loop",
+        "Sterilising equipment before use",
+        "Working near a Bunsen flame to create updraft",
+        "Prevent contamination of culture and environment"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Explain how different types of media can be used to culture microorganisms, giving examples.",
+      "marks": 3,
+      "mark_scheme": [
+        "Broth cultures for liquid growth",
+        "Agar plates for isolated colonies",
+        "Selective media inhibits some organisms (e.g., MacConkey agar)",
+        "Differential media shows visible differences"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Outline how the growth of bacteria can be measured using different methods.",
+      "marks": 4,
+      "mark_scheme": [
+        "Cell counts using a microscope",
+        "Serial dilution and plating for viable cells",
+        "Mass measurement (dry mass) of bacteria",
+        "Optical methods such as turbidity"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Describe the phases of a bacterial growth curve and calculate the exponential growth rate constant given data.",
+      "marks": 5,
+      "mark_scheme": [
+        "Lag phase: no increase in cell number",
+        "Log phase: exponential growth",
+        "Stationary phase: growth ceases due to nutrient limitation",
+        "Death phase: decline in population",
+        "Calculation of growth rate using formula k = (ln N2 - ln N1)/Δt"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Explain how bacteria can cause disease in humans, giving examples.",
+      "marks": 4,
+      "mark_scheme": [
+        "Bacteria invade host tissue",
+        "Destroy cells or tissues",
+        "Produce exotoxins (e.g., Staphylococcus aureus)",
+        "Produce endotoxins (e.g., Salmonella spp.)"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Bacteria as Pathogens",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Compare the modes of action of bactericidal and bacteriostatic antibiotics.",
+      "marks": 3,
+      "mark_scheme": [
+        "Bactericidal kill bacteria (e.g., penicillin)",
+        "Bacteriostatic inhibit growth/reproduction (e.g., tetracycline)",
+        "Both reduce bacterial infection but act differently"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Action of Antibiotics",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Describe how antibiotic resistance develops and spreads in bacterial populations.",
+      "marks": 5,
+      "mark_scheme": [
+        "Mutation in bacterial DNA",
+        "Selection pressure from antibiotic use",
+        "Survival of resistant bacteria",
+        "Horizontal gene transfer (plasmids, conjugation)",
+        "Spread through population and environment"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Antibiotic Resistance",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Explain some challenges in controlling the spread of antibiotic-resistant bacteria.",
+      "marks": 3,
+      "mark_scheme": [
+        "Overuse and misuse of antibiotics",
+        "Incomplete courses of antibiotics",
+        "Global travel and food trade spreading resistant strains"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Antibiotic Resistance",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Describe the transmission, infection mode, and pathogenic effect of influenza virus.",
+      "marks": 4,
+      "mark_scheme": [
+        "Transmission via droplets from coughs/sneezes",
+        "Virus infects respiratory epithelium",
+        "Causes cell death, inflammation, symptoms of flu",
+        "High mutation rate leads to seasonal outbreaks"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Other Pathogenic Agents",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Explain how the malaria parasite infects humans and causes disease.",
+      "marks": 5,
+      "mark_scheme": [
+        "Transmission via female Anopheles mosquito",
+        "Parasite enters bloodstream and infects liver cells",
+        "Develops into merozoites which infect red blood cells",
+        "Causes destruction of RBCs, fever, anaemia",
+        "Cyclical nature leads to recurrent symptoms"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Other Pathogenic Agents",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Discuss the social, economic, and ethical issues of controlling endemic malaria.",
+      "marks": 4,
+      "mark_scheme": [
+        "Cost of insecticides and bed nets",
+        "Impact on local communities",
+        "Ethical concerns about genetically modified mosquitoes",
+        "Role of governments and scientific validation of control methods"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Problems of Controlling Endemic Diseases",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Explain the role of macrophages, neutrophils, and lymphocytes in the immune response.",
+      "marks": 5,
+      "mark_scheme": [
+        "Macrophages engulf pathogens and present antigens",
+        "Neutrophils perform phagocytosis of pathogens",
+        "T helper cells release cytokines",
+        "B cells produce antibodies",
+        "T killer cells destroy infected host cells"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Describe the development of the humoral immune response.",
+      "marks": 5,
+      "mark_scheme": [
+        "Antigen presented by T cells to T helper cells",
+        "T helper cells activate B cells via cytokines",
+        "Clonal selection of B cells",
+        "B cells differentiate into plasma cells",
+        "Plasma cells secrete antibodies specific to antigen"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Explain the development of cell-mediated immunity.",
+      "marks": 4,
+      "mark_scheme": [
+        "Antigen presenting cells present antigen to T helper cells",
+        "T helper cells release cytokines",
+        "T killer cells are activated",
+        "T killer cells destroy infected cells"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Explain the role of memory cells in secondary immune response.",
+      "marks": 3,
+      "mark_scheme": [
+        "T and B memory cells persist after initial infection",
+        "Respond faster and more strongly upon re-exposure",
+        "Provide long-term immunity"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Describe natural and artificial immunity, and differentiate between active and passive immunity.",
+      "marks": 4,
+      "mark_scheme": [
+        "Natural immunity occurs through infection",
+        "Artificial immunity occurs through vaccination",
+        "Active immunity involves antibody production by host",
+        "Passive immunity involves transfer of antibodies"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Explain how vaccination can control disease and contribute to herd immunity.",
+      "marks": 5,
+      "mark_scheme": [
+        "Vaccination stimulates active immunity",
+        "Produces memory cells",
+        "Reduces number of susceptible individuals",
+        "Slows spread of infection in population",
+        "Protects vulnerable individuals indirectly"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Problems of Controlling Endemic Diseases",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Describe the use of streak plating to isolate bacteria and explain why it is important.",
+      "marks": 3,
+      "mark_scheme": [
+        "Use inoculating loop to spread bacteria on agar",
+        "Dilutes cells to produce isolated colonies",
+        "Important for obtaining pure cultures"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Explain how overuse of antibiotics can lead to the spread of antibiotic resistance.",
+      "marks": 4,
+      "mark_scheme": [
+        "Selective pressure kills sensitive bacteria",
+        "Resistant bacteria survive",
+        "Resistant bacteria reproduce",
+        "Resistance genes spread to other bacteria via plasmids"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Antibiotic Resistance",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Compare the pathogenic effects of exotoxins and endotoxins.",
+      "marks": 4,
+      "mark_scheme": [
+        "Exotoxins are secreted by bacteria and are proteins",
+        "Endotoxins are part of cell wall, released after cell death",
+        "Exotoxins are highly specific and potent",
+        "Endotoxins cause general symptoms like fever"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Bacteria as Pathogens",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Explain the life cycle and pathogenic effect of Plasmodium spp.",
+      "marks": 5,
+      "mark_scheme": [
+        "Transmitted by female Anopheles mosquito",
+        "Sporozoites infect liver cells",
+        "Merozoites infect red blood cells",
+        "Destruction of RBCs causes anaemia and fever",
+        "Cycle repeats causing recurrent symptoms"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Other Pathogenic Agents",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Describe the principles of core practical 12: investigating bacterial growth rate.",
+      "marks": 4,
+      "mark_scheme": [
+        "Use aseptic technique to inoculate liquid culture",
+        "Measure growth over time using optical density or cell counts",
+        "Plot growth curve and identify phases",
+        "Ensure safety and ethical handling of organisms"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "longform",
+      "wrong_choices": null
+    },
+    {
+      "question": "Describe the principles of core practical 13: isolating individual species from a mixed culture.",
+      "marks": 3,
+      "mark_scheme": [
+        "Use streak plating on agar",
+        "Dilutes bacteria to produce isolated colonies",
+        "Select single colonies for further study",
+        "Use aseptic technique for safety"
+      ],
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "longform",
+      "wrong_choices": null
+    }
+]

@@ -184,7 +184,7 @@
     "marks": 1,
     "mark_scheme": "High oxygen partial pressure",
     "topic": "Exchange and Transport",
-    "subtopic": "Transport of gases in the blood",
+    "subtopic": "Transport of gases",
     "question_type": "mul_choice",
     "wrong_choices": ["Low pH", "High carbon dioxide pressure", "Presence of myoglobin"]
   },
@@ -193,7 +193,7 @@
     "marks": 1,
     "mark_scheme": "Reduced affinity of haemoglobin for oxygen at higher CO₂ concentrations",
     "topic": "Exchange and Transport",
-    "subtopic": "Transport of gases in the blood",
+    "subtopic": "Transport of gases",
     "question_type": "mul_choice",
     "wrong_choices": ["Increased oxygen affinity in muscles", "Higher affinity at low temperatures", "Reduced oxygen affinity in the lungs"]
   },
@@ -202,7 +202,7 @@
     "marks": 1,
     "mark_scheme": "To load oxygen from maternal blood",
     "topic": "Exchange and Transport",
-    "subtopic": "Transport of gases in the blood",
+    "subtopic": "Transport of gases",
     "question_type": "mul_choice",
     "wrong_choices": ["To prevent carbon dioxide transport", "To increase blood viscosity", "To speed up diffusion through the placenta"]
   },
@@ -320,7 +320,7 @@
     "marks": 1,
     "mark_scheme": "Oxygen dissociates more readily",
     "topic": "Exchange and Transport",
-    "subtopic": "Transport of gases in the blood",
+    "subtopic": "Transport of gases",
     "question_type": "mul_choice",
     "wrong_choices": ["Oxygen binds more strongly", "CO2 is not transported", "Myoglobin releases oxygen"]
   },
@@ -446,7 +446,7 @@
     "marks": 1,
     "mark_scheme": "Myoglobin",
     "topic": "Exchange and Transport",
-    "subtopic": "Transport of gases in the blood",
+    "subtopic": "Transport of gases",
     "question_type": "mul_choice",
     "wrong_choices": ["Haemoglobin", "Actin", "Albumin"]
   },

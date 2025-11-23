@@ -1,0 +1,345 @@
+[
+    {
+      "question": "Which of the following is an example of a bacterial pathogen?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Bacteria as Pathogens",
+      "question_type": "mul_choice",
+      "mark_scheme": "Mycobacterium tuberculosis",
+      "wrong_choices": ["Influenza virus", "Plasmodium falciparum", "Puccinia graminis"]
+    },
+    {
+      "question": "Which type of microorganism causes malaria?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Other Pathogenic Agents",
+      "question_type": "mul_choice",
+      "mark_scheme": "Protoctist",
+      "wrong_choices": ["Bacterium", "Virus", "Fungus"]
+    },
+    {
+      "question": "What is the main purpose of aseptic technique?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "mul_choice",
+      "mark_scheme": "Prevent contamination of cultures",
+      "wrong_choices": ["Increase bacterial growth rate", "Change bacterial genetic material", "Kill bacteria"]
+    },
+    {
+      "question": "Which of the following is a selective medium used to culture bacteria?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "mul_choice",
+      "mark_scheme": "MacConkey agar",
+      "wrong_choices": ["Nutrient broth", "Agar gel", "Blood agar"]
+    },
+    {
+      "question": "During which phase of bacterial growth does exponential growth occur?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "mul_choice",
+      "mark_scheme": "Log phase",
+      "wrong_choices": ["Lag phase", "Stationary phase", "Death phase"]
+    },
+    {
+      "question": "Which antibiotic inhibits bacterial cell wall synthesis?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Action of Antibiotics",
+      "question_type": "mul_choice",
+      "mark_scheme": "Penicillin",
+      "wrong_choices": ["Tetracycline", "Erythromycin", "Chloramphenicol"]
+    },
+    {
+      "question": "Which antibiotic is bacteriostatic rather than bactericidal?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Action of Antibiotics",
+      "question_type": "mul_choice",
+      "mark_scheme": "Tetracycline",
+      "wrong_choices": ["Penicillin", "Vancomycin", "Ampicillin"]
+    },
+    {
+      "question": "Which of the following increases antibiotic resistance?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Antibiotic Resistance",
+      "question_type": "mul_choice",
+      "mark_scheme": "Overuse of antibiotics",
+      "wrong_choices": ["Vaccination", "Filtration of water", "Hand washing"]
+    },
+    {
+      "question": "Which immune cell is responsible for phagocytosis of pathogens?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "mul_choice",
+      "mark_scheme": "Macrophage",
+      "wrong_choices": ["B cell", "T killer cell", "Plasma cell"]
+    },
+    {
+      "question": "Which component of the immune system produces antibodies?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "mul_choice",
+      "mark_scheme": "Plasma cells",
+      "wrong_choices": ["Neutrophils", "Macrophages", "T helper cells"]
+    },
+    {
+      "question": "Which virus causes influenza?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Other Pathogenic Agents",
+      "question_type": "mul_choice",
+      "mark_scheme": "Influenza virus",
+      "wrong_choices": ["HIV", "Mycobacterium tuberculosis", "Plasmodium"]
+    },
+    {
+      "question": "Which fungal pathogen affects cereal crops?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Other Pathogenic Agents",
+      "question_type": "mul_choice",
+      "mark_scheme": "Puccinia graminis",
+      "wrong_choices": ["Candida albicans", "Aspergillus niger", "Saccharomyces cerevisiae"]
+    },
+    {
+      "question": "Which method is used to estimate bacterial growth using light absorption?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "mul_choice",
+      "mark_scheme": "Turbidity measurement",
+      "wrong_choices": ["Dry mass", "Serial dilution plating", "Gram staining"]
+    },
+    {
+      "question": "Which of the following is a mode of transmission for malaria?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Other Pathogenic Agents",
+      "question_type": "mul_choice",
+      "mark_scheme": "Mosquito vector",
+      "wrong_choices": ["Airborne droplets", "Contaminated food", "Direct contact"]
+    },
+    {
+      "question": "Which bacterial toxin is secreted by Staphylococcus species?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Bacteria as Pathogens",
+      "question_type": "mul_choice",
+      "mark_scheme": "Exotoxin",
+      "wrong_choices": ["Endotoxin", "Capsid", "Fungal mycotoxin"]
+    },
+    {
+      "question": "Which bacterial toxin is part of the cell wall and released after cell death?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Bacteria as Pathogens",
+      "question_type": "mul_choice",
+      "mark_scheme": "Endotoxin",
+      "wrong_choices": ["Exotoxin", "Neurotoxin", "Mycotoxin"]
+    },
+    {
+      "question": "Which term describes a bacterium that invades and destroys host tissue?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Bacteria as Pathogens",
+      "question_type": "mul_choice",
+      "mark_scheme": "Pathogenic",
+      "wrong_choices": ["Commensal", "Mutualistic", "Saprophytic"]
+    },
+    {
+      "question": "Which phase of bacterial growth is characterized by no increase in cell number?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "mul_choice",
+      "mark_scheme": "Lag phase",
+      "wrong_choices": ["Log phase", "Stationary phase", "Death phase"]
+    },
+    {
+      "question": "Which phase of bacterial growth is characterized by nutrient depletion and accumulation of waste?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "mul_choice",
+      "mark_scheme": "Stationary phase",
+      "wrong_choices": ["Lag phase", "Log phase", "Exponential phase"]
+    },
+    {
+      "question": "Which bacterium causes tuberculosis?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Bacteria as Pathogens",
+      "question_type": "mul_choice",
+      "mark_scheme": "Mycobacterium tuberculosis",
+      "wrong_choices": ["Salmonella enterica", "Vibrio cholerae", "Streptococcus pneumoniae"]
+    },
+    {
+      "question": "Which method is used to isolate individual bacterial species?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "mul_choice",
+      "mark_scheme": "Streak plating",
+      "wrong_choices": ["Turbidity measurement", "Serial dilution", "Gram staining"]
+    },
+    {
+      "question": "Which immune cell directly kills infected host cells?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "mul_choice",
+      "mark_scheme": "T killer cell",
+      "wrong_choices": ["B cell", "T helper cell", "Macrophage"]
+    },
+    {
+      "question": "Which type of immunity is induced by vaccination?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "mul_choice",
+      "mark_scheme": "Artificial active immunity",
+      "wrong_choices": ["Natural passive immunity", "Artificial passive immunity", "Innate immunity"]
+    },
+    {
+      "question": "Which immune cells present antigens to T helper cells?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "mul_choice",
+      "mark_scheme": "Antigen presenting cells",
+      "wrong_choices": ["T killer cells", "Plasma cells", "Neutrophils"]
+    },
+    {
+      "question": "Which of the following is an ethical issue in controlling endemic malaria?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Problems of Controlling Endemic Diseases",
+      "question_type": "mul_choice",
+      "mark_scheme": "Use of insecticides affecting local communities",
+      "wrong_choices": ["Boiling water", "Hand washing", "Vaccination campaigns"]
+    },
+    {
+      "question": "Which pathogen causes cholera?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Bacteria as Pathogens",
+      "question_type": "mul_choice",
+      "mark_scheme": "Vibrio cholerae",
+      "wrong_choices": ["Salmonella enterica", "Influenza virus", "Plasmodium falciparum"]
+    },
+    {
+      "question": "Which of the following can lead to the spread of antibiotic resistance?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Antibiotic Resistance",
+      "question_type": "mul_choice",
+      "mark_scheme": "Transfer of plasmids between bacteria",
+      "wrong_choices": ["Antigen presentation", "Vaccination", "Immune memory"]
+    },
+    {
+      "question": "Which pathogen type lacks a cell structure?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Other Pathogenic Agents",
+      "question_type": "mul_choice",
+      "mark_scheme": "Virus",
+      "wrong_choices": ["Bacterium", "Fungus", "Protoctist"]
+    },
+    {
+      "question": "Which phase of bacterial growth has the highest metabolic activity?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "mul_choice",
+      "mark_scheme": "Log phase",
+      "wrong_choices": ["Lag phase", "Stationary phase", "Death phase"]
+    },
+    {
+      "question": "Which method of bacterial growth measurement counts only viable cells?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Culturing Microorganisms",
+      "question_type": "mul_choice",
+      "mark_scheme": "Serial dilution plating",
+      "wrong_choices": ["Turbidity measurement", "Dry mass", "Optical density"]
+    },
+    {
+      "question": "Which type of immunity is passed from mother to baby through breast milk?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "mul_choice",
+      "mark_scheme": "Natural passive immunity",
+      "wrong_choices": ["Artificial active immunity", "Artificial passive immunity", "Innate immunity"]
+    },
+    {
+      "question": "Which of the following pathogens is a fungus?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Other Pathogenic Agents",
+      "question_type": "mul_choice",
+      "mark_scheme": "Puccinia graminis",
+      "wrong_choices": ["Plasmodium falciparum", "Influenza virus", "Mycobacterium tuberculosis"]
+    },
+    {
+      "question": "Which bacterial toxin is responsible for salmonella food poisoning?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Bacteria as Pathogens",
+      "question_type": "mul_choice",
+      "mark_scheme": "Endotoxin",
+      "wrong_choices": ["Exotoxin", "Neurotoxin", "Enterotoxin"]
+    },
+    {
+      "question": "Which of the following is an example of a bactericidal antibiotic?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Action of Antibiotics",
+      "question_type": "mul_choice",
+      "mark_scheme": "Penicillin",
+      "wrong_choices": ["Tetracycline", "Chloramphenicol", "Erythromycin"]
+    },
+    {
+      "question": "Which pathogen is responsible for the stem rust disease of wheat?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Other Pathogenic Agents",
+      "question_type": "mul_choice",
+      "mark_scheme": "Puccinia graminis",
+      "wrong_choices": ["Mycobacterium tuberculosis", "Influenza virus", "Plasmodium"]
+    },
+    {
+      "question": "Which process allows bacteria to exchange genetic material via plasmids?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Antibiotic Resistance",
+      "question_type": "mul_choice",
+      "mark_scheme": "Conjugation",
+      "wrong_choices": ["Binary fission", "Endocytosis", "Transcription"]
+    },
+    {
+      "question": "Which immune response involves T killer cells destroying infected host cells?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Response to Infection",
+      "question_type": "mul_choice",
+      "mark_scheme": "Cell-mediated immunity",
+      "wrong_choices": ["Humoral immunity", "Innate immunity", "Passive immunity"]
+    },
+    {
+      "question": "Which of the following is an example of a bacterium producing exotoxins?",
+      "marks": 1,
+      "topic": "Microbiology and Pathogens",
+      "subtopic": "Bacteria as Pathogens",
+      "question_type": "mul_choice",
+      "mark_scheme": "Staphylococcus aureus",
+      "wrong_choices": ["Salmonella enterica", "Escherichia coli O157", "Mycobacterium tuberculosis"]
+    }
+]
+

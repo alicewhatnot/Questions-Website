@@ -4,7 +4,7 @@
     "marks": 1,
     "mark_scheme": "Cells are the fundamental unit of structure, function and organisation in living organisms",
     "topic": "Cells, Viruses and Reproduction",
-    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "subtopic": "Cell Structure and Function",
     "question_type": "mul_choice",
     "wrong_choices": ["Cells only form from non-living material", "All organisms consist of multiple cells", "Cells are only used for reproduction"]
   },
@@ -13,7 +13,7 @@
     "marks": 1,
     "mark_scheme": "Plasmid",
     "topic": "Cells, Viruses and Reproduction",
-    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "subtopic": "Cell Structure and Function",
     "question_type": "mul_choice",
     "wrong_choices": ["Mitochondria", "Golgi apparatus", "Lysosomes"]
   },
@@ -22,7 +22,7 @@
     "marks": 1,
     "mark_scheme": "It contains circular DNA",
     "topic": "Cells, Viruses and Reproduction",
-    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "subtopic": "Cell Structure and Function",
     "question_type": "mul_choice",
     "wrong_choices": ["It synthesises proteins", "It stores nutrients", "It generates ATP"]
   },
@@ -31,7 +31,7 @@
     "marks": 1,
     "mark_scheme": "70S",
     "topic": "Cells, Viruses and Reproduction",
-    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "subtopic": "Cell Structure and Function",
     "question_type": "mul_choice",
     "wrong_choices": ["80S", "60S", "90S"]
   },
@@ -40,7 +40,7 @@
     "marks": 1,
     "mark_scheme": "They have a thick peptidoglycan layer",
     "topic": "Cells, Viruses and Reproduction",
-    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "subtopic": "Cell Structure and Function",
     "question_type": "mul_choice",
     "wrong_choices": ["They have an outer membrane", "They lack peptidoglycan", "They contain teichoic acid only"]
   },
@@ -50,7 +50,7 @@
     "marks": 1,
     "mark_scheme": "Golgi apparatus",
     "topic": "Cells, Viruses and Reproduction",
-    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "subtopic": "Cell Structure and Function",
     "question_type": "mul_choice",
     "wrong_choices": ["Rough ER", "Smooth ER", "Lysosome"]
   },
@@ -59,7 +59,7 @@
     "marks": 1,
     "mark_scheme": "Transmission electron microscope",
     "topic": "Cells, Viruses and Reproduction",
-    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "subtopic": "Cell Structure and Function",
     "question_type": "mul_choice",
     "wrong_choices": ["Light microscope", "Scanning electron microscope", "Hand lens"]
   },
@@ -68,7 +68,7 @@
     "marks": 1,
     "mark_scheme": "To increase contrast of cell structures",
     "topic": "Cells, Viruses and Reproduction",
-    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "subtopic": "Cell Structure and Function",
     "question_type": "mul_choice",
     "wrong_choices": ["To decrease resolution", "To enlarge the specimen", "To increase magnification"]
   },
@@ -245,7 +245,7 @@
     "marks": 1,
     "mark_scheme": "Eukaryotic cytoplasm",
     "topic": "Cells, Viruses and Reproduction",
-    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "subtopic": "Cell Structure and Function",
     "question_type": "mul_choice",
     "wrong_choices": ["Bacterial cytoplasm", "Chloroplast stroma", "Mitochondrial matrix"]
   },
@@ -254,7 +254,7 @@
     "marks": 1,
     "mark_scheme": "Mitochondrion",
     "topic": "Cells, Viruses and Reproduction",
-    "subtopic": "Eukaryotic and prokaryotic cell structure and function",
+    "subtopic": "Cell Structure and Function",
     "question_type": "mul_choice",
     "wrong_choices": ["Golgi apparatus", "Lysosome", "Nucleolus"]
   },

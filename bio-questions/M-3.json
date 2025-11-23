@@ -1,298 +1,225 @@
 [
   {
-    "question": "What is the role of spiracles in insects?",
+    "question": "What does the binomial naming system consist of?",
     "marks": 1,
-    "mark_scheme": "They allow gases to enter and leave the tracheal system",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in insects",
+    "mark_scheme": "Genus name followed by species name",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Classification",
     "question_type": "mul_choice",
-    "wrong_choices": ["They pump haemolymph", "They generate ventilation currents", "They act as sites of gas exchange"]
+    "wrong_choices": ["Species name then family name", "Order then genus", "Common name then Latin name"]
   },
   {
-    "question": "Which structure in insects delivers oxygen directly to tissues?",
+    "question": "Which type of classification groups organisms based on evolutionary relationships?",
     "marks": 1,
-    "mark_scheme": "Tracheoles",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in insects",
+    "mark_scheme": "Phylogenetic classification",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Classification",
     "question_type": "mul_choice",
-    "wrong_choices": ["Bronchioles", "Gill filaments", "Alveoli"]
+    "wrong_choices": ["Artificial classification", "Morphological classification", "Behavioural classification"]
   },
   {
-    "question": "Why do insects ventilate their tracheal system during activity?",
+    "question": "Which domains are recognised in Woese’s three-domain system?",
     "marks": 1,
-    "mark_scheme": "To increase diffusion of oxygen to tissues",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in insects",
+    "mark_scheme": "Archaea, Bacteria, Eukarya",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Classification",
     "question_type": "mul_choice",
-    "wrong_choices": ["To reduce water loss", "To increase haemolymph pressure", "To close spiracles"]
-  },
-
-  {
-    "question": "What increases the surface area for gas exchange in fish gills?",
-    "marks": 1,
-    "mark_scheme": "Gill lamellae",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in fish",
-    "question_type": "mul_choice",
-    "wrong_choices": ["Operculum", "Spiracles", "Parabronchi"]
-  },
-  {
-    "question": "Why is countercurrent flow efficient in fish gills?",
-    "marks": 1,
-    "mark_scheme": "It maintains a diffusion gradient across the entire exchange surface",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in fish",
-    "question_type": "mul_choice",
-    "wrong_choices": ["Blood and water flow in the same direction", "Blood flow is faster than water flow", "Water contains more oxygen than air"]
-  },
-  {
-    "question": "What structure moves water across fish gills?",
-    "marks": 1,
-    "mark_scheme": "Operculum",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in fish",
-    "question_type": "mul_choice",
-    "wrong_choices": ["Tracheae", "Bronchi", "Lamellae"]
+    "wrong_choices": ["Plants, Animals, Fungi", "Prokaryotes, Protists, Eukaryotes", "Archaea, Protista, Eukarya"]
   },
 
   {
-    "question": "Which feature of alveoli increases the rate of diffusion?",
+    "question": "What can comparing DNA base sequences reveal?",
     "marks": 1,
-    "mark_scheme": "Their large surface area to volume ratio",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in mammals",
+    "mark_scheme": "Evolutionary relationships",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Classification",
     "question_type": "mul_choice",
-    "wrong_choices": ["Thick walls", "Low elasticity", "Poor blood supply"]
+    "wrong_choices": ["Only phenotype differences", "Geographical distribution", "Behavioural changes"]
   },
   {
-    "question": "Why is the diaphragm important in ventilation?",
+    "question": "Which process directly produces new alleles?",
     "marks": 1,
-    "mark_scheme": "Its contraction increases thoracic volume",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in mammals",
+    "mark_scheme": "Mutation",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
     "question_type": "mul_choice",
-    "wrong_choices": ["Its contraction decreases lung pressure", "Its relaxation increases thoracic volume", "It directly pumps air into the lungs"]
+    "wrong_choices": ["Independent assortment", "Crossing over", "Selective breeding"]
   },
   {
-    "question": "Which statement describes tidal volume?",
+    "question": "What increases the frequency of advantageous alleles in a population?",
     "marks": 1,
-    "mark_scheme": "The volume of air breathed in or out during a normal breath",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in mammals",
+    "mark_scheme": "Natural selection",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
     "question_type": "mul_choice",
-    "wrong_choices": ["The air left after forced expiration", "Maximum air inhaled after normal inspiration", "Total air the lungs can hold"]
-  },
-
-  {
-    "question": "Why do xerophytic plants have sunken stomata?",
-    "marks": 1,
-    "mark_scheme": "To reduce water loss by trapping humid air",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in plants",
-    "question_type": "mul_choice",
-    "wrong_choices": ["To increase diffusion rate", "To increase transpiration", "To increase stomatal density"]
-  },
-  {
-    "question": "Which cells control stomatal opening?",
-    "marks": 1,
-    "mark_scheme": "Guard cells",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in plants",
-    "question_type": "mul_choice",
-    "wrong_choices": ["Mesophyll cells", "Companion cells", "Endodermal cells"]
-  },
-  {
-    "question": "What causes stomata to close during drought?",
-    "marks": 1,
-    "mark_scheme": "Loss of turgor in guard cells",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in plants",
-    "question_type": "mul_choice",
-    "wrong_choices": ["High CO₂ concentration", "Increased potassium uptake", "Expansion of vacuoles"]
+    "wrong_choices": ["Genetic drift only", "Random fertilisation", "Artificial classification"]
   },
 
   {
-    "question": "Which cells transport water in plants?",
+    "question": "Directional selection favours which individuals?",
     "marks": 1,
-    "mark_scheme": "Xylem vessels",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in plants",
+    "mark_scheme": "Those with an extreme phenotype",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
     "question_type": "mul_choice",
-    "wrong_choices": ["Sieve tube elements", "Parenchyma cells", "Companion cells"]
+    "wrong_choices": ["Those with the mean phenotype", "All phenotypes equally", "Only heterozygotes"]
   },
   {
-    "question": "Why does water move up xylem vessels?",
+    "question": "What is the first step in allopatric speciation?",
     "marks": 1,
-    "mark_scheme": "Cohesion-tension caused by transpiration",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in plants",
+    "mark_scheme": "A geographical barrier forms",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
     "question_type": "mul_choice",
-    "wrong_choices": ["Active transport of water", "Osmosis generated in leaves", "Root pressure alone"]
+    "wrong_choices": ["Behavioural changes", "Hybrid sterility", "Polyploidy occurs"]
   },
   {
-    "question": "What is translocation?",
+    "question": "Which example describes reproductive isolation?",
     "marks": 1,
-    "mark_scheme": "Movement of assimilates through phloem",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in plants",
+    "mark_scheme": "Two species breed at different times of year",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
     "question_type": "mul_choice",
-    "wrong_choices": ["Movement of water in xylem", "Loss of water through stomata", "Uptake of minerals by roots"]
-  },
-  {
-    "question": "Which hypothesis explains phloem transport?",
-    "marks": 1,
-    "mark_scheme": "Mass flow hypothesis",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in plants",
-    "question_type": "mul_choice",
-    "wrong_choices": ["Cohesion-tension theory", "Pressure dissolution theory", "Evaporative pull theory"]
-  },
-  {
-    "question": "Why are companion cells important in phloem?",
-    "marks": 1,
-    "mark_scheme": "They provide ATP for active loading",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in plants",
-    "question_type": "mul_choice",
-    "wrong_choices": ["They conduct water", "They store starch grains", "They thicken vessel walls"]
+    "wrong_choices": ["Two species share a habitat", "Two species have similar diets", "Two species produce fertile offspring"]
   },
 
   {
-    "question": "Which blood vessel has the thickest elastic tissue layer?",
+    "question": "What does biodiversity refer to?",
     "marks": 1,
-    "mark_scheme": "Artery",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in animals",
+    "mark_scheme": "The variety of life in all its forms",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
     "question_type": "mul_choice",
-    "wrong_choices": ["Vein", "Capillary", "Venule"]
+    "wrong_choices": ["Number of habitats only", "Number of endemic species only", "Variation in climate"]
   },
   {
-    "question": "Why do veins contain valves?",
+    "question": "Why is high genetic diversity beneficial to a species?",
     "marks": 1,
-    "mark_scheme": "To prevent backflow of blood",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in animals",
+    "mark_scheme": "It increases the chance of survival during environmental change",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
     "question_type": "mul_choice",
-    "wrong_choices": ["To regulate blood pressure", "To control blood oxygen levels", "To reduce friction"]
+    "wrong_choices": ["It reduces mutation rates", "It decreases competition", "It ensures faster reproduction"]
   },
   {
-    "question": "Where does tissue fluid form?",
+    "question": "Which method is used to estimate abundance in a habitat?",
     "marks": 1,
-    "mark_scheme": "At the arterial end of capillaries",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in animals",
+    "mark_scheme": "Random sampling with quadrats",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
     "question_type": "mul_choice",
-    "wrong_choices": ["In the vena cava", "In lymph nodes", "In the alveoli"]
-  },
-  {
-    "question": "What returns excess tissue fluid to the blood?",
-    "marks": 1,
-    "mark_scheme": "Lymphatic system",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in animals",
-    "question_type": "mul_choice",
-    "wrong_choices": ["Renal system", "Endocrine system", "Digestive system"]
+    "wrong_choices": ["Mark-release-recapture only", "Stratified habitat mapping", "Grid transects without randomisation"]
   },
 
   {
-    "question": "Which chamber pumps blood to the lungs?",
+    "question": "What does Simpson’s Index of Diversity measure?",
     "marks": 1,
-    "mark_scheme": "Right ventricle",
-    "topic": "Exchange and Transport",
-    "subtopic": "The heart and cardiac cycle",
+    "mark_scheme": "Both species richness and evenness",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
     "question_type": "mul_choice",
-    "wrong_choices": ["Left ventricle", "Right atrium", "Left atrium"]
+    "wrong_choices": ["Only species richness", "Only population size", "Only habitat diversity"]
   },
   {
-    "question": "During which phase does the heart contract?",
+    "question": "What effect does habitat fragmentation typically have?",
     "marks": 1,
-    "mark_scheme": "Systole",
-    "topic": "Exchange and Transport",
-    "subtopic": "The heart and cardiac cycle",
+    "mark_scheme": "It reduces gene flow between populations",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
     "question_type": "mul_choice",
-    "wrong_choices": ["Diastole", "Repolarisation", "Depolarisation"]
+    "wrong_choices": ["It increases core habitat area", "It increases population size", "It reduces edge effects"]
   },
   {
-    "question": "What is the function of the sinoatrial node?",
+    "question": "Which statement describes an aim of in situ conservation?",
     "marks": 1,
-    "mark_scheme": "It initiates the heartbeat",
-    "topic": "Exchange and Transport",
-    "subtopic": "The heart and cardiac cycle",
+    "mark_scheme": "Protecting species in their natural habitat",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
     "question_type": "mul_choice",
-    "wrong_choices": ["It delays electrical impulses", "It contracts the ventricles", "It pumps blood from the atria"]
-  },
-  {
-    "question": "Which vessels supply the heart muscle with oxygen?",
-    "marks": 1,
-    "mark_scheme": "Coronary arteries",
-    "topic": "Exchange and Transport",
-    "subtopic": "The heart and cardiac cycle",
-    "question_type": "mul_choice",
-    "wrong_choices": ["Renal arteries", "Pulmonary arteries", "Hepatic arteries"]
+    "wrong_choices": ["Breeding species in captivity", "Storing seeds under cold conditions", "Relocating species permanently"]
   },
 
   {
-    "question": "What is the Bohr effect?",
+    "question": "Which is a disadvantage of ex situ conservation?",
     "marks": 1,
-    "mark_scheme": "Reduced affinity of haemoglobin for oxygen at high CO₂ levels",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in animals",
+    "mark_scheme": "Captive populations may have reduced genetic diversity",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
     "question_type": "mul_choice",
-    "wrong_choices": ["Increased affinity at low pH", "Oxygen binding causes structural collapse", "CO₂ binds to the haem group"]
+    "wrong_choices": ["Natural behaviours are fully maintained", "Populations grow faster than in the wild", "It preserves ecological interactions"]
   },
   {
-    "question": "Which molecule binds oxygen in red blood cells?",
+    "question": "How can climate change alter species distributions?",
     "marks": 1,
-    "mark_scheme": "Haemoglobin",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in animals",
+    "mark_scheme": "Species may migrate to track suitable climates",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
     "question_type": "mul_choice",
-    "wrong_choices": ["Collagen", "Myosin", "Elastin"]
+    "wrong_choices": ["Genetic diversity always increases", "Species become uniformly distributed", "Habitats expand worldwide"]
   },
   {
-    "question": "Why is fetal haemoglobin efficient at absorbing oxygen from maternal blood?",
+    "question": "Why are endemic species more vulnerable to extinction?",
     "marks": 1,
-    "mark_scheme": "It has a higher affinity for oxygen",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in animals",
+    "mark_scheme": "They have restricted geographic ranges",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
     "question_type": "mul_choice",
-    "wrong_choices": ["It carries more iron", "It is present at higher concentration", "It binds carbon dioxide more readily"]
+    "wrong_choices": ["They have large populations", "They migrate easily", "They have high genetic diversity"]
   },
 
   {
-    "question": "Which factor increases the rate of transpiration?",
+    "question": "Which is an example of an anatomical adaptation?",
     "marks": 1,
-    "mark_scheme": "Low humidity",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in plants",
+    "mark_scheme": "Thick fur for insulation",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
     "question_type": "mul_choice",
-    "wrong_choices": ["Still air", "High soil water content", "Closed stomata"]
+    "wrong_choices": ["Migration", "Hibernation", "Territorial behaviour"]
   },
   {
-    "question": "Which feature of guard cells allows stomata to open?",
+    "question": "What is the role of conservation organisations globally?",
     "marks": 1,
-    "mark_scheme": "Unevenly thickened cell walls",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in plants",
+    "mark_scheme": "Protecting habitats and species through coordinated action",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
     "question_type": "mul_choice",
-    "wrong_choices": ["High chlorophyll content", "Presence of lignin", "Large vacuoles only"]
+    "wrong_choices": ["Expanding agriculture", "Promoting invasive species", "Removing ecological regulations"]
+  },
+
+  {
+    "question": "Which type of molecule is typically compared when constructing phylogenetic trees?",
+    "marks": 1,
+    "mark_scheme": "DNA sequences",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Classification",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Lipids", "Carbohydrates", "Cellulose content"]
   },
   {
-    "question": "Which factor directly causes water uptake in roots?",
+    "question": "Which sampling method helps reduce bias when estimating species abundance?",
     "marks": 1,
-    "mark_scheme": "Water potential gradient",
-    "topic": "Exchange and Transport",
-    "subtopic": "Transport in plants",
+    "mark_scheme": "Using random coordinates",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
     "question_type": "mul_choice",
-    "wrong_choices": ["Active transport of water", "Translocation pull", "Phloem loading"]
+    "wrong_choices": ["Choosing visible areas only", "Sampling near paths", "Using non-random transects"]
   },
   {
-    "question": "Why does oxygen diffuse rapidly from alveoli into the blood?",
+    "question": "Which type of isolation occurs when two populations breed at different times?",
     "marks": 1,
-    "mark_scheme": "Short diffusion distance",
-    "topic": "Exchange and Transport",
-    "subtopic": "Gas exchange in mammals",
+    "mark_scheme": "Temporal isolation",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Natural Selection and Evolution",
     "question_type": "mul_choice",
-    "wrong_choices": ["High solubility of oxygen", "Low surface area of alveoli", "Weak ventilation"]
+    "wrong_choices": ["Ecological isolation", "Mechanical isolation", "Hybrid inviability"]
+  },
+  {
+    "question": "Which part of biodiversity refers to the number of different species in an area?",
+    "marks": 1,
+    "mark_scheme": "Species diversity",
+    "topic": "Classification and Biodiversity",
+    "subtopic": "Biodiversity and Conservation",
+    "question_type": "mul_choice",
+    "wrong_choices": ["Genetic diversity", "Habitat diversity", "Phylogenetic diversity"]
   }
 ]
