@@ -4,7 +4,7 @@
     "marks": 1,
     "mark_scheme": "ATP",
     "topic": "Energy for Biological Processes",
-    "subtopic": "ATP and Coenzymes",
+    "subtopic": "Aerobic respiration",
     "question_type": "mul_choice",
     "wrong_choices": ["Glucose", "NADH", "Pyruvate"]
   },
@@ -13,7 +13,7 @@
     "marks": 1,
     "mark_scheme": "To carry hydrogen atoms and electrons to the electron transport chain",
     "topic": "Energy for Biological Processes",
-    "subtopic": "ATP and Coenzymes",
+    "subtopic": "Aerobic respiration",
     "question_type": "mul_choice",
     "wrong_choices": ["To form ATP directly", "To bind oxygen", "To convert CO₂ into sugars"]
   },
@@ -22,7 +22,7 @@
     "marks": 1,
     "mark_scheme": "Cytoplasm",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Glycolysis",
+    "subtopic": "Glycolysis",
     "question_type": "mul_choice",
     "wrong_choices": ["Matrix", "Cristae", "Intermembrane space"]
   },
@@ -31,7 +31,7 @@
     "marks": 1,
     "mark_scheme": "Two molecules of pyruvate",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Glycolysis",
+    "subtopic": "Glycolysis",
     "question_type": "mul_choice",
     "wrong_choices": ["Lactate", "Acetyl CoA", "Carbon dioxide"]
   },
@@ -40,7 +40,7 @@
     "marks": 1,
     "mark_scheme": "2 ATP",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Glycolysis",
+    "subtopic": "Glycolysis",
     "question_type": "mul_choice",
     "wrong_choices": ["4 ATP", "6 ATP", "1 ATP"]
   },
@@ -49,7 +49,7 @@
     "marks": 1,
     "mark_scheme": "Mitochondrial matrix",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Link Reaction",
+    "subtopic": "Link reaction and Krebs cycle",
     "question_type": "mul_choice",
     "wrong_choices": ["Cytoplasm", "Cristae", "Nucleus"]
   },
@@ -58,7 +58,7 @@
     "marks": 1,
     "mark_scheme": "Acetyl CoA",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Krebs Cycle",
+    "subtopic": "Link reaction and Krebs cycle",
     "question_type": "mul_choice",
     "wrong_choices": ["Pyruvate", "Ethanol", "Lactate"]
   },
@@ -67,7 +67,7 @@
     "marks": 1,
     "mark_scheme": "Carbon dioxide",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Link Reaction",
+    "subtopic": "Link reaction and Krebs cycle",
     "question_type": "mul_choice",
     "wrong_choices": ["Oxygen", "Nitrogen", "Hydrogen"]
   },
@@ -76,7 +76,7 @@
     "marks": 1,
     "mark_scheme": "Reduced NAD",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Krebs Cycle",
+    "subtopic": "Link reaction and Krebs cycle",
     "question_type": "mul_choice",
     "wrong_choices": ["Pyruvate", "Lactate", "ATP synthase"]
   },
@@ -85,7 +85,7 @@
     "marks": 1,
     "mark_scheme": "Inner mitochondrial membrane",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Oxidative Phosphorylation",
+    "subtopic": "Oxidative phosphorylation",
     "question_type": "mul_choice",
     "wrong_choices": ["Matrix", "Outer membrane", "Cytoplasm"]
   },
@@ -94,7 +94,7 @@
     "marks": 1,
     "mark_scheme": "ATP synthase",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Oxidative Phosphorylation",
+    "subtopic": "Oxidative phosphorylation",
     "question_type": "mul_choice",
     "wrong_choices": ["Rubisco", "Lyase", "Pyruvate dehydrogenase"]
   },
@@ -103,7 +103,7 @@
     "marks": 1,
     "mark_scheme": "Oxygen",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Oxidative Phosphorylation",
+    "subtopic": "Oxidative phosphorylation",
     "question_type": "mul_choice",
     "wrong_choices": ["Carbon dioxide", "NADH", "Hydrogen"]
   },
@@ -112,7 +112,7 @@
     "marks": 1,
     "mark_scheme": "Chemiosmosis",
     "topic": "Energy for Biological Processes",
-    "subtopic": "ATP and Coenzymes",
+    "subtopic": "Aerobic respiration",
     "question_type": "mul_choice",
     "wrong_choices": ["Osmosis", "Active transport", "Simple diffusion"]
   },
@@ -121,7 +121,7 @@
     "marks": 1,
     "mark_scheme": "Pyruvate is reduced to lactate",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Anaerobic",
+    "subtopic": "Anaerobic respiration",
     "question_type": "mul_choice",
     "wrong_choices": ["Ethanol is oxidised", "Acetyl CoA is formed", "Oxygen acts as final electron acceptor"]
   },
@@ -130,7 +130,7 @@
     "marks": 1,
     "mark_scheme": "NAD",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Anaerobic",
+    "subtopic": "Anaerobic respiration",
     "question_type": "mul_choice",
     "wrong_choices": ["ATP", "Carbon dioxide", "Acetyl CoA"]
   },
@@ -139,7 +139,7 @@
     "marks": 1,
     "mark_scheme": "Pyruvate → ethanal → ethanol",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Anaerobic",
+    "subtopic": "Anaerobic respiration",
     "question_type": "mul_choice",
     "wrong_choices": ["Pyruvate → lactate → ethanol", "Pyruvate → acetyl CoA → ethanol", "Glucose → ethanol"]
   },
@@ -148,7 +148,7 @@
     "marks": 1,
     "mark_scheme": "Thylakoid membranes",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Pigments",
+    "subtopic": "Photosynthetic pigments",
     "question_type": "mul_choice",
     "wrong_choices": ["Stroma", "Matrix", "Intermembrane space"]
   },
@@ -157,7 +157,7 @@
     "marks": 1,
     "mark_scheme": "Chlorophyll b",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Pigments",
+    "subtopic": "Photosynthetic pigments",
     "question_type": "mul_choice",
     "wrong_choices": ["Carotene", "Xanthophyll", "Chlorophyll c"]
   },
@@ -166,7 +166,7 @@
     "marks": 1,
     "mark_scheme": "Wavelengths of light absorbed by pigments",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Pigments",
+    "subtopic": "Photosynthetic pigments",
     "question_type": "mul_choice",
     "wrong_choices": ["The rate of photosynthesis at different CO₂ levels", "Volumes of oxygen released", "ATP yield from photosynthesis"]
   },
@@ -175,7 +175,7 @@
     "marks": 1,
     "mark_scheme": "Photolysis of water",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Light-Dependent Reactions",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["Reduction of GP", "Regeneration of RuBP", "Fixation of CO₂"]
   },
@@ -184,7 +184,7 @@
     "marks": 1,
     "mark_scheme": "Electrons, protons and oxygen",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Light-Dependent Reactions",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["Pyruvate", "Lactate", "RuBP"]
   },
@@ -193,7 +193,7 @@
     "marks": 1,
     "mark_scheme": "NADPH",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Light-Dependent Reactions",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["ATP", "Protons", "Oxygen"]
   },
@@ -202,7 +202,7 @@
     "marks": 1,
     "mark_scheme": "Stroma",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Calvin Cycle",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["Thylakoid space", "Matrix", "Cytoplasm"]
   },
@@ -211,7 +211,7 @@
     "marks": 1,
     "mark_scheme": "Rubisco",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Calvin Cycle",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["ATP synthase", "Isomerase", "NADP reductase"]
   },
@@ -220,7 +220,7 @@
     "marks": 1,
     "mark_scheme": "GALP",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Calvin Cycle",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["Pyruvate", "Acetyl CoA", "Lactate"]
   },
@@ -229,7 +229,7 @@
     "marks": 1,
     "mark_scheme": "ATP and NADPH",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Calvin Cycle",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["Oxygen and ATP", "CO₂ and ADP", "FADH₂ and CO₂"]
   },
@@ -238,7 +238,7 @@
     "marks": 1,
     "mark_scheme": "RuBP",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Calvin Cycle",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["Rubisco", "NADPH", "Oxygen"]
   },
@@ -247,7 +247,7 @@
     "marks": 1,
     "mark_scheme": "Carbon dioxide",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Overview",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["Nitrogen", "Methane", "Ozone"]
   },
@@ -256,7 +256,7 @@
     "marks": 1,
     "mark_scheme": "Red and blue",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Pigments",
+    "subtopic": "Photosynthetic pigments",
     "question_type": "mul_choice",
     "wrong_choices": ["Green", "Yellow", "Infrared"]
   },
@@ -265,7 +265,7 @@
     "marks": 1,
     "mark_scheme": "Glucose",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Calvin Cycle",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["Lactate", "Acetyl CoA", "Ethanol"]
   },
@@ -274,7 +274,7 @@
     "marks": 1,
     "mark_scheme": "Grana (stacks of thylakoids)",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Structure",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["Stroma", "Envelope", "Plasmodesmata"]
   },
@@ -283,7 +283,7 @@
     "marks": 1,
     "mark_scheme": "Light-dependent stage",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Light-Dependent Reactions",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["Calvin cycle", "Glycolysis", "Link reaction"]
   },
@@ -292,7 +292,7 @@
     "marks": 1,
     "mark_scheme": "NADPH",
     "topic": "Energy for Biological Processes",
-    "subtopic": "ATP and Coenzymes",
+    "subtopic": "Aerobic respiration",
     "question_type": "mul_choice",
     "wrong_choices": ["ATP", "FADH₂", "NADH"]
   },
@@ -301,7 +301,7 @@
     "marks": 1,
     "mark_scheme": "High temperatures reduce the activity of Rubisco",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Calvin Cycle",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["It increases photolysis rate indefinitely", "It has no effect", "It increases oxygen release from the Calvin cycle"]
   },
@@ -310,7 +310,7 @@
     "marks": 1,
     "mark_scheme": "To convert CO₂ into carbohydrates",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Calvin Cycle",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["To split water", "To generate a proton gradient", "To produce oxygen"]
   },
@@ -319,7 +319,7 @@
     "marks": 1,
     "mark_scheme": "Reduced NAD",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Oxidative Phosphorylation",
+    "subtopic": "Oxidative phosphorylation",
     "question_type": "mul_choice",
     "wrong_choices": ["ATP", "RuBP", "Water"]
   },
@@ -328,7 +328,7 @@
     "marks": 1,
     "mark_scheme": "Oxidative phosphorylation",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Oxidative Phosphorylation",
+    "subtopic": "Oxidative phosphorylation",
     "question_type": "mul_choice",
     "wrong_choices": ["Glycolysis", "Krebs cycle", "Link reaction"]
   },
@@ -337,7 +337,7 @@
     "marks": 1,
     "mark_scheme": "Electron transport chain pumping protons into the intermembrane space",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Respiration: Oxidative Phosphorylation",
+    "subtopic": "Oxidative phosphorylation",
     "question_type": "mul_choice",
     "wrong_choices": ["Krebs cycle", "Pyruvate oxidation", "CO₂ production"]
   },
@@ -346,7 +346,7 @@
     "marks": 1,
     "mark_scheme": "GP",
     "topic": "Energy for Biological Processes",
-    "subtopic": "Photosynthesis: Calvin Cycle",
+    "subtopic": "Photosynthesis",
     "question_type": "mul_choice",
     "wrong_choices": ["GALP", "RuBP", "Acetyl CoA"]
   }
