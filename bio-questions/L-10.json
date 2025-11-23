@@ -1,181 +1,286 @@
 [
   {
-    "question": "Define biodiversity and describe its three main components.",
+    "question": "Define an ecosystem and describe the interactions that occur between its biotic and abiotic components.",
     "marks": 3,
-    "mark_scheme": ["biodiversity is the variety of life in all its forms", "genetic diversity", "species diversity", "ecosystem or habitat diversity"],
-    "topic": "Biodiversity",
-    "subtopic": "Biodiversity concepts",
+    "mark_scheme": [
+      "ecosystem is a community of organisms interacting with abiotic conditions",
+      "biotic factors such as predation, competition, decomposition",
+      "abiotic factors such as light, pH, temperature influencing species distribution",
+      "interdependence of living and non-living components"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Explain how random sampling can be used to estimate species abundance in a habitat.",
+    "question": "Explain how random sampling can be used to estimate the abundance of a plant species in an ecosystem.",
     "marks": 4,
-    "mark_scheme": ["use quadrats placed using random coordinates", "count individuals or percentage cover", "take sufficient samples to represent habitat", "calculate mean abundance and multiply by area", "reduces sampling bias"],
-    "topic": "Biodiversity",
-    "subtopic": "Sampling techniques",
+    "mark_scheme": [
+      "use randomly placed quadrats using random coordinates",
+      "measure percentage cover or count individuals",
+      "take sufficient quadrats to represent the whole area",
+      "calculate mean abundance and scale up to total area",
+      "reduces sampling bias"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Describe how to use a belt transect to investigate changes in plant communities.",
+    "question": "Describe how a belt transect can be used to investigate changes in species distribution along an environmental gradient.",
     "marks": 3,
-    "mark_scheme": ["lay tape across environmental gradient", "place quadrats at set intervals along line", "record species presence or abundance", "analyse changes along transect"],
-    "topic": "Biodiversity",
-    "subtopic": "Sampling techniques",
+    "mark_scheme": [
+      "place tape measure along gradient such as moisture or light change",
+      "place quadrats at regular intervals along the transect",
+      "record abundance or presence of species",
+      "analyse how communities shift along gradient"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Explain the difference between species richness and species evenness.",
+    "question": "Explain the difference between species richness and species evenness and how they contribute to describing biodiversity within an ecosystem.",
     "marks": 2,
-    "mark_scheme": ["species richness is number of species present", "species evenness is relative abundance of each species"],
-    "topic": "Biodiversity",
-    "subtopic": "Biodiversity measures",
+    "mark_scheme": [
+      "species richness is the number of species present",
+      "species evenness is how similar the abundances of each species are"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Discuss how the Simpson’s Index of Diversity is used to assess biodiversity.",
+    "question": "Discuss how Simpson’s Index of Diversity can be used to assess biodiversity within an ecosystem.",
     "marks": 5,
-    "mark_scheme": ["uses species abundance data", "value increases with both evenness and richness", "accounts for dominance by one species", "higher D indicates more stable ecosystem", "useful for comparing habitats", "sensitive to changes in populations"],
-    "topic": "Biodiversity",
-    "subtopic": "Biodiversity measures",
+    "mark_scheme": [
+      "uses species abundance data",
+      "increases with both richness and evenness",
+      "accounts for dominance by a single species",
+      "higher D indicates more stable ecosystem",
+      "useful for comparing habitats or monitoring changes over time",
+      "sensitive to population fluctuations"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Describe how succession leads to the development of a climax community.",
+    "question": "Describe how primary succession leads to the formation of a climax community.",
     "marks": 4,
-    "mark_scheme": ["pioneer species colonise bare habitat", "modify environment making it suitable for new species", "increasing soil depth and nutrients", "more complex communities form over time", "results in stable climax community"],
-    "topic": "Biodiversity",
-    "subtopic": "Succession",
+    "mark_scheme": [
+      "pioneer species colonise bare substrate",
+      "modify environment by adding organic matter and improving soil",
+      "conditions become suitable for more complex species",
+      "species diversity increases through seral stages",
+      "stable climax community forms"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Explain how human activities can interrupt or manage succession.",
+    "question": "Explain how human activities such as grazing or deforestation can alter the natural process of succession.",
     "marks": 3,
-    "mark_scheme": ["grazing prevents establishment of shrubs/trees", "mowing removes species before maturation", "controlled burning resets succession", "used to maintain plagioclimax communities"],
-    "topic": "Biodiversity",
-    "subtopic": "Succession",
+    "mark_scheme": [
+      "grazing removes young plants preventing progression to later seral stages",
+      "mowing or burning resets succession",
+      "creates a plagioclimax maintained by continuous disturbance"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Describe the difference between in situ and ex situ conservation.",
+    "question": "Describe the difference between conservation methods that protect species within their natural ecosystems and those that involve removing species to managed environments.",
     "marks": 2,
-    "mark_scheme": ["in situ involves protecting species in their natural habitat", "ex situ involves removing species to protected locations such as zoos or seed banks"],
-    "topic": "Biodiversity",
-    "subtopic": "Conservation strategies",
+    "mark_scheme": [
+      "in situ conservation protects species in their natural habitat",
+      "ex situ involves relocating species to zoos, seed banks or botanical gardens"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Evaluate the advantages of in situ conservation compared to ex situ conservation.",
+    "question": "Evaluate the advantages and limitations of managing ecosystems through in situ conservation strategies.",
     "marks": 6,
-    "mark_scheme": ["maintains natural behaviours", "preserves ecological interactions", "protects entire habitat and other species", "may be cheaper long term", "avoids issues of reintroduction", "ex situ useful when in situ impossible", "seed banks allow long-term storage"],
-    "topic": "Biodiversity",
-    "subtopic": "Conservation strategies",
+    "mark_scheme": [
+      "maintains natural behaviours and ecological interactions",
+      "protects whole habitats and communities",
+      "less disruption to species",
+      "may be cheaper long-term",
+      "avoids reintroduction difficulties",
+      "limitations include land-use conflict, poaching, or ongoing habitat threats"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Explain why maintaining genetic diversity is important for species survival.",
+    "question": "Explain why maintaining genetic diversity within populations is important for ecosystem stability.",
     "marks": 3,
-    "mark_scheme": ["enables adaptation to environmental change", "reduces risk of inbreeding depression", "increases resilience to disease"],
-    "topic": "Biodiversity",
-    "subtopic": "Genetic diversity",
+    "mark_scheme": [
+      "allows adaptation to environmental change",
+      "reduces effects of inbreeding depression",
+      "improves disease resistance and population resilience"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Describe how selective logging and replanting can help conserve forest biodiversity.",
+    "question": "Describe how sustainable forestry methods such as selective logging and replanting help maintain ecosystem function.",
     "marks": 4,
-    "mark_scheme": ["selective logging removes only certain trees", "reduces habitat destruction", "replanting restores canopy structure", "maintains soil stability and ecosystem processes", "allows recovery of species diversity"],
-    "topic": "Biodiversity",
-    "subtopic": "Conservation strategies",
+    "mark_scheme": [
+      "selective logging reduces habitat destruction",
+      "replanting restores canopy structure and biodiversity",
+      "maintains soil stability and nutrient cycles",
+      "allows ecosystem recovery and supports long-term productivity"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Explain the role of international agreements such as CITES in protecting biodiversity.",
+    "question": "Explain how international agreements such as CITES support ecosystem conservation.",
     "marks": 3,
-    "mark_scheme": ["controls trade of endangered species", "prevents exploitation", "encourages cooperation between countries", "reduces illegal hunting and collection"],
-    "topic": "Biodiversity",
-    "subtopic": "Conservation strategies",
+    "mark_scheme": [
+      "controls trade in endangered species",
+      "reduces exploitation and illegal collection",
+      "promotes global cooperation to protect biodiversity"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Discuss how climate change may affect global patterns of biodiversity.",
+    "question": "Discuss how climate change can alter ecosystem structure and species distribution.",
     "marks": 6,
-    "mark_scheme": ["shifts in species distribution", "altered migration patterns", "habitat loss such as coral bleaching", "increased extinction risk", "species unable to adapt quickly", "increased spread of pests and invasive species"],
-    "topic": "Biodiversity",
-    "subtopic": "Human impacts",
+    "mark_scheme": [
+      "changes temperature and rainfall patterns",
+      "shifts species distributions poleward or to higher altitudes",
+      "disrupts migration and breeding cycles",
+      "increases extinction risk",
+      "causes habitat loss such as coral bleaching",
+      "facilitates spread of pests and invasive species"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Explain how invasive species can reduce local biodiversity.",
+    "question": "Explain how invasive species can disrupt existing ecosystem interactions.",
     "marks": 3,
-    "mark_scheme": ["compete with native species for resources", "may introduce disease", "lack natural predators so populations grow rapidly"],
-    "topic": "Biodiversity",
-    "subtopic": "Human impacts",
+    "mark_scheme": [
+      "compete with native species for resources",
+      "introduce disease",
+      "population increases due to absence of natural predators"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Describe why endemic species are particularly vulnerable to extinction.",
+    "question": "Describe why some species with restricted ranges are particularly vulnerable to ecosystem change.",
     "marks": 2,
-    "mark_scheme": ["restricted geographical range", "small population sizes", "more sensitive to habitat change"],
-    "topic": "Biodiversity",
-    "subtopic": "Species and ecosystems",
+    "mark_scheme": [
+      "small populations and narrow habitats",
+      "more sensitive to habitat loss or environmental change"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Changes in ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Explain how energy transfer efficiency between trophic levels influences ecosystem biodiversity.",
+    "question": "Explain how inefficiencies in energy transfer between trophic levels affect the structure of ecosystems.",
     "marks": 4,
-    "mark_scheme": ["only around 10% energy transferred to next level", "limits number of trophic levels", "affects population sizes", "higher productivity supports greater species diversity", "energy lost via respiration, excretion, heat"],
-    "topic": "Biodiversity",
-    "subtopic": "Ecosystem processes",
+    "mark_scheme": [
+      "only around 10% transferred to next trophic level",
+      "limits number of trophic levels",
+      "affects population sizes at higher levels",
+      "higher productivity supports greater biodiversity",
+      "energy lost through respiration, heat, egestion"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Energy transfer through ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Discuss how agriculture reduces biodiversity.",
+    "question": "Discuss how agricultural practices can reduce ecosystem biodiversity.",
     "marks": 5,
-    "mark_scheme": ["monoculture reduces species variety", "use of pesticides reduces insect diversity", "fertilisers cause eutrophication", "removal of hedgerows reduces habitats", "selective breeding reduces genetic diversity"],
-    "topic": "Biodiversity",
-    "subtopic": "Human impacts",
+    "mark_scheme": [
+      "monoculture decreases species variety",
+      "pesticides reduce insect populations",
+      "fertilisers cause eutrophication",
+      "removal of hedgerows reduces habitats",
+      "selective breeding reduces genetic diversity"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Explain how mark-release-recapture can be used to estimate population size.",
+    "question": "Explain how the mark–release–recapture method is used to estimate the population size of mobile organisms.",
     "marks": 3,
-    "mark_scheme": ["capture sample and mark individuals non-harmfully", "release and allow mixing", "recapture second sample", "use Lincoln Index N = (n1 × n2) ÷ m2"],
-    "topic": "Biodiversity",
-    "subtopic": "Sampling techniques",
+    "mark_scheme": [
+      "capture sample and mark organisms harmlessly",
+      "release and allow time for mixing",
+      "recapture second sample and count marked individuals",
+      "use Lincoln Index: (n1 × n2) ÷ m2"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "The nature of ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Describe how habitat fragmentation affects biodiversity.",
+    "question": "Describe how habitat fragmentation affects ecosystem dynamics.",
     "marks": 4,
-    "mark_scheme": ["creates smaller isolated populations", "reduces gene flow", "increases edge effects", "greater vulnerability to extinction", "reduces habitat quality"],
-    "topic": "Biodiversity",
-    "subtopic": "Human impacts",
+    "mark_scheme": [
+      "creates isolated smaller populations",
+      "reduces gene flow",
+      "increases edge effects",
+      "increases extinction risk",
+      "reduces habitat quality"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   },
   {
-    "question": "Evaluate the effectiveness of conservation breeding programmes in maintaining species survival.",
+    "question": "Evaluate the effectiveness of conservation breeding programmes in supporting ecosystem recovery.",
     "marks": 8,
-    "mark_scheme": ["maintain genetically diverse populations", "use studbooks to manage mating", "allow reintroduction into wild", "high cost and limited capacity", "inbreeding risk if population small", "behavioural changes reduce survival in wild", "necessary when species critically endangered", "works best when combined with habitat protection"],
-    "topic": "Biodiversity",
-    "subtopic": "Conservation strategies",
+    "mark_scheme": [
+      "maintain genetically diverse captive populations",
+      "studbooks used to manage breeding",
+      "can support reintroduction into natural habitats",
+      "high cost and limited capacity",
+      "risk of inbreeding in small populations",
+      "behaviour changes may reduce survival in wild",
+      "essential for critically endangered species",
+      "most effective when combined with habitat restoration"
+    ],
+    "topic": "Ecosystems",
+    "subtopic": "Human effects on ecosystems",
     "question_type": "longform",
     "wrong_choices": null
   }
