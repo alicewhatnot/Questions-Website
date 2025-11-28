@@ -111,7 +111,7 @@ async function loadLongform() {
     nextBtn.onclick = () => {
         // Save this question as asked
         const asked = store.get("askedLongformIds", []);
-        store.set("askedLongformIds", [...asked, question.id]);
+        store.set("askedLongformIds", [...asked, question.question]);
 
         loadLongform();
     };

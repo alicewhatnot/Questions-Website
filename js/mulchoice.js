@@ -99,7 +99,7 @@ async function loadMulChoice() {
 
         nextBtn.onclick = () => {
             const asked = store.get("askedMulChoiceIds", []);
-            store.set("askedMulChoiceIds", [...asked, question.id]);
+            store.set("askedMulChoiceIds", [...asked, question.question]);
             loadMulChoice();
         };
     }
